@@ -1,0 +1,1001 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,genres,user_rating,views_millions,budget_usd,is_original
+s1,tv show,Synthetic Title 1,Christopher Nolan,Tom Hanks,South Korea,42550,2014,R,5 S,Comedies,2.4,54.89,88451000,FALSE
+s2,movie ,Synthetic Title 2,Steven Spielberg,"Brad Pitt, Scarlett Johansson, Morgan Freeman",United Kingdom,45054,1993,TV-PG,140 min,Comedies,5.8,137.09,59729000,FALSE
+s3,TV Show,Synthetic Title 3,Martin Scorsese,"Tom Hanks, Scarlett Johansson",Canada,43117,2000,NR,4 Seasons,Crime TV Shows,2.3,32.69,45512000,FALSE
+s4,MOVIE,Synthetic Title 4,Greta Gerwig,Brad Pitt,Canada,42597,2013,TV-PG,180 m,Action & Adventure,5.1,107.85,97146000,FALSE
+s5,TV Show,Synthetic Title 5,Steven Spielberg,"Tom Hanks, Scarlett Johansson, Brad Pitt",United States,42506,2009,NR,9 Seasons,"Horror Movies, Thrillers",2,141.65,48429000,TRUE
+s6,Movie,Synthetic Title 6,Ava DuVernay,Viola Davis,India,42962,2020,NR,180mins,"International TV Shows, TV Dramas",6,3.56,54516000,FALSE
+s7,MOVIE,Synthetic Title 7,Ava DuVernay,Tom Hanks,Canada,44458,2002,PG-13,169 m,"Horror Movies, Thrillers",7.2,51.81,5602000,TRUE
+s8,Movie,Synthetic Title 8,Greta Gerwig,"Scarlett Johansson, Tom Hanks",France,"September 10, 2018",2020,TV-PG,143mins,Action & Adventure,5.2,69.79,27530000,TRUE
+s9,Movie,Synthetic Title 9,Bong Joon Ho,Scarlett Johansson,India,42773,2004,PG-13,169 m,Crime TV Shows,7.8,128.91,28367000,FALSE
+s10,TV Show,Synthetic Title 10,Martin Scorsese,"Tom Hanks, Brad Pitt, Viola Davis",United Kingdom,43230,2010,TV-PG,5 Seasons,Crime TV Shows,8.4,40.66,43556000,TRUE
+s11,TV Show,Synthetic Title 11,Greta Gerwig,Scarlett Johansson,France,44501,1990,PG-13,3 S,Documentaries,3.4,129.7,24662000,TRUE
+s12,MOVIE,Synthetic Title 12,,Scarlett Johansson,France,42273,2013,TV-PG,155 min,Action & Adventure,2.7,84.86,92524000,TRUE
+s13,movie ,Synthetic Title 13,,Leonardo DiCaprio,Japan,"April 05, 2016",2017,TV-14,180mins,Crime TV Shows,7.9,6.83,93700000,FALSE
+s14,TV Show,Synthetic Title 14,Steven Spielberg,"Zendaya, Morgan Freeman",United States,"November 26, 2022",2021,PG-13,2 S,Comedies,1.1,92.46,5279000,TRUE
+s15,tv show,Synthetic Title 15,Bong Joon Ho,"Morgan Freeman, Scarlett Johansson",Japan,43098,2021,NR,1 S,Action & Adventure,9.3,69.94,85953000,FALSE
+s16,MOVIE,Synthetic Title 16,Christopher Nolan,Leonardo DiCaprio,United Kingdom,43919,2007,NR,155 min,Action & Adventure,5.5,17.04,23317000,TRUE
+s17,movie ,Synthetic Title 17,Steven Spielberg,"Zendaya, Morgan Freeman, Scarlett Johansson",France,42088,2008,TV-MA,123 min,Crime TV Shows,3.5,106.71,73412000,FALSE
+s18,MOVIE,Synthetic Title 18,Steven Spielberg,"Tom Hanks, Brad Pitt",Canada,"November 06, 2021",2011,R,167 min,"International TV Shows, TV Dramas",9,105.52,9191000,FALSE
+s19,TV Show,Synthetic Title 19,Ava DuVernay,"Zendaya, Tom Hanks, Viola Davis",United Kingdom,"September 30, 2019",1991,TV-14,6 S,Crime TV Shows,5.8,81.88,55885000,FALSE
+s20,Movie,Synthetic Title 20,,"Morgan Freeman, Scarlett Johansson, Leonardo DiCaprio",United States,"May 14, 2023",1990,PG-13,84mins,"International TV Shows, TV Dramas",4.4,67.83,63670000,TRUE
+s21,tv show,Synthetic Title 21,Greta Gerwig,"Viola Davis, Leonardo DiCaprio, Scarlett Johansson",United States,43419,2001,TV-MA,7 Seasons,Documentaries,2.5,15.48,67851000,FALSE
+s22,tv show,Synthetic Title 22,Bong Joon Ho,Viola Davis,South Korea,"September 13, 2023",2023,R,2 S,Action & Adventure,7.7,62.6,53296000,FALSE
+s23,movie ,Synthetic Title 23,Martin Scorsese,"Tom Hanks, Scarlett Johansson, Zendaya",India,42232,2016,R,158 m,Action & Adventure,3.4,107.1,26104000,TRUE
+s24,Movie,Synthetic Title 24,Ava DuVernay,Viola Davis,Canada,"March 22, 2023",2023,TV-PG,92 m,"International TV Shows, TV Dramas",9.3,98.41,32574000,FALSE
+s25,tv show,Synthetic Title 25,,Morgan Freeman,South Korea,44054,2005,TV-PG,3 S,Action & Adventure,9.3,103.83,46509000,FALSE
+s26,Movie,Synthetic Title 26,Ava DuVernay,"Leonardo DiCaprio, Brad Pitt",Japan,44664,1990,PG-13,92mins,"International TV Shows, TV Dramas",4.9,74.92,54497000,TRUE
+s27,TV Show,Synthetic Title 27,Greta Gerwig,"Tom Hanks, Viola Davis",France,43317,2012,TV-MA,6 Seasons,Comedies,7.1,88.9,39382000,TRUE
+s28,MOVIE,Synthetic Title 28,Bong Joon Ho,"Viola Davis, Brad Pitt",Canada,"November 15, 2018",2001,NR,153 min,Action & Adventure,1.8,146.03,37605000,TRUE
+s29,movie ,Synthetic Title 29,Steven Spielberg,Zendaya,United States,45199,2018,TV-MA,99 min,"Horror Movies, Thrillers",2.4,3.83,60367000,FALSE
+s30,Movie,Synthetic Title 30,Christopher Nolan,Zendaya,France,44010,2008,TV-MA,136 m,Documentaries,4.7,118.66,64745000,TRUE
+s31,tv show,Synthetic Title 31,Bong Joon Ho,Zendaya,Canada,"December 07, 2018",2007,R,4 S,Action & Adventure,6.5,17.2,27107000,TRUE
+s32,Movie,Synthetic Title 32,Christopher Nolan,"Brad Pitt, Zendaya, Scarlett Johansson",Canada,"January 08, 2022",2012,NR,123 min,Action & Adventure,6.5,58.83,48591000,TRUE
+s33,TV Show,Synthetic Title 33,Bong Joon Ho,"Brad Pitt, Zendaya",Canada,42584,2016,NR,1 Season,Comedies,2.8,32.77,29751000,FALSE
+s34,movie ,Synthetic Title 34,Bong Joon Ho,Tom Hanks,India,"September 05, 2017",1999,NR,133 min,"Horror Movies, Thrillers",3.3,114.88,2798000,TRUE
+s35,MOVIE,Synthetic Title 35,Greta Gerwig,"Viola Davis, Zendaya",South Korea,"February 20, 2021",2023,TV-MA,154 min,"International TV Shows, TV Dramas",4.1,35.11,4613000,TRUE
+s36,Movie,Synthetic Title 36,Christopher Nolan,"Leonardo DiCaprio, Viola Davis",Canada,44684,2005,R,164mins,Comedies,1.3,141.31,6510000,TRUE
+s37,tv show,Synthetic Title 37,Greta Gerwig,"Zendaya, Scarlett Johansson",France,43463,2014,NR,7 S,Documentaries,7.3,131.26,30780000,FALSE
+s38,movie ,Synthetic Title 38,,"Viola Davis, Scarlett Johansson, Zendaya",South Korea,"February 11, 2017",2010,PG-13,106 m,Crime TV Shows,4.6,111.02,41643000,FALSE
+s39,MOVIE,Synthetic Title 39,,"Scarlett Johansson, Leonardo DiCaprio, Brad Pitt",United Kingdom,43098,2008,TV-MA,61 min,Documentaries,4.5,113.22,3263000,TRUE
+s40,tv show,Synthetic Title 40,Steven Spielberg,"Brad Pitt, Viola Davis",France,44253,1997,TV-14,10 Seasons,Documentaries,7,99.48,43188000,TRUE
+s41,Movie,Synthetic Title 41,Ava DuVernay,,Japan,"September 03, 2017",2015,PG-13,170 min,Comedies,1.7,11.06,80764000,TRUE
+s42,Movie,Synthetic Title 42,,Leonardo DiCaprio,"United States, Canada",42051,2007,R,165mins,Comedies,1.3,90.94,59399000,FALSE
+s43,TV Show,Synthetic Title 43,Christopher Nolan,Leonardo DiCaprio,Canada,44126,2022,NR,8 Seasons,Crime TV Shows,1,140.66,67445000,FALSE
+s44,tv show,Synthetic Title 44,Steven Spielberg,"Leonardo DiCaprio, Brad Pitt, Viola Davis","United States, Canada","September 12, 2017",2014,R,9 S,Documentaries,8.4,40.74,14645000,TRUE
+s45,TV Show,Synthetic Title 45,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio, Morgan Freeman",Canada,44804,2004,TV-PG,4 Seasons,Comedies,6.3,43.5,20174000,FALSE
+s46,tv show,Synthetic Title 46,Martin Scorsese,"Morgan Freeman, Brad Pitt",South Korea,"July 10, 2018",2023,TV-14,10 S,Comedies,1.8,79.59,49101000,TRUE
+s47,tv show,Synthetic Title 47,Christopher Nolan,"Zendaya, Morgan Freeman, Leonardo DiCaprio",South Korea,"September 12, 2022",2006,TV-MA,5 S,Action & Adventure,4.4,128.76,60291000,FALSE
+s48,MOVIE,Synthetic Title 48,Martin Scorsese,"Scarlett Johansson, Viola Davis",United States,"November 04, 2021",1990,TV-14,92mins,Documentaries,9,130.89,62461000,FALSE
+s49,MOVIE,Synthetic Title 49,Martin Scorsese,Viola Davis,United Kingdom,42040,2022,R,79 m,Action & Adventure,6.9,29.01,98542000,FALSE
+s50,tv show,Synthetic Title 50,Martin Scorsese,"Brad Pitt, Viola Davis, Leonardo DiCaprio",Japan,"May 30, 2023",2011,TV-14,7 S,Action & Adventure,5.3,15.62,80522000,TRUE
+s51,TV Show,Synthetic Title 51,,"Morgan Freeman, Brad Pitt",Japan,44158,1994,PG-13,7 Seasons,Action & Adventure,5.4,148.4,64104000,FALSE
+s52,movie ,Synthetic Title 52,,,"United States, Canada","December 22, 2018",2007,TV-MA,158mins,Documentaries,8.5,45.25,91837000,FALSE
+s53,movie ,Synthetic Title 53,Steven Spielberg,"Zendaya, Brad Pitt",India,"April 09, 2021",1998,PG-13,134 m,Crime TV Shows,6,79.78,71130000,TRUE
+s54,Movie,Synthetic Title 54,Martin Scorsese,Zendaya,France,44630,2002,NR,93mins,"Horror Movies, Thrillers",6.2,54.9,39441000,FALSE
+s55,Movie,Synthetic Title 55,Martin Scorsese,"Morgan Freeman, Scarlett Johansson, Viola Davis",United Kingdom,44507,2000,TV-MA,60mins,"International TV Shows, TV Dramas",8.6,69.32,10295000,FALSE
+s56,movie ,Synthetic Title 56,Martin Scorsese,"Morgan Freeman, Tom Hanks",France,43000,2007,TV-MA,129mins,Action & Adventure,4.9,143.85,9394000,FALSE
+s57,movie ,Synthetic Title 57,,"Leonardo DiCaprio, Brad Pitt, Morgan Freeman",Japan,43984,2013,TV-PG,83mins,Documentaries,6.1,109.75,75999000,TRUE
+s58,TV Show,Synthetic Title 58,Steven Spielberg,"Scarlett Johansson, Zendaya",Japan,43460,1995,TV-PG,8 S,"International TV Shows, TV Dramas",2.7,13.8,63972000,FALSE
+s59,movie ,Synthetic Title 59,Bong Joon Ho,"Leonardo DiCaprio, Zendaya",Japan,42401,1992,TV-PG,99 m,"International TV Shows, TV Dramas",2.1,47.47,77317000,TRUE
+s60,tv show,Synthetic Title 60,,"Zendaya, Morgan Freeman, Viola Davis",Japan,42519,2009,TV-14,4 S,"Horror Movies, Thrillers",7.3,47.64,56287000,FALSE
+s61,Movie,Synthetic Title 61,Bong Joon Ho,"Viola Davis, Brad Pitt",France,43918,1992,TV-MA,170 m,Crime TV Shows,2.8,49.89,58693000,FALSE
+s62,TV Show,Synthetic Title 62,Greta Gerwig,"Tom Hanks, Viola Davis",United States,42364,2023,PG-13,3 S,Comedies,5.9,54.68,86958000,TRUE
+s63,MOVIE,Synthetic Title 63,Greta Gerwig,Brad Pitt,Japan,44778,2009,TV-14,85 m,"International TV Shows, TV Dramas",9.9,59.96,96177000,TRUE
+s64,movie ,Synthetic Title 64,Christopher Nolan,"Tom Hanks, Leonardo DiCaprio","United States, Canada","March 04, 2016",2019,TV-14,102 m,Action & Adventure,6.1,106.54,22389000,TRUE
+s65,TV Show,Synthetic Title 65,,"Tom Hanks, Zendaya, Scarlett Johansson",Canada,45087,1999,NR,6 S,"Horror Movies, Thrillers",3.2,49.21,78172000,FALSE
+s66,movie ,Synthetic Title 66,Steven Spielberg,"Brad Pitt, Leonardo DiCaprio",United States,"January 17, 2017",2010,R,122mins,Action & Adventure,9.1,68.38,56491000,TRUE
+s67,MOVIE,Synthetic Title 67,Ava DuVernay,Scarlett Johansson,United Kingdom,43766,2000,TV-PG,126 m,Comedies,6.3,34.06,87333000,TRUE
+s68,TV Show,Synthetic Title 68,Ava DuVernay,"Morgan Freeman, Tom Hanks, Brad Pitt",United Kingdom,44994,2008,TV-MA,5 S,Crime TV Shows,6.2,117.02,96956000,TRUE
+s69,TV Show,Synthetic Title 69,Martin Scorsese,"Viola Davis, Zendaya",Japan,43612,2007,NR,8 Seasons,Action & Adventure,9.6,76.28,88196000,FALSE
+s70,movie ,Synthetic Title 70,Martin Scorsese,"Viola Davis, Zendaya, Brad Pitt",South Korea,42518,1992,TV-14,69mins,Action & Adventure,9.5,100.35,5463000,FALSE
+s71,tv show,Synthetic Title 71,Steven Spielberg,"Zendaya, Leonardo DiCaprio, Brad Pitt",Canada,"April 06, 2019",2003,R,4 Seasons,Documentaries,2.6,50.18,32611000,TRUE
+s72,Movie,Synthetic Title 72,Greta Gerwig,Leonardo DiCaprio,Canada,44833,2018,NR,62 m,Comedies,6.7,126.89,24356000,TRUE
+s73,movie ,Synthetic Title 73,Christopher Nolan,"Scarlett Johansson, Brad Pitt, Morgan Freeman",India,"October 09, 2023",2008,TV-14,162 min,Comedies,8.6,103.9,39226000,TRUE
+s74,tv show,Synthetic Title 74,Greta Gerwig,,United Kingdom,42831,1994,R,2 Seasons,Documentaries,3.4,80.24,73570000,TRUE
+s75,TV Show,Synthetic Title 75,Martin Scorsese,"Scarlett Johansson, Tom Hanks",Japan,45008,2016,TV-PG,3 S,"Horror Movies, Thrillers",3.7,143.83,79836000,FALSE
+s76,MOVIE,Synthetic Title 76,Greta Gerwig,"Zendaya, Leonardo DiCaprio, Brad Pitt",United States,45110,1991,TV-PG,72 m,"International TV Shows, TV Dramas",8.8,125.8,86160000,FALSE
+s77,MOVIE,Synthetic Title 77,Ava DuVernay,"Zendaya, Leonardo DiCaprio, Viola Davis",India,42428,2009,PG-13,160mins,"International TV Shows, TV Dramas",3.9,13.03,7898000,TRUE
+s78,movie ,Synthetic Title 78,Martin Scorsese,"Leonardo DiCaprio, Viola Davis, Morgan Freeman",United Kingdom,44246,1992,PG-13,132 m,Documentaries,1.2,115.43,4781000,TRUE
+s79,Movie,Synthetic Title 79,Steven Spielberg,"Scarlett Johansson, Viola Davis, Leonardo DiCaprio","United States, Canada","May 24, 2021",1992,R,113mins,Action & Adventure,1.1,14.07,20372000,FALSE
+s80,movie ,Synthetic Title 80,Ava DuVernay,"Morgan Freeman, Leonardo DiCaprio, Zendaya",South Korea,42397,2005,TV-MA,134mins,Action & Adventure,9.8,82.36,73393000,FALSE
+s81,TV Show,Synthetic Title 81,Christopher Nolan,"Leonardo DiCaprio, Viola Davis, Tom Hanks",Japan,43710,1990,NR,5 Seasons,Action & Adventure,1.1,94.22,92119000,FALSE
+s82,tv show,Synthetic Title 82,,"Viola Davis, Zendaya, Tom Hanks","United States, Canada",42020,2002,TV-MA,7 Seasons,"International TV Shows, TV Dramas",1.6,83.73,52641000,FALSE
+s83,MOVIE,Synthetic Title 83,Martin Scorsese,"Scarlett Johansson, Morgan Freeman",South Korea,"October 02, 2023",2009,TV-PG,145 m,"International TV Shows, TV Dramas",8.9,43.11,64570000,TRUE
+s84,MOVIE,Synthetic Title 84,Greta Gerwig,"Scarlett Johansson, Leonardo DiCaprio","United States, Canada",43626,2003,TV-PG,97 m,Crime TV Shows,8.1,26.78,93405000,FALSE
+s85,TV Show,Synthetic Title 85,Greta Gerwig,Scarlett Johansson,South Korea,"November 16, 2023",2023,TV-MA,4 Seasons,Documentaries,4,129.5,57668000,FALSE
+s86,MOVIE,Synthetic Title 86,Martin Scorsese,Zendaya,"United States, Canada","November 24, 2016",1992,TV-PG,84mins,"International TV Shows, TV Dramas",9,102.29,28486000,TRUE
+s87,MOVIE,Synthetic Title 87,Christopher Nolan,Morgan Freeman,France,"October 28, 2023",2007,TV-14,114mins,"International TV Shows, TV Dramas",7.1,85.39,32185000,FALSE
+s88,MOVIE,Synthetic Title 88,,"Brad Pitt, Morgan Freeman, Tom Hanks",United Kingdom,"September 02, 2017",2002,TV-MA,164mins,"Horror Movies, Thrillers",8.9,109.68,59588000,FALSE
+s89,TV Show,Synthetic Title 89,Steven Spielberg,Scarlett Johansson,India,"September 25, 2019",1993,TV-14,8 S,"Horror Movies, Thrillers",3.2,51.86,71970000,FALSE
+s90,TV Show,Synthetic Title 90,Christopher Nolan,"Zendaya, Scarlett Johansson",United Kingdom,44648,2011,TV-14,10 Seasons,"International TV Shows, TV Dramas",3.4,9.03,86236000,TRUE
+s91,TV Show,Synthetic Title 91,Steven Spielberg,Brad Pitt,France,44005,2020,TV-PG,3 Seasons,Documentaries,5.9,43.75,21108000,TRUE
+s92,movie ,Synthetic Title 92,,Brad Pitt,"United States, Canada",44176,2013,NR,100 m,Comedies,9.8,127.19,46876000,FALSE
+s93,TV Show,Synthetic Title 93,Christopher Nolan,"Viola Davis, Morgan Freeman",France,42528,1993,TV-PG,4 Seasons,Comedies,9.5,56.18,97273000,FALSE
+s94,MOVIE,Synthetic Title 94,Bong Joon Ho,"Viola Davis, Zendaya",Canada,43814,1990,PG-13,113 min,Crime TV Shows,7.5,62.43,43365000,FALSE
+s95,TV Show,Synthetic Title 95,,"Morgan Freeman, Tom Hanks, Leonardo DiCaprio",Canada,"June 11, 2018",1994,TV-PG,6 S,Crime TV Shows,5.8,116.79,12742000,TRUE
+s96,TV Show,Synthetic Title 96,Ava DuVernay,"Leonardo DiCaprio, Scarlett Johansson, Brad Pitt",France,"December 07, 2017",2002,R,7 Seasons,"Horror Movies, Thrillers",3.3,27.36,85986000,FALSE
+s97,Movie,Synthetic Title 97,Bong Joon Ho,"Scarlett Johansson, Leonardo DiCaprio",United States,44154,2006,TV-14,64mins,Action & Adventure,8.8,32.5,48749000,FALSE
+s98,MOVIE,Synthetic Title 98,Ava DuVernay,Morgan Freeman,South Korea,"November 20, 2017",2002,TV-MA,122 m,"International TV Shows, TV Dramas",1.2,100.85,41898000,TRUE
+s99,TV Show,Synthetic Title 99,Martin Scorsese,Morgan Freeman,Japan,43384,2014,PG-13,9 Seasons,Documentaries,1.5,130.98,81141000,FALSE
+s100,movie ,Synthetic Title 100,Bong Joon Ho,Scarlett Johansson,South Korea,"August 25, 2017",2001,TV-14,169mins,"International TV Shows, TV Dramas",6.3,118.94,53981000,TRUE
+s101,Movie,Synthetic Title 101,Steven Spielberg,"Viola Davis, Leonardo DiCaprio, Brad Pitt",South Korea,"September 27, 2016",2023,R,142 m,Documentaries,2.7,130.72,49469000,TRUE
+s102,TV Show,Synthetic Title 102,Greta Gerwig,,India,44125,2011,NR,2 Seasons,Documentaries,6.5,67.61,16999000,FALSE
+s103,tv show,Synthetic Title 103,,,United States,45186,2011,TV-MA,3 S,Crime TV Shows,7.9,70.84,43949000,FALSE
+s104,TV Show,Synthetic Title 104,Ava DuVernay,"Zendaya, Tom Hanks, Leonardo DiCaprio",France,43577,1992,TV-14,10 S,"International TV Shows, TV Dramas",2.2,73.11,43946000,FALSE
+s105,Movie,Synthetic Title 105,Steven Spielberg,"Viola Davis, Morgan Freeman, Brad Pitt",India,44906,1990,TV-14,131 min,Documentaries,7.9,63.94,74217000,FALSE
+s106,TV Show,Synthetic Title 106,Ava DuVernay,"Leonardo DiCaprio, Brad Pitt, Morgan Freeman",United Kingdom,"October 16, 2021",2018,TV-MA,7 S,"Horror Movies, Thrillers",1.4,105.46,42944000,TRUE
+s107,TV Show,Synthetic Title 107,Martin Scorsese,Tom Hanks,Japan,"July 10, 2016",1997,PG-13,5 Seasons,Crime TV Shows,5.4,96.97,51230000,TRUE
+s108,MOVIE,Synthetic Title 108,Martin Scorsese,,South Korea,43872,1990,PG-13,155 m,Crime TV Shows,7.1,47.45,47852000,FALSE
+s109,tv show,Synthetic Title 109,Bong Joon Ho,Viola Davis,South Korea,43520,2019,TV-MA,3 Seasons,"Horror Movies, Thrillers",3.1,33.83,59618000,TRUE
+s110,MOVIE,Synthetic Title 110,Ava DuVernay,Morgan Freeman,"United States, Canada","February 11, 2022",2023,TV-14,85 m,Documentaries,2.6,76.15,8118000,TRUE
+s111,MOVIE,Synthetic Title 111,Christopher Nolan,,"United States, Canada",43939,2009,NR,139 min,Comedies,6.6,9.69,62835000,FALSE
+s112,movie ,Synthetic Title 112,Bong Joon Ho,"Morgan Freeman, Tom Hanks",India,43987,2020,TV-14,119 m,Comedies,3.8,126.24,82858000,FALSE
+s113,TV Show,Synthetic Title 113,Ava DuVernay,Zendaya,"United States, Canada",45189,2022,R,5 Seasons,"Horror Movies, Thrillers",9.9,97.17,21787000,FALSE
+s114,tv show,Synthetic Title 114,Greta Gerwig,"Tom Hanks, Leonardo DiCaprio",Canada,"April 15, 2019",2013,NR,7 S,Documentaries,1.4,36.49,94732000,TRUE
+s115,Movie,Synthetic Title 115,Christopher Nolan,"Viola Davis, Morgan Freeman, Brad Pitt","United States, Canada",44573,2003,TV-MA,136 min,Documentaries,9.6,101.15,83877000,TRUE
+s116,movie ,Synthetic Title 116,,"Zendaya, Morgan Freeman, Viola Davis",India,42963,1991,TV-14,97mins,Action & Adventure,3.1,135.76,6124000,FALSE
+s117,tv show,Synthetic Title 117,Martin Scorsese,"Zendaya, Viola Davis",Japan,45121,2017,NR,10 S,Action & Adventure,3.7,10.55,4936000,FALSE
+s118,tv show,Synthetic Title 118,Ava DuVernay,"Brad Pitt, Morgan Freeman",United States,"January 28, 2021",2010,TV-MA,1 S,Crime TV Shows,2.9,33.52,39221000,FALSE
+s119,Movie,Synthetic Title 119,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio","United States, Canada","August 03, 2019",1990,TV-MA,99 m,"Horror Movies, Thrillers",9.2,96.17,75558000,TRUE
+s120,Movie,Synthetic Title 120,Greta Gerwig,Leonardo DiCaprio,France,"October 19, 2020",2012,TV-14,63 m,"Horror Movies, Thrillers",9.3,22.66,60319000,FALSE
+s121,Movie,Synthetic Title 121,Bong Joon Ho,"Brad Pitt, Scarlett Johansson",United Kingdom,42558,1991,TV-MA,142 m,Crime TV Shows,1.5,130.37,6713000,TRUE
+s122,movie ,Synthetic Title 122,Christopher Nolan,"Scarlett Johansson, Tom Hanks, Leonardo DiCaprio",Japan,43374,1997,NR,129mins,"Horror Movies, Thrillers",6.6,77.13,3326000,TRUE
+s123,Movie,Synthetic Title 123,Ava DuVernay,"Brad Pitt, Scarlett Johansson",France,44437,2011,PG-13,161 min,Crime TV Shows,8.2,2.43,88446000,TRUE
+s124,Movie,Synthetic Title 124,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Brad Pitt","United States, Canada","January 12, 2022",2012,NR,175 min,"International TV Shows, TV Dramas",4.4,24.05,30909000,TRUE
+s125,Movie,Synthetic Title 125,Steven Spielberg,"Viola Davis, Leonardo DiCaprio",France,"October 15, 2019",2019,PG-13,117 m,"Horror Movies, Thrillers",2.2,17.89,31512000,TRUE
+s126,tv show,Synthetic Title 126,Greta Gerwig,"Tom Hanks, Leonardo DiCaprio, Brad Pitt","United States, Canada","April 04, 2022",1999,TV-PG,8 Seasons,Comedies,1.6,87.39,69970000,FALSE
+s127,TV Show,Synthetic Title 127,Christopher Nolan,Scarlett Johansson,United States,"March 15, 2022",1993,TV-14,4 S,Documentaries,5,50.83,100445000,FALSE
+s128,TV Show,Synthetic Title 128,,"Viola Davis, Tom Hanks","United States, Canada",42425,2001,TV-MA,2 S,Action & Adventure,7.6,126.07,31778000,TRUE
+s129,TV Show,Synthetic Title 129,Christopher Nolan,,France,43038,2007,TV-14,4 S,Documentaries,8.8,86.05,48406000,FALSE
+s130,Movie,Synthetic Title 130,Martin Scorsese,"Tom Hanks, Morgan Freeman",Canada,42925,2004,PG-13,146 m,"International TV Shows, TV Dramas",5,3.7,71319000,FALSE
+s131,TV Show,Synthetic Title 131,,,France,"March 21, 2017",2000,TV-MA,4 Seasons,Documentaries,5.3,95.32,72870000,FALSE
+s132,movie ,Synthetic Title 132,Steven Spielberg,Morgan Freeman,United Kingdom,"September 08, 2018",2021,TV-14,123 m,Documentaries,7.9,75.47,89799000,TRUE
+s133,tv show,Synthetic Title 133,Steven Spielberg,"Tom Hanks, Brad Pitt",South Korea,44992,2014,NR,4 Seasons,Action & Adventure,5.1,138.6,67572000,TRUE
+s134,tv show,Synthetic Title 134,Christopher Nolan,"Viola Davis, Morgan Freeman, Tom Hanks",United Kingdom,"December 04, 2021",1992,NR,8 Seasons,Action & Adventure,4.4,42.27,58598000,FALSE
+s135,movie ,Synthetic Title 135,Martin Scorsese,Zendaya,India,42308,2004,TV-MA,176 min,"Horror Movies, Thrillers",8.3,55.61,97725000,TRUE
+s136,TV Show,Synthetic Title 136,,"Morgan Freeman, Leonardo DiCaprio, Viola Davis",India,"August 04, 2017",2012,PG-13,2 S,"Horror Movies, Thrillers",4,65.08,30231000,TRUE
+s137,Movie,Synthetic Title 137,Ava DuVernay,Leonardo DiCaprio,Japan,44353,2016,R,63mins,"Horror Movies, Thrillers",6.4,66.26,71905000,TRUE
+s138,Movie,Synthetic Title 138,Bong Joon Ho,Brad Pitt,India,"April 30, 2021",2021,TV-PG,141mins,Action & Adventure,4.1,147.39,52924000,FALSE
+s139,TV Show,Synthetic Title 139,,"Viola Davis, Zendaya",France,44095,2008,NR,2 S,"International TV Shows, TV Dramas",3.4,66.63,2438000,TRUE
+s140,tv show,Synthetic Title 140,Steven Spielberg,"Brad Pitt, Tom Hanks","United States, Canada","April 08, 2017",2008,TV-14,7 Seasons,"Horror Movies, Thrillers",9.1,130.38,62901000,FALSE
+s141,tv show,Synthetic Title 141,Steven Spielberg,Morgan Freeman,"United States, Canada",43606,1998,NR,10 S,"International TV Shows, TV Dramas",9.9,15.65,23427000,FALSE
+s142,MOVIE,Synthetic Title 142,,"Morgan Freeman, Tom Hanks, Viola Davis","United States, Canada",42162,1991,PG-13,109 m,Crime TV Shows,2.5,37.31,26918000,FALSE
+s143,Movie,Synthetic Title 143,Steven Spielberg,"Brad Pitt, Scarlett Johansson",France,42441,1992,NR,89mins,Action & Adventure,4.3,99.44,93658000,TRUE
+s144,MOVIE,Synthetic Title 144,Steven Spielberg,"Viola Davis, Morgan Freeman, Tom Hanks",South Korea,43752,2010,NR,152 m,Crime TV Shows,9.5,63.51,59109000,TRUE
+s145,TV Show,Synthetic Title 145,,"Leonardo DiCaprio, Viola Davis",United Kingdom,44591,2003,TV-PG,6 Seasons,Comedies,8.3,111,49309000,FALSE
+s146,Movie,Synthetic Title 146,Christopher Nolan,"Morgan Freeman, Viola Davis",United States,43802,2023,R,94 min,Comedies,8.3,32.66,52831000,FALSE
+s147,movie ,Synthetic Title 147,Martin Scorsese,"Leonardo DiCaprio, Viola Davis, Tom Hanks",Japan,42589,2020,PG-13,103 m,Action & Adventure,1.6,42.94,99590000,TRUE
+s148,tv show,Synthetic Title 148,Christopher Nolan,"Brad Pitt, Scarlett Johansson, Viola Davis",United Kingdom,"April 13, 2018",2006,TV-14,8 Seasons,Documentaries,5.2,123.17,33927000,FALSE
+s149,tv show,Synthetic Title 149,Christopher Nolan,"Zendaya, Leonardo DiCaprio, Tom Hanks",United Kingdom,44872,1999,TV-MA,2 S,Comedies,5.5,149.69,50605000,FALSE
+s150,MOVIE,Synthetic Title 150,Bong Joon Ho,Zendaya,United Kingdom,"June 20, 2016",2010,NR,114 m,Crime TV Shows,4.5,10.44,59684000,FALSE
+s151,tv show,Synthetic Title 151,,"Zendaya, Morgan Freeman",India,"July 15, 2015",2007,NR,8 S,"Horror Movies, Thrillers",6.3,22.71,46794000,FALSE
+s152,movie ,Synthetic Title 152,Christopher Nolan,"Tom Hanks, Scarlett Johansson",United Kingdom,43406,2022,PG-13,150 min,"Horror Movies, Thrillers",6.8,122.32,45720000,TRUE
+s153,Movie,Synthetic Title 153,Greta Gerwig,Leonardo DiCaprio,United Kingdom,"January 30, 2020",2015,TV-PG,78 min,Comedies,9.1,48.37,67649000,FALSE
+s154,MOVIE,Synthetic Title 154,Ava DuVernay,Scarlett Johansson,"United States, Canada",42624,2016,TV-PG,101mins,"Horror Movies, Thrillers",6.7,120.07,80400000,FALSE
+s155,tv show,Synthetic Title 155,,"Leonardo DiCaprio, Tom Hanks",United Kingdom,43423,1995,TV-PG,3 Seasons,"Horror Movies, Thrillers",5.3,145.29,56770000,FALSE
+s156,TV Show,Synthetic Title 156,Greta Gerwig,Scarlett Johansson,Japan,42815,1993,PG-13,7 Seasons,Comedies,6,43.93,50739000,FALSE
+s157,movie ,Synthetic Title 157,Steven Spielberg,"Tom Hanks, Morgan Freeman",United States,42424,2009,R,174mins,"Horror Movies, Thrillers",5.7,63.24,25497000,TRUE
+s158,Movie,Synthetic Title 158,Greta Gerwig,,France,43932,2016,TV-MA,138 m,Crime TV Shows,5.7,125.77,24341000,TRUE
+s159,TV Show,Synthetic Title 159,Ava DuVernay,,"United States, Canada",44001,2013,PG-13,4 Seasons,Crime TV Shows,7.4,142.37,78527000,FALSE
+s160,tv show,Synthetic Title 160,Bong Joon Ho,Morgan Freeman,United States,44645,2012,TV-PG,3 S,Crime TV Shows,8.9,8.19,65752000,TRUE
+s161,TV Show,Synthetic Title 161,Greta Gerwig,Brad Pitt,South Korea,43966,1995,NR,1 Season,"Horror Movies, Thrillers",9.2,83.25,84359000,FALSE
+s162,TV Show,Synthetic Title 162,Greta Gerwig,"Tom Hanks, Brad Pitt, Morgan Freeman",South Korea,43157,2002,PG-13,8 S,Comedies,7.7,33.83,96667000,TRUE
+s163,movie ,Synthetic Title 163,Steven Spielberg,Brad Pitt,France,"September 08, 2021",1997,R,79 min,Documentaries,1.4,2.32,6961000,FALSE
+s164,Movie,Synthetic Title 164,,"Tom Hanks, Scarlett Johansson, Brad Pitt",United States,"November 16, 2020",2015,NR,156 m,"International TV Shows, TV Dramas",999,68.57,29338000,TRUE
+s165,tv show,Synthetic Title 165,Greta Gerwig,"Brad Pitt, Viola Davis",United Kingdom,"July 25, 2023",2016,PG-13,4 Seasons,Crime TV Shows,9.3,35.73,60528000,FALSE
+s166,tv show,Synthetic Title 166,Greta Gerwig,"Scarlett Johansson, Tom Hanks",France,"January 05, 2016",1992,PG-13,2 Seasons,Crime TV Shows,3.9,15.93,1183000,TRUE
+s167,tv show,Synthetic Title 167,Martin Scorsese,Morgan Freeman,France,42835,2019,PG-13,2 S,"Horror Movies, Thrillers",4.9,127.93,46139000,FALSE
+s168,movie ,Synthetic Title 168,Christopher Nolan,"Morgan Freeman, Scarlett Johansson",South Korea,43517,2020,PG-13,101mins,"Horror Movies, Thrillers",8,54.46,38375000,FALSE
+s169,Movie,Synthetic Title 169,Martin Scorsese,"Brad Pitt, Scarlett Johansson, Morgan Freeman",Japan,"November 01, 2018",2006,TV-PG,89mins,Documentaries,6.9,16.26,66366000,TRUE
+s170,tv show,Synthetic Title 170,,Zendaya,India,42005,1991,TV-MA,1 S,Documentaries,2.5,25.74,72507000,TRUE
+s171,TV Show,Synthetic Title 171,Ava DuVernay,Leonardo DiCaprio,Japan,42931,1993,NR,10 S,Documentaries,2.5,55.9,3945000,TRUE
+s172,tv show,Synthetic Title 172,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio",India,44303,2015,TV-14,3 S,Documentaries,8.7,95.14,28904000,TRUE
+s173,tv show,Synthetic Title 173,Greta Gerwig,Morgan Freeman,Japan,42507,1994,TV-MA,9 Seasons,Action & Adventure,1.9,101.25,93478000,FALSE
+s174,TV Show,Synthetic Title 174,Martin Scorsese,"Leonardo DiCaprio, Viola Davis",Japan,45073,2019,TV-14,8 Seasons,Comedies,9.4,89.44,59768000,TRUE
+s175,tv show,Synthetic Title 175,Christopher Nolan,"Scarlett Johansson, Tom Hanks, Leonardo DiCaprio",India,"May 01, 2016",1994,PG-13,2 Seasons,Crime TV Shows,9,32.72,98914000,TRUE
+s176,TV Show,Synthetic Title 176,Martin Scorsese,"Zendaya, Viola Davis, Tom Hanks",France,45022,2010,NR,2 Seasons,"Horror Movies, Thrillers",5.8,25.17,8548000,FALSE
+s177,movie ,Synthetic Title 177,Steven Spielberg,"Viola Davis, Zendaya",United Kingdom,42042,1998,PG-13,73mins,Documentaries,6.6,147.99,68946000,FALSE
+s178,TV Show,Synthetic Title 178,Martin Scorsese,"Zendaya, Tom Hanks",India,42291,2004,TV-PG,1 Season,"International TV Shows, TV Dramas",3.4,82.68,85758000,TRUE
+s179,TV Show,Synthetic Title 179,Ava DuVernay,Viola Davis,India,"November 29, 2017",2017,TV-MA,4 S,Action & Adventure,9.3,15.99,3207000,TRUE
+s180,movie ,Synthetic Title 180,Steven Spielberg,"Morgan Freeman, Viola Davis",South Korea,"July 28, 2020",1990,TV-MA,88 m,Documentaries,9.9,56.79,19345000,TRUE
+s181,TV Show,Synthetic Title 181,Ava DuVernay,Leonardo DiCaprio,France,45176,2013,TV-MA,6 S,Comedies,7.4,98.33,82255000,FALSE
+s182,Movie,Synthetic Title 182,Christopher Nolan,Leonardo DiCaprio,Japan,43083,2023,TV-PG,165mins,Comedies,6.3,26.73,30377000,FALSE
+s183,movie ,Synthetic Title 183,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio",United States,42520,2018,TV-PG,84mins,Documentaries,5.9,47.41,82875000,TRUE
+s184,MOVIE,Synthetic Title 184,Christopher Nolan,Viola Davis,India,42446,2014,TV-MA,171 min,Crime TV Shows,4.6,128.29,67529000,TRUE
+s185,Movie,Synthetic Title 185,Greta Gerwig,"Zendaya, Viola Davis",India,"June 11, 2023",2014,TV-14,122 m,Crime TV Shows,3.8,3.07,84627000,FALSE
+s186,MOVIE,Synthetic Title 186,Greta Gerwig,"Tom Hanks, Viola Davis","United States, Canada",42542,2016,R,85 m,"Horror Movies, Thrillers",1.5,88.28,60641000,FALSE
+s187,MOVIE,Synthetic Title 187,Greta Gerwig,"Leonardo DiCaprio, Viola Davis",France,"January 29, 2023",1995,TV-14,150 min,"Horror Movies, Thrillers",6.5,93.83,94471000,TRUE
+s188,tv show,Synthetic Title 188,Martin Scorsese,"Viola Davis, Tom Hanks",South Korea,"January 04, 2022",2010,R,2 Seasons,Action & Adventure,5.5,55.64,79904000,FALSE
+s189,tv show,Synthetic Title 189,Christopher Nolan,"Brad Pitt, Viola Davis",France,"August 28, 2018",2007,TV-14,10 Seasons,"International TV Shows, TV Dramas",4.2,76.33,46339000,TRUE
+s190,TV Show,Synthetic Title 190,Steven Spielberg,"Leonardo DiCaprio, Scarlett Johansson",United Kingdom,"November 25, 2016",1993,R,10 Seasons,Documentaries,8.6,62.91,31747000,FALSE
+s191,tv show,Synthetic Title 191,Steven Spielberg,Brad Pitt,United States,44956,1997,R,2 Seasons,Action & Adventure,2,66.27,69620000,FALSE
+s192,TV Show,Synthetic Title 192,Ava DuVernay,Leonardo DiCaprio,United Kingdom,"May 17, 2017",1999,TV-14,5 Seasons,"International TV Shows, TV Dramas",5.3,133.8,23456000,FALSE
+s193,TV Show,Synthetic Title 193,,"Leonardo DiCaprio, Scarlett Johansson",Canada,43427,1990,TV-14,10 Seasons,Documentaries,3.4,76.29,41964000,FALSE
+s194,Movie,Synthetic Title 194,Bong Joon Ho,"Leonardo DiCaprio, Scarlett Johansson, Viola Davis",India,43848,1995,TV-MA,171mins,Comedies,8.3,78.81,14719000,TRUE
+s195,movie ,Synthetic Title 195,Martin Scorsese,"Brad Pitt, Zendaya",United States,43910,1997,TV-MA,142 m,"International TV Shows, TV Dramas",3.3,84.39,65320000,TRUE
+s196,MOVIE,Synthetic Title 196,Martin Scorsese,,India,42455,2000,TV-MA,87mins,"International TV Shows, TV Dramas",7.9,72.6,72671000,TRUE
+s197,tv show,Synthetic Title 197,Bong Joon Ho,"Morgan Freeman, Zendaya, Brad Pitt",United States,"February 26, 2018",2000,R,8 Seasons,"Horror Movies, Thrillers",8.1,43.48,88701000,FALSE
+s198,tv show,Synthetic Title 198,,"Morgan Freeman, Scarlett Johansson",South Korea,43264,2010,PG-13,9 Seasons,Crime TV Shows,7,142.59,60650000,TRUE
+s199,MOVIE,Synthetic Title 199,Christopher Nolan,"Morgan Freeman, Brad Pitt",United States,43230,2005,TV-MA,127mins,Documentaries,2.6,123.87,45193000,TRUE
+s200,MOVIE,Synthetic Title 200,Christopher Nolan,"Brad Pitt, Scarlett Johansson, Viola Davis",United States,44160,2016,NR,168 m,Documentaries,6.8,111.55,36648000,FALSE
+s201,MOVIE,Synthetic Title 201,Martin Scorsese,"Scarlett Johansson, Leonardo DiCaprio, Brad Pitt",India,"December 22, 2022",2000,R,135 min,"Horror Movies, Thrillers",1.7,104.95,84613000,TRUE
+s202,Movie,Synthetic Title 202,Martin Scorsese,,India,42950,2004,TV-14,62 min,Documentaries,1.3,139.37,67895000,FALSE
+s203,MOVIE,Synthetic Title 203,,Tom Hanks,India,"June 30, 2017",2004,TV-PG,62mins,Comedies,4.5,142.17,81499000,FALSE
+s204,TV Show,Synthetic Title 204,Greta Gerwig,"Scarlett Johansson, Viola Davis",Japan,44474,1994,NR,8 Seasons,"Horror Movies, Thrillers",9.1,89.35,73638000,TRUE
+s205,MOVIE,Synthetic Title 205,Steven Spielberg,"Scarlett Johansson, Zendaya",Japan,"September 02, 2016",2012,R,123 m,"Horror Movies, Thrillers",4.7,119.88,53122000,TRUE
+s206,TV Show,Synthetic Title 206,Greta Gerwig,"Brad Pitt, Morgan Freeman",South Korea,44270,1991,NR,7 S,Crime TV Shows,9.1,76.14,22675000,TRUE
+s207,tv show,Synthetic Title 207,Bong Joon Ho,"Scarlett Johansson, Viola Davis, Morgan Freeman","United States, Canada",43910,2014,TV-PG,5 Seasons,Action & Adventure,2.1,66.77,74211000,TRUE
+s208,Movie,Synthetic Title 208,,"Morgan Freeman, Brad Pitt",United Kingdom,"August 24, 2017",2023,TV-14,113mins,Action & Adventure,1.5,116.23,13658000,TRUE
+s209,Movie,Synthetic Title 209,Christopher Nolan,"Viola Davis, Tom Hanks",South Korea,44606,2000,TV-MA,87mins,Documentaries,5.4,91.38,51335000,FALSE
+s210,MOVIE,Synthetic Title 210,Steven Spielberg,Viola Davis,Japan,43943,2007,R,164mins,"Horror Movies, Thrillers",1,65.69,12586000,TRUE
+s211,tv show,Synthetic Title 211,,Viola Davis,France,42046,2013,TV-PG,9 S,"International TV Shows, TV Dramas",5.7,5.82,87425000,TRUE
+s212,movie ,Synthetic Title 212,Steven Spielberg,,United Kingdom,44352,1992,R,145mins,"International TV Shows, TV Dramas",9,95.81,92752000,FALSE
+s213,TV Show,Synthetic Title 213,Christopher Nolan,"Morgan Freeman, Scarlett Johansson, Zendaya",India,"September 12, 2018",2020,PG-13,4 S,Comedies,6.1,65.52,22334000,TRUE
+s214,TV Show,Synthetic Title 214,Martin Scorsese,"Viola Davis, Leonardo DiCaprio",India,43739,2005,TV-14,5 Seasons,Action & Adventure,2.6,10.74,23674000,FALSE
+s215,Movie,Synthetic Title 215,Greta Gerwig,"Scarlett Johansson, Morgan Freeman, Brad Pitt",India,43742,2022,TV-MA,76 min,Action & Adventure,4.3,75,30676000,FALSE
+s216,Movie,Synthetic Title 216,Christopher Nolan,"Leonardo DiCaprio, Viola Davis, Morgan Freeman",United States,45090,1995,TV-PG,67 min,Comedies,3.1,105.47,34643000,FALSE
+s217,Movie,Synthetic Title 217,Greta Gerwig,Scarlett Johansson,"United States, Canada","April 09, 2018",1997,TV-PG,160 m,"Horror Movies, Thrillers",6.5,2.36,31272000,FALSE
+s218,MOVIE,Synthetic Title 218,Christopher Nolan,Morgan Freeman,India,"June 29, 2017",2007,PG-13,64 m,Crime TV Shows,2,54.67,53833000,TRUE
+s219,tv show,Synthetic Title 219,Steven Spielberg,"Viola Davis, Morgan Freeman, Tom Hanks",Canada,"September 23, 2015",1991,TV-MA,5 S,"International TV Shows, TV Dramas",8.2,75.76,4786000,TRUE
+s220,tv show,Synthetic Title 220,Steven Spielberg,Leonardo DiCaprio,Canada,43597,2009,TV-14,8 Seasons,"Horror Movies, Thrillers",5.9,26.91,93438000,FALSE
+s221,movie ,Synthetic Title 221,,"Tom Hanks, Brad Pitt",Canada,43294,2002,R,97mins,Crime TV Shows,8.7,46.21,78771000,TRUE
+s222,tv show,Synthetic Title 222,Ava DuVernay,"Brad Pitt, Zendaya, Morgan Freeman",Canada,42703,1991,PG-13,1 S,"International TV Shows, TV Dramas",7.3,77.65,49106000,TRUE
+s223,tv show,Synthetic Title 223,Christopher Nolan,"Zendaya, Scarlett Johansson",India,"May 15, 2021",2005,R,9 Seasons,Crime TV Shows,8.8,126.87,78240000,FALSE
+s224,Movie,Synthetic Title 224,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio, Morgan Freeman",India,"December 13, 2021",2010,R,153 m,Action & Adventure,7.1,21.19,49589000,TRUE
+s225,Movie,Synthetic Title 225,Ava DuVernay,"Viola Davis, Brad Pitt","United States, Canada",42428,2015,TV-PG,140mins,Action & Adventure,3,40.46,46923000,FALSE
+s226,MOVIE,Synthetic Title 226,Ava DuVernay,,France,"February 13, 2018",2012,NR,120 min,"International TV Shows, TV Dramas",8.5,4.36,62275000,FALSE
+s227,Movie,Synthetic Title 227,,"Tom Hanks, Brad Pitt",United Kingdom,44486,2016,PG-13,123 m,Comedies,2.6,135.59,40132000,TRUE
+s228,tv show,Synthetic Title 228,Steven Spielberg,"Morgan Freeman, Brad Pitt",South Korea,"April 07, 2022",1993,NR,9 S,Documentaries,3.8,24.42,13824000,FALSE
+s229,tv show,Synthetic Title 229,,"Zendaya, Viola Davis",Japan,43540,1992,PG-13,1 S,Documentaries,2.2,24.02,13665000,FALSE
+s230,TV Show,Synthetic Title 230,Greta Gerwig,"Scarlett Johansson, Morgan Freeman","United States, Canada",42341,2020,R,3 S,"Horror Movies, Thrillers",7.7,25.61,60858000,FALSE
+s231,TV Show,Synthetic Title 231,Ava DuVernay,"Tom Hanks, Morgan Freeman, Brad Pitt",South Korea,44941,2019,PG-13,3 Seasons,Comedies,5.1,0.55,23705000,FALSE
+s232,MOVIE,Synthetic Title 232,Greta Gerwig,"Viola Davis, Brad Pitt, Tom Hanks",United States,42275,2023,TV-14,66 m,"Horror Movies, Thrillers",999,16.66,5958000,TRUE
+s233,movie ,Synthetic Title 233,Greta Gerwig,"Scarlett Johansson, Leonardo DiCaprio",Canada,42021,1992,R,172mins,"Horror Movies, Thrillers",6.9,60.79,97226000,FALSE
+s234,Movie,Synthetic Title 234,Ava DuVernay,"Scarlett Johansson, Brad Pitt, Viola Davis","United States, Canada",42443,1990,R,174mins,"International TV Shows, TV Dramas",5.5,130.95,25728000,TRUE
+s235,MOVIE,Synthetic Title 235,,Leonardo DiCaprio,France,43266,1995,TV-PG,148mins,Comedies,6.3,54.31,9728000,TRUE
+s236,Movie,Synthetic Title 236,Ava DuVernay,Leonardo DiCaprio,India,"December 16, 2021",1999,R,143 min,"International TV Shows, TV Dramas",6.9,36.92,62223000,TRUE
+s237,movie ,Synthetic Title 237,Bong Joon Ho,Scarlett Johansson,South Korea,"June 20, 2020",2014,R,151mins,"Horror Movies, Thrillers",1.5,52.84,15683000,TRUE
+s238,movie ,Synthetic Title 238,Bong Joon Ho,,United States,"October 08, 2015",2001,R,62 m,Action & Adventure,5.7,93.22,50449000,FALSE
+s239,Movie,Synthetic Title 239,,"Zendaya, Viola Davis","United States, Canada",43668,2021,R,138 min,"Horror Movies, Thrillers",3,61.67,41292000,TRUE
+s240,tv show,Synthetic Title 240,Steven Spielberg,Zendaya,South Korea,42819,2005,R,4 S,Crime TV Shows,7.4,69.47,4472000,TRUE
+s241,movie ,Synthetic Title 241,Christopher Nolan,"Scarlett Johansson, Viola Davis",United Kingdom,44885,2017,PG-13,179mins,"International TV Shows, TV Dramas",2.3,123.6,30967000,FALSE
+s242,TV Show,Synthetic Title 242,Bong Joon Ho,Zendaya,South Korea,44697,2007,TV-14,9 Seasons,Documentaries,5.8,30.04,18206000,TRUE
+s243,tv show,Synthetic Title 243,Martin Scorsese,Zendaya,India,43485,2013,R,9 Seasons,Action & Adventure,8.8,1,58113000,TRUE
+s244,movie ,Synthetic Title 244,Bong Joon Ho,"Morgan Freeman, Zendaya, Viola Davis",India,44613,2010,TV-MA,158mins,Comedies,4.2,3.87,13604000,FALSE
+s245,Movie,Synthetic Title 245,Bong Joon Ho,Morgan Freeman,"United States, Canada",44080,2022,NR,103 m,Comedies,2.3,42.46,33876000,FALSE
+s246,Movie,Synthetic Title 246,Steven Spielberg,"Scarlett Johansson, Tom Hanks, Zendaya",Japan,42259,2003,PG-13,80 m,Crime TV Shows,5.9,123.52,58706000,TRUE
+s247,Movie,Synthetic Title 247,Greta Gerwig,"Zendaya, Tom Hanks, Brad Pitt",United States,"June 08, 2022",1992,NR,131mins,Comedies,8.9,143.6,4221000,FALSE
+s248,MOVIE,Synthetic Title 248,Bong Joon Ho,Brad Pitt,United States,42204,1993,TV-PG,173 m,Action & Adventure,5.6,122.47,38946000,TRUE
+s249,Movie,Synthetic Title 249,,"Leonardo DiCaprio, Scarlett Johansson, Tom Hanks","United States, Canada",42544,1990,PG-13,103 min,Action & Adventure,1.7,62.18,15297000,TRUE
+s250,Movie,Synthetic Title 250,Christopher Nolan,"Scarlett Johansson, Viola Davis, Morgan Freeman","United States, Canada",43314,2013,R,152 min,"Horror Movies, Thrillers",9.7,145.46,8223000,FALSE
+s251,tv show,Synthetic Title 251,,Scarlett Johansson,Japan,"June 21, 2022",1993,TV-PG,5 S,Comedies,9.5,76.92,39983000,FALSE
+s252,Movie,Synthetic Title 252,Greta Gerwig,Brad Pitt,India,43348,2015,PG-13,160 min,Comedies,5.4,32.37,4877000,FALSE
+s253,TV Show,Synthetic Title 253,Ava DuVernay,Zendaya,"United States, Canada",43169,1996,NR,1 Season,Action & Adventure,9,28.26,96417000,FALSE
+s254,MOVIE,Synthetic Title 254,Christopher Nolan,"Scarlett Johansson, Brad Pitt, Zendaya","United States, Canada",43861,2000,NR,122mins,"Horror Movies, Thrillers",6.5,69.74,70298000,TRUE
+s255,MOVIE,Synthetic Title 255,Christopher Nolan,"Leonardo DiCaprio, Zendaya, Viola Davis",Japan,44618,2004,TV-PG,132 min,"Horror Movies, Thrillers",3.3,54.44,70734000,FALSE
+s256,Movie,Synthetic Title 256,Steven Spielberg,,United Kingdom,43018,2010,PG-13,159 m,"International TV Shows, TV Dramas",7,87.58,41746000,TRUE
+s257,tv show,Synthetic Title 257,Greta Gerwig,"Zendaya, Brad Pitt, Leonardo DiCaprio",South Korea,42926,1996,TV-MA,3 S,Comedies,3.3,79.41,93907000,FALSE
+s258,movie ,Synthetic Title 258,Steven Spielberg,"Morgan Freeman, Scarlett Johansson",South Korea,42947,1993,R,150 min,Comedies,3.9,46.95,52620000,TRUE
+s259,movie ,Synthetic Title 259,Bong Joon Ho,"Brad Pitt, Scarlett Johansson, Leonardo DiCaprio",Japan,45205,2007,TV-14,60mins,"International TV Shows, TV Dramas",4.1,116.5,56364000,FALSE
+s260,TV Show,Synthetic Title 260,,"Tom Hanks, Brad Pitt, Zendaya",United States,42388,1990,TV-14,4 S,Action & Adventure,4.1,91.58,86848000,FALSE
+s261,movie ,Synthetic Title 261,,Morgan Freeman,"United States, Canada",43774,1991,TV-PG,132 min,Crime TV Shows,5.5,127.26,83541000,FALSE
+s262,MOVIE,Synthetic Title 262,Ava DuVernay,"Viola Davis, Morgan Freeman","United States, Canada","June 29, 2022",2000,TV-14,138mins,Comedies,8.1,42.57,52646000,FALSE
+s263,MOVIE,Synthetic Title 263,,"Tom Hanks, Scarlett Johansson","United States, Canada","October 02, 2015",1998,R,146 min,"International TV Shows, TV Dramas",7.9,17.55,96494000,TRUE
+s264,MOVIE,Synthetic Title 264,,Morgan Freeman,United Kingdom,"June 13, 2017",1998,NR,106 min,Crime TV Shows,8.9,99.69,88174000,TRUE
+s265,tv show,Synthetic Title 265,Ava DuVernay,Brad Pitt,Japan,43742,2000,NR,10 S,"Horror Movies, Thrillers",9.5,61.48,42976000,FALSE
+s266,tv show,Synthetic Title 266,Steven Spielberg,"Brad Pitt, Scarlett Johansson",Japan,45246,2000,PG-13,7 Seasons,Crime TV Shows,2.7,138.55,78595000,TRUE
+s267,tv show,Synthetic Title 267,Greta Gerwig,"Tom Hanks, Brad Pitt",Japan,44703,2010,TV-14,9 Seasons,"International TV Shows, TV Dramas",5.1,133.31,84969000,FALSE
+s268,movie ,Synthetic Title 268,Christopher Nolan,"Tom Hanks, Scarlett Johansson",India,43155,2003,TV-14,95 m,Documentaries,2.9,128.66,73910000,TRUE
+s269,MOVIE,Synthetic Title 269,Christopher Nolan,Brad Pitt,South Korea,42252,2007,TV-14,174 min,Comedies,2.4,124.61,40810000,FALSE
+s270,tv show,Synthetic Title 270,Christopher Nolan,,United States,42780,2010,R,3 S,Crime TV Shows,6,148.4,51911000,FALSE
+s271,Movie,Synthetic Title 271,,Scarlett Johansson,Japan,"November 24, 2019",2016,PG-13,67 m,Action & Adventure,9.3,43.09,38263000,FALSE
+s272,tv show,Synthetic Title 272,Ava DuVernay,"Tom Hanks, Scarlett Johansson, Zendaya",South Korea,45144,2006,TV-14,5 Seasons,"International TV Shows, TV Dramas",4.7,66.43,53108000,FALSE
+s273,MOVIE,Synthetic Title 273,,"Viola Davis, Leonardo DiCaprio","United States, Canada",43236,2009,TV-14,98 min,Comedies,5.4,80.8,17434000,FALSE
+s274,tv show,Synthetic Title 274,,Zendaya,United Kingdom,42066,1995,TV-MA,9 Seasons,Documentaries,6.8,137.58,96386000,TRUE
+s275,movie ,Synthetic Title 275,Christopher Nolan,"Leonardo DiCaprio, Tom Hanks",United Kingdom,42506,2023,PG-13,127mins,Action & Adventure,7.9,103.93,23710000,TRUE
+s276,tv show,Synthetic Title 276,,Scarlett Johansson,Canada,42236,2023,PG-13,8 Seasons,Documentaries,1.8,34.17,23713000,FALSE
+s277,movie ,Synthetic Title 277,Greta Gerwig,"Leonardo DiCaprio, Viola Davis, Morgan Freeman",Canada,43340,2013,TV-14,70 m,"Horror Movies, Thrillers",7.6,30.49,53859000,TRUE
+s278,movie ,Synthetic Title 278,Martin Scorsese,Scarlett Johansson,United States,45195,1994,R,122 m,Comedies,1.1,96.6,27414000,TRUE
+s279,TV Show,Synthetic Title 279,Ava DuVernay,"Scarlett Johansson, Tom Hanks",India,44276,2003,PG-13,2 Seasons,Crime TV Shows,2.4,9.91,20326000,TRUE
+s280,tv show,Synthetic Title 280,Ava DuVernay,"Viola Davis, Leonardo DiCaprio",France,42301,2004,R,4 Seasons,"International TV Shows, TV Dramas",6.9,46.81,30783000,FALSE
+s281,movie ,Synthetic Title 281,Greta Gerwig,,United Kingdom,"August 05, 2023",2004,TV-MA,158 m,Crime TV Shows,8.3,88.7,78875000,FALSE
+s282,tv show,Synthetic Title 282,,Scarlett Johansson,United States,"June 05, 2021",2013,TV-PG,8 Seasons,Action & Adventure,4.4,114.17,80684000,FALSE
+s283,tv show,Synthetic Title 283,Ava DuVernay,Zendaya,South Korea,43293,2003,TV-14,1 Season,"International TV Shows, TV Dramas",3.8,86.25,82612000,FALSE
+s284,Movie,Synthetic Title 284,Greta Gerwig,"Viola Davis, Scarlett Johansson",United States,"March 02, 2023",2022,PG-13,141 m,Documentaries,2.9,16.93,6660000,TRUE
+s285,MOVIE,Synthetic Title 285,Bong Joon Ho,"Morgan Freeman, Viola Davis",Canada,"November 11, 2021",2002,R,137 min,Action & Adventure,5.6,84,32915000,TRUE
+s286,tv show,Synthetic Title 286,Steven Spielberg,"Scarlett Johansson, Brad Pitt",Canada,44305,2009,NR,4 Seasons,Crime TV Shows,2.3,20.23,36327000,FALSE
+s287,tv show,Synthetic Title 287,Martin Scorsese,,South Korea,43396,1995,TV-14,1 Season,"Horror Movies, Thrillers",4,133.26,31710000,TRUE
+s288,MOVIE,Synthetic Title 288,,"Tom Hanks, Viola Davis, Zendaya",United Kingdom,43206,1990,TV-14,152mins,Comedies,6.1,75.82,16891000,TRUE
+s289,Movie,Synthetic Title 289,Steven Spielberg,"Viola Davis, Tom Hanks, Morgan Freeman",France,43965,2023,TV-14,134 min,Comedies,8.9,60.64,99419000,FALSE
+s290,TV Show,Synthetic Title 290,Ava DuVernay,"Scarlett Johansson, Leonardo DiCaprio, Zendaya",France,44104,2015,TV-PG,9 Seasons,Crime TV Shows,3.3,27.8,75309000,TRUE
+s291,MOVIE,Synthetic Title 291,,Leonardo DiCaprio,Canada,"November 03, 2022",1990,TV-MA,67 min,Documentaries,1.7,112,73955000,FALSE
+s292,tv show,Synthetic Title 292,,"Zendaya, Viola Davis",United Kingdom,44114,2022,TV-14,7 Seasons,Documentaries,3.5,98.68,47656000,TRUE
+s293,TV Show,Synthetic Title 293,Christopher Nolan,Scarlett Johansson,South Korea,44581,2019,NR,3 S,"Horror Movies, Thrillers",4.4,89.53,15675000,FALSE
+s294,tv show,Synthetic Title 294,Martin Scorsese,,"United States, Canada",45135,1990,NR,7 S,Documentaries,8.2,38.56,99199000,FALSE
+s295,MOVIE,Synthetic Title 295,,,France,44921,2019,TV-14,178mins,"International TV Shows, TV Dramas",7.7,110.29,88646000,FALSE
+s296,MOVIE,Synthetic Title 296,Bong Joon Ho,Scarlett Johansson,Canada,43390,2020,TV-14,71mins,Comedies,3.1,104.37,37131000,FALSE
+s297,MOVIE,Synthetic Title 297,Steven Spielberg,Brad Pitt,Canada,44880,2003,NR,66mins,Comedies,4.2,82.28,50478000,TRUE
+s298,TV Show,Synthetic Title 298,Greta Gerwig,"Leonardo DiCaprio, Scarlett Johansson, Brad Pitt",United States,44216,1993,TV-MA,5 S,Action & Adventure,6.7,110.83,71516000,FALSE
+s299,TV Show,Synthetic Title 299,Bong Joon Ho,Leonardo DiCaprio,United States,44735,2023,TV-MA,2 Seasons,Comedies,6.2,83.97,85426000,TRUE
+s300,movie ,Synthetic Title 300,Ava DuVernay,"Zendaya, Tom Hanks, Brad Pitt",Japan,44784,2012,TV-MA,150 min,Comedies,2.9,77.36,19249000,FALSE
+s301,Movie,Synthetic Title 301,,"Scarlett Johansson, Tom Hanks, Morgan Freeman",South Korea,43858,1997,TV-PG,101mins,"International TV Shows, TV Dramas",999,100.73,15887000,TRUE
+s302,Movie,Synthetic Title 302,Steven Spielberg,"Scarlett Johansson, Tom Hanks, Zendaya",India,44199,1990,PG-13,71 m,Action & Adventure,9,99.73,97599000,TRUE
+s303,movie ,Synthetic Title 303,Christopher Nolan,"Scarlett Johansson, Morgan Freeman","United States, Canada",43734,2019,TV-PG,77 min,Comedies,2.6,60.87,55800000,FALSE
+s304,MOVIE,Synthetic Title 304,Christopher Nolan,"Viola Davis, Leonardo DiCaprio, Brad Pitt",South Korea,42805,2005,R,113mins,Action & Adventure,4.6,115.74,24715000,FALSE
+s305,movie ,Synthetic Title 305,Bong Joon Ho,"Zendaya, Brad Pitt",India,42326,1995,NR,111 min,"International TV Shows, TV Dramas",5.9,73.6,69315000,TRUE
+s306,MOVIE,Synthetic Title 306,Martin Scorsese,Scarlett Johansson,South Korea,44160,2005,R,141 min,Documentaries,2.4,143.85,37528000,FALSE
+s307,movie ,Synthetic Title 307,Christopher Nolan,"Leonardo DiCaprio, Viola Davis",South Korea,"July 05, 2023",1997,TV-PG,102mins,Crime TV Shows,5.5,62.49,58832000,FALSE
+s308,movie ,Synthetic Title 308,Martin Scorsese,"Brad Pitt, Leonardo DiCaprio, Scarlett Johansson",United Kingdom,45270,2023,R,148mins,Crime TV Shows,3.1,65.33,71707000,FALSE
+s309,Movie,Synthetic Title 309,Christopher Nolan,Viola Davis,South Korea,43924,2004,R,65 min,"Horror Movies, Thrillers",2.6,117.78,91253000,FALSE
+s310,TV Show,Synthetic Title 310,Christopher Nolan,Tom Hanks,"United States, Canada","December 05, 2016",1991,TV-PG,7 S,Documentaries,4,82.15,59763000,FALSE
+s311,TV Show,Synthetic Title 311,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio",India,42053,1998,R,8 Seasons,Crime TV Shows,3.2,103.65,53666000,FALSE
+s312,movie ,Synthetic Title 312,Christopher Nolan,"Scarlett Johansson, Tom Hanks",India,43571,2019,R,169 min,Action & Adventure,8.7,45.52,21101000,TRUE
+s313,MOVIE,Synthetic Title 313,Ava DuVernay,,Canada,45159,2013,TV-PG,142 m,Crime TV Shows,6.4,37.18,51343000,FALSE
+s314,Movie,Synthetic Title 314,Christopher Nolan,"Scarlett Johansson, Leonardo DiCaprio, Morgan Freeman","United States, Canada",42665,2008,PG-13,140 m,Comedies,9.5,61.12,57449000,TRUE
+s315,Movie,Synthetic Title 315,Greta Gerwig,"Viola Davis, Zendaya, Leonardo DiCaprio",South Korea,45162,1998,NR,130 min,Documentaries,3.3,47.71,7534000,FALSE
+s316,tv show,Synthetic Title 316,Martin Scorsese,Zendaya,France,43539,2001,TV-14,9 Seasons,"Horror Movies, Thrillers",2.8,135.43,18419000,TRUE
+s317,movie ,Synthetic Title 317,Steven Spielberg,"Scarlett Johansson, Viola Davis",India,43500,2011,TV-PG,92 min,Action & Adventure,2.1,88.15,46574000,FALSE
+s318,TV Show,Synthetic Title 318,Ava DuVernay,"Brad Pitt, Morgan Freeman, Viola Davis",South Korea,"March 06, 2015",2012,R,4 S,Crime TV Shows,2.2,52.6,87564000,TRUE
+s319,movie ,Synthetic Title 319,,"Zendaya, Brad Pitt",United States,42477,2009,R,172 m,"International TV Shows, TV Dramas",4,14.79,37892000,FALSE
+s320,MOVIE,Synthetic Title 320,Greta Gerwig,"Tom Hanks, Viola Davis, Leonardo DiCaprio",France,43748,2017,TV-14,120 m,"International TV Shows, TV Dramas",1.3,12,45221000,FALSE
+s321,movie ,Synthetic Title 321,Greta Gerwig,"Tom Hanks, Brad Pitt",Canada,"June 13, 2022",2009,TV-14,123mins,Action & Adventure,5.7,144.67,98671000,FALSE
+s322,Movie,Synthetic Title 322,Greta Gerwig,Leonardo DiCaprio,United Kingdom,44534,2006,TV-MA,68mins,Documentaries,8.4,122.51,88826000,FALSE
+s323,movie ,Synthetic Title 323,Christopher Nolan,,South Korea,42756,1990,TV-MA,68mins,Crime TV Shows,2.9,7.65,71615000,TRUE
+s324,tv show,Synthetic Title 324,Ava DuVernay,,United Kingdom,44100,2006,NR,2 Seasons,Crime TV Shows,1.7,81.95,70570000,FALSE
+s325,MOVIE,Synthetic Title 325,Bong Joon Ho,Brad Pitt,India,42677,2003,TV-MA,86mins,Comedies,7.6,79.69,7245000,TRUE
+s326,TV Show,Synthetic Title 326,Bong Joon Ho,,United Kingdom,43317,2002,TV-MA,1 S,Action & Adventure,9.5,62.64,26918000,TRUE
+s327,TV Show,Synthetic Title 327,Ava DuVernay,Viola Davis,India,42309,1998,TV-MA,7 Seasons,"Horror Movies, Thrillers",3,5.39,61389000,FALSE
+s328,movie ,Synthetic Title 328,Ava DuVernay,"Tom Hanks, Brad Pitt, Morgan Freeman",Canada,"November 16, 2023",2014,TV-14,82 m,Action & Adventure,3.8,32.61,88627000,FALSE
+s329,tv show,Synthetic Title 329,Ava DuVernay,,United States,44051,1992,R,4 Seasons,Crime TV Shows,3,89.85,2614000,FALSE
+s330,tv show,Synthetic Title 330,Bong Joon Ho,Brad Pitt,United Kingdom,43097,2007,PG-13,10 S,"Horror Movies, Thrillers",1.2,52.76,93587000,FALSE
+s331,TV Show,Synthetic Title 331,Greta Gerwig,Tom Hanks,United States,44599,2007,TV-14,5 Seasons,Comedies,3.7,119.85,19462000,FALSE
+s332,Movie,Synthetic Title 332,Martin Scorsese,"Brad Pitt, Viola Davis, Tom Hanks",United Kingdom,"November 05, 2018",2000,R,75 m,Comedies,3.1,56.42,28184000,FALSE
+s333,movie ,Synthetic Title 333,Martin Scorsese,Leonardo DiCaprio,France,42874,1995,TV-14,134mins,"Horror Movies, Thrillers",3,102.32,10519000,FALSE
+s334,tv show,Synthetic Title 334,Martin Scorsese,"Morgan Freeman, Viola Davis, Tom Hanks",United Kingdom,43152,2000,NR,5 S,Documentaries,7.7,129.41,63202000,TRUE
+s335,movie ,Synthetic Title 335,Christopher Nolan,"Morgan Freeman, Scarlett Johansson",United States,44967,2003,TV-14,101 min,"Horror Movies, Thrillers",6.6,131.61,78358000,TRUE
+s336,Movie,Synthetic Title 336,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio, Morgan Freeman",Japan,44676,2017,PG-13,136mins,Documentaries,9.8,5.22,29870000,FALSE
+s337,tv show,Synthetic Title 337,,,Japan,43789,1998,PG-13,9 Seasons,"Horror Movies, Thrillers",2.7,89.66,56720000,TRUE
+s338,Movie,Synthetic Title 338,Martin Scorsese,"Tom Hanks, Leonardo DiCaprio, Brad Pitt",Japan,43510,2015,TV-PG,101 m,Comedies,4.3,40.18,75845000,FALSE
+s339,MOVIE,Synthetic Title 339,Christopher Nolan,"Leonardo DiCaprio, Morgan Freeman, Brad Pitt",United Kingdom,42966,1995,NR,108 m,"International TV Shows, TV Dramas",6.5,95.37,29795000,FALSE
+s340,tv show,Synthetic Title 340,Christopher Nolan,"Leonardo DiCaprio, Zendaya, Scarlett Johansson",United States,42692,2014,R,7 S,"Horror Movies, Thrillers",999,5.21,89195000,TRUE
+s341,MOVIE,Synthetic Title 341,Ava DuVernay,"Zendaya, Scarlett Johansson, Leonardo DiCaprio",Canada,43034,2017,PG-13,101 m,Documentaries,2.3,140.1,8377000,FALSE
+s342,MOVIE,Synthetic Title 342,Bong Joon Ho,"Tom Hanks, Viola Davis, Scarlett Johansson",United States,44760,2019,TV-PG,144 min,Documentaries,8.4,117.13,35707000,FALSE
+s343,tv show,Synthetic Title 343,Christopher Nolan,Tom Hanks,United Kingdom,42297,1996,TV-14,5 Seasons,Comedies,7.1,88.27,40293000,TRUE
+s344,Movie,Synthetic Title 344,Steven Spielberg,Tom Hanks,United States,"May 18, 2020",1990,TV-MA,101mins,"International TV Shows, TV Dramas",6.4,5.9,28322000,TRUE
+s345,MOVIE,Synthetic Title 345,Christopher Nolan,"Scarlett Johansson, Tom Hanks",United Kingdom,44033,2016,TV-MA,149 m,"Horror Movies, Thrillers",9,125.67,9950000,FALSE
+s346,movie ,Synthetic Title 346,Greta Gerwig,Zendaya,"United States, Canada",44242,2002,PG-13,108 m,Comedies,6.6,3.29,17290000,TRUE
+s347,Movie,Synthetic Title 347,Bong Joon Ho,"Leonardo DiCaprio, Zendaya",India,"December 11, 2019",1994,TV-MA,174mins,Comedies,1.4,38.41,95730000,TRUE
+s348,TV Show,Synthetic Title 348,Bong Joon Ho,"Morgan Freeman, Leonardo DiCaprio",Japan,"March 09, 2015",2018,TV-14,9 S,"Horror Movies, Thrillers",7.2,129.78,26749000,TRUE
+s349,MOVIE,Synthetic Title 349,Bong Joon Ho,"Scarlett Johansson, Morgan Freeman","United States, Canada",43864,2016,R,128 m,Comedies,6.3,61.4,12676000,FALSE
+s350,tv show,Synthetic Title 350,Bong Joon Ho,Tom Hanks,United Kingdom,42040,2013,TV-MA,1 S,Action & Adventure,8,58.14,43212000,FALSE
+s351,TV Show,Synthetic Title 351,Steven Spielberg,Tom Hanks,United Kingdom,42285,2001,R,8 Seasons,"Horror Movies, Thrillers",2.2,125.58,83385000,TRUE
+s352,tv show,Synthetic Title 352,Christopher Nolan,"Tom Hanks, Brad Pitt",South Korea,42318,2018,TV-MA,2 Seasons,"International TV Shows, TV Dramas",4.2,12,72460000,FALSE
+s353,MOVIE,Synthetic Title 353,Greta Gerwig,"Zendaya, Morgan Freeman, Tom Hanks",United States,"February 10, 2018",2001,PG-13,89 m,Documentaries,3.9,52.1,43931000,TRUE
+s354,Movie,Synthetic Title 354,Martin Scorsese,"Morgan Freeman, Tom Hanks, Zendaya",India,43934,2010,TV-MA,143 m,Documentaries,9.6,54.95,33373000,FALSE
+s355,TV Show,Synthetic Title 355,Martin Scorsese,"Brad Pitt, Zendaya",Japan,"December 25, 2017",2005,R,3 Seasons,"International TV Shows, TV Dramas",3.7,149.03,63239000,TRUE
+s356,Movie,Synthetic Title 356,Christopher Nolan,"Viola Davis, Brad Pitt",Canada,"October 01, 2016",1995,R,114 m,Action & Adventure,1.7,101.9,6684000,FALSE
+s357,TV Show,Synthetic Title 357,Bong Joon Ho,"Morgan Freeman, Tom Hanks",Japan,44387,1994,NR,9 S,Comedies,6.6,13.46,16745000,TRUE
+s358,movie ,Synthetic Title 358,Christopher Nolan,"Zendaya, Leonardo DiCaprio, Brad Pitt",France,42835,2005,TV-MA,113mins,"Horror Movies, Thrillers",4.6,76.95,57683000,FALSE
+s359,movie ,Synthetic Title 359,Steven Spielberg,"Brad Pitt, Scarlett Johansson","United States, Canada",44176,2010,TV-14,145 min,"Horror Movies, Thrillers",5.2,15.12,50605000,TRUE
+s360,TV Show,Synthetic Title 360,Greta Gerwig,"Tom Hanks, Scarlett Johansson",Japan,43052,2014,TV-PG,8 Seasons,Comedies,1.3,56.22,62851000,FALSE
+s361,tv show,Synthetic Title 361,Christopher Nolan,Tom Hanks,United Kingdom,44745,2006,TV-14,10 Seasons,"International TV Shows, TV Dramas",1.1,49.58,91522000,FALSE
+s362,MOVIE,Synthetic Title 362,Ava DuVernay,Scarlett Johansson,United States,42717,2018,TV-MA,93 m,Comedies,8.8,9.41,1661000,FALSE
+s363,Movie,Synthetic Title 363,Steven Spielberg,"Viola Davis, Leonardo DiCaprio, Morgan Freeman",United Kingdom,"April 16, 2019",1997,R,133 m,Crime TV Shows,2.1,65.91,63293000,FALSE
+s364,tv show,Synthetic Title 364,Christopher Nolan,"Zendaya, Viola Davis, Scarlett Johansson",India,"September 22, 2021",1994,TV-MA,3 S,"Horror Movies, Thrillers",8.6,132.55,75670000,TRUE
+s365,movie ,Synthetic Title 365,Martin Scorsese,Leonardo DiCaprio,Japan,44563,2008,NR,87mins,Action & Adventure,9.8,2.07,9747000,TRUE
+s366,TV Show,Synthetic Title 366,Steven Spielberg,Tom Hanks,France,44749,2009,TV-PG,9 Seasons,"International TV Shows, TV Dramas",5.6,29.33,63615000,FALSE
+s367,MOVIE,Synthetic Title 367,Bong Joon Ho,,India,43440,2000,PG-13,138 m,Crime TV Shows,7.2,97.5,98451000,TRUE
+s368,tv show,Synthetic Title 368,Steven Spielberg,"Brad Pitt, Tom Hanks",Canada,44154,1991,PG-13,7 S,Action & Adventure,8.1,16.1,29776000,FALSE
+s369,MOVIE,Synthetic Title 369,Bong Joon Ho,"Morgan Freeman, Tom Hanks, Leonardo DiCaprio",France,42469,2008,TV-PG,137 m,"Horror Movies, Thrillers",9.3,57.33,76748000,TRUE
+s370,tv show,Synthetic Title 370,Ava DuVernay,Tom Hanks,Canada,45290,2010,R,2 S,"International TV Shows, TV Dramas",1.7,143.38,19381000,TRUE
+s371,movie ,Synthetic Title 371,Christopher Nolan,"Leonardo DiCaprio, Tom Hanks",United Kingdom,43638,2007,TV-PG,168 min,Comedies,3,56.97,45104000,FALSE
+s372,Movie,Synthetic Title 372,Steven Spielberg,,Japan,44263,2017,TV-MA,74mins,Documentaries,4.8,97.15,85751000,FALSE
+s373,TV Show,Synthetic Title 373,,,United Kingdom,"January 28, 2019",2009,NR,8 S,Documentaries,1.5,115.1,54366000,FALSE
+s374,tv show,Synthetic Title 374,,Scarlett Johansson,Japan,42346,2021,TV-14,1 S,Action & Adventure,4.7,82.72,82715000,FALSE
+s375,Movie,Synthetic Title 375,,Brad Pitt,United States,"June 22, 2019",2015,PG-13,113 m,Crime TV Shows,6.6,77.63,54250000,FALSE
+s376,Movie,Synthetic Title 376,Ava DuVernay,Morgan Freeman,Japan,42258,1991,TV-14,166 m,Action & Adventure,7.3,98.9,91206000,TRUE
+s377,TV Show,Synthetic Title 377,Martin Scorsese,,South Korea,44479,2011,TV-MA,9 S,"International TV Shows, TV Dramas",8.3,26.83,28358000,FALSE
+s378,TV Show,Synthetic Title 378,Steven Spielberg,"Viola Davis, Brad Pitt",South Korea,42491,2005,TV-14,9 S,"International TV Shows, TV Dramas",8.6,45.81,35821000,FALSE
+s379,MOVIE,Synthetic Title 379,,"Leonardo DiCaprio, Brad Pitt, Viola Davis",Japan,42998,2001,R,126 m,"International TV Shows, TV Dramas",2.7,104.74,52955000,TRUE
+s380,MOVIE,Synthetic Title 380,Ava DuVernay,Brad Pitt,Japan,42409,2019,TV-14,88 min,Comedies,999,50.13,47211000,TRUE
+s381,MOVIE,Synthetic Title 381,Greta Gerwig,"Leonardo DiCaprio, Viola Davis",India,"September 15, 2017",2016,TV-MA,177 m,Comedies,4,144.93,53371000,FALSE
+s382,Movie,Synthetic Title 382,Christopher Nolan,"Scarlett Johansson, Brad Pitt",South Korea,44453,2001,R,160 m,Comedies,6.4,103.42,74794000,FALSE
+s383,Movie,Synthetic Title 383,Christopher Nolan,"Leonardo DiCaprio, Zendaya",United States,42934,1997,TV-MA,144mins,"International TV Shows, TV Dramas",4.5,142.51,9484000,FALSE
+s384,Movie,Synthetic Title 384,Martin Scorsese,,"United States, Canada",43326,2023,PG-13,105mins,Comedies,3.1,146.41,49703000,FALSE
+s385,Movie,Synthetic Title 385,Greta Gerwig,Brad Pitt,France,"December 28, 2016",2023,TV-PG,147 min,"International TV Shows, TV Dramas",7.9,44.89,70117000,FALSE
+s386,MOVIE,Synthetic Title 386,Ava DuVernay,"Scarlett Johansson, Leonardo DiCaprio, Morgan Freeman",South Korea,45255,2003,TV-PG,89 m,Comedies,7.3,73.46,44910000,TRUE
+s387,movie ,Synthetic Title 387,Martin Scorsese,"Brad Pitt, Leonardo DiCaprio",Japan,43958,2010,PG-13,174 m,Comedies,3.4,142.52,20210000,TRUE
+s388,MOVIE,Synthetic Title 388,,Scarlett Johansson,United States,"June 26, 2016",1990,TV-14,119 m,Action & Adventure,5.5,94.3,85264000,TRUE
+s389,MOVIE,Synthetic Title 389,Steven Spielberg,"Viola Davis, Brad Pitt, Tom Hanks",Canada,42666,2023,PG-13,61mins,Comedies,4.4,58.81,32298000,TRUE
+s390,movie ,Synthetic Title 390,Martin Scorsese,Zendaya,South Korea,43431,2009,R,125 m,"Horror Movies, Thrillers",9,80.82,41672000,FALSE
+s391,Movie,Synthetic Title 391,Bong Joon Ho,"Leonardo DiCaprio, Scarlett Johansson, Morgan Freeman",France,43710,2018,TV-14,68 m,Documentaries,2.5,82.37,71596000,FALSE
+s392,Movie,Synthetic Title 392,Christopher Nolan,"Scarlett Johansson, Leonardo DiCaprio, Zendaya",Canada,42776,1993,TV-MA,165 m,Comedies,1.1,12.86,33105000,TRUE
+s393,TV Show,Synthetic Title 393,Greta Gerwig,"Scarlett Johansson, Zendaya, Brad Pitt",United Kingdom,44475,2013,TV-PG,4 S,"Horror Movies, Thrillers",8.4,90.64,90403000,FALSE
+s394,MOVIE,Synthetic Title 394,Bong Joon Ho,"Tom Hanks, Leonardo DiCaprio",South Korea,"March 31, 2023",2006,TV-14,107mins,Action & Adventure,8.2,89.59,87253000,TRUE
+s395,tv show,Synthetic Title 395,Martin Scorsese,"Morgan Freeman, Scarlett Johansson, Tom Hanks",South Korea,44426,2018,TV-14,8 Seasons,Action & Adventure,2.1,123.59,3333000,TRUE
+s396,TV Show,Synthetic Title 396,Christopher Nolan,"Scarlett Johansson, Zendaya, Leonardo DiCaprio",South Korea,42981,2003,PG-13,6 Seasons,"International TV Shows, TV Dramas",1.4,54.89,49939000,TRUE
+s397,movie ,Synthetic Title 397,Christopher Nolan,Viola Davis,Canada,43135,2012,TV-MA,74 min,Comedies,6.5,142.09,100385000,TRUE
+s398,tv show,Synthetic Title 398,Greta Gerwig,Tom Hanks,France,"November 27, 2023",2007,TV-MA,7 Seasons,Comedies,2.1,40.09,29378000,FALSE
+s399,Movie,Synthetic Title 399,Martin Scorsese,,United Kingdom,"December 08, 2016",2003,NR,79mins,Comedies,2.5,59.51,46947000,TRUE
+s400,movie ,Synthetic Title 400,Martin Scorsese,"Tom Hanks, Morgan Freeman, Viola Davis",India,44949,2007,TV-14,171 m,"International TV Shows, TV Dramas",6.2,20.54,42104000,TRUE
+s401,tv show,Synthetic Title 401,Ava DuVernay,Viola Davis,France,42550,2010,NR,9 S,Comedies,4.8,16.72,71983000,FALSE
+s402,tv show,Synthetic Title 402,Ava DuVernay,Brad Pitt,Japan,45261,2005,R,7 S,Comedies,5.7,123.27,4245000,FALSE
+s403,TV Show,Synthetic Title 403,Greta Gerwig,"Scarlett Johansson, Zendaya, Brad Pitt",Japan,42941,2021,TV-PG,6 Seasons,Documentaries,5.3,14.51,59573000,TRUE
+s404,Movie,Synthetic Title 404,Martin Scorsese,"Brad Pitt, Viola Davis, Morgan Freeman",Canada,44328,2021,TV-MA,74 m,Crime TV Shows,2.9,123.38,73238000,TRUE
+s405,Movie,Synthetic Title 405,Bong Joon Ho,Brad Pitt,United Kingdom,"June 09, 2019",1999,TV-PG,158mins,"Horror Movies, Thrillers",4.1,39.67,12104000,FALSE
+s406,Movie,Synthetic Title 406,Christopher Nolan,"Leonardo DiCaprio, Zendaya, Scarlett Johansson",France,42676,2008,PG-13,115mins,Documentaries,5.4,67.56,6149000,FALSE
+s407,movie ,Synthetic Title 407,Steven Spielberg,Viola Davis,Canada,43502,2008,R,89mins,Crime TV Shows,4.4,79.43,52959000,FALSE
+s408,Movie,Synthetic Title 408,Martin Scorsese,,France,42292,2000,TV-MA,162 min,Documentaries,7.5,25.42,3497000,FALSE
+s409,movie ,Synthetic Title 409,Steven Spielberg,"Brad Pitt, Tom Hanks",Canada,44092,1997,PG-13,174 m,Documentaries,2.4,58.29,82797000,FALSE
+s410,TV Show,Synthetic Title 410,Greta Gerwig,Morgan Freeman,"United States, Canada",42385,2022,R,10 S,"Horror Movies, Thrillers",9.6,145.67,83668000,FALSE
+s411,MOVIE,Synthetic Title 411,Steven Spielberg,Tom Hanks,France,42222,2004,PG-13,136 min,"Horror Movies, Thrillers",5.2,12.06,63838000,FALSE
+s412,Movie,Synthetic Title 412,,"Leonardo DiCaprio, Brad Pitt, Viola Davis",United States,"September 07, 2020",2000,R,123 m,Documentaries,7.7,68.04,57424000,TRUE
+s413,MOVIE,Synthetic Title 413,Christopher Nolan,"Brad Pitt, Morgan Freeman, Scarlett Johansson",South Korea,42200,2000,TV-14,158 m,"Horror Movies, Thrillers",9.1,26.27,19911000,TRUE
+s414,TV Show,Synthetic Title 414,Christopher Nolan,Tom Hanks,"United States, Canada",44964,1992,PG-13,2 Seasons,"Horror Movies, Thrillers",5.7,64.15,48951000,FALSE
+s415,Movie,Synthetic Title 415,Martin Scorsese,"Viola Davis, Morgan Freeman",Canada,43140,2005,NR,66mins,"Horror Movies, Thrillers",7.3,19.37,95692000,FALSE
+s416,Movie,Synthetic Title 416,Ava DuVernay,"Morgan Freeman, Scarlett Johansson, Leonardo DiCaprio","United States, Canada","September 13, 2023",2020,NR,110 min,Documentaries,8,79.37,6629000,FALSE
+s417,TV Show,Synthetic Title 417,Steven Spielberg,"Tom Hanks, Brad Pitt",South Korea,45147,2006,TV-MA,6 Seasons,Action & Adventure,1.7,57.36,84729000,FALSE
+s418,Movie,Synthetic Title 418,Bong Joon Ho,"Viola Davis, Tom Hanks",France,45017,1999,R,119 m,"Horror Movies, Thrillers",9.9,82.87,33876000,TRUE
+s419,Movie,Synthetic Title 419,Greta Gerwig,"Leonardo DiCaprio, Brad Pitt","United States, Canada",44023,2018,R,179 m,Documentaries,2.2,139.5,57275000,TRUE
+s420,movie ,Synthetic Title 420,Bong Joon Ho,"Leonardo DiCaprio, Zendaya, Brad Pitt",France,44794,2016,R,106 m,"Horror Movies, Thrillers",3.1,103.31,37403000,FALSE
+s421,Movie,Synthetic Title 421,Martin Scorsese,"Leonardo DiCaprio, Viola Davis, Brad Pitt",France,"November 18, 2022",1990,NR,131 m,Comedies,6.3,92.29,45330000,FALSE
+s422,MOVIE,Synthetic Title 422,Martin Scorsese,"Leonardo DiCaprio, Scarlett Johansson, Brad Pitt",United States,45107,2023,TV-MA,80mins,"Horror Movies, Thrillers",3.8,51.7,3818000,FALSE
+s423,movie ,Synthetic Title 423,Bong Joon Ho,Tom Hanks,France,42477,2020,NR,116mins,Comedies,5.9,66.09,38855000,TRUE
+s424,MOVIE,Synthetic Title 424,Bong Joon Ho,"Viola Davis, Morgan Freeman, Brad Pitt",South Korea,42862,2005,TV-MA,74 min,Comedies,7.7,35.64,74998000,TRUE
+s425,TV Show,Synthetic Title 425,,Leonardo DiCaprio,Japan,43157,1998,TV-14,6 Seasons,Documentaries,6.9,68.61,77155000,FALSE
+s426,TV Show,Synthetic Title 426,Steven Spielberg,Viola Davis,United Kingdom,43264,2009,TV-PG,2 Seasons,Comedies,7.9,125.47,53409000,TRUE
+s427,tv show,Synthetic Title 427,Bong Joon Ho,Morgan Freeman,Japan,"October 22, 2021",2001,TV-14,8 S,Comedies,7,6.86,20316000,TRUE
+s428,MOVIE,Synthetic Title 428,Christopher Nolan,"Tom Hanks, Scarlett Johansson",South Korea,44246,1993,R,173mins,Documentaries,4.7,47.9,94136000,TRUE
+s429,Movie,Synthetic Title 429,Bong Joon Ho,,United States,43179,2007,NR,168 min,Comedies,5.4,62.62,16245000,TRUE
+s430,tv show,Synthetic Title 430,,"Tom Hanks, Leonardo DiCaprio",United Kingdom,42354,1995,TV-PG,8 S,Crime TV Shows,9.4,15.78,77658000,FALSE
+s431,Movie,Synthetic Title 431,Christopher Nolan,Zendaya,United States,44645,2018,TV-14,85mins,Documentaries,9.1,32.57,95790000,TRUE
+s432,movie ,Synthetic Title 432,Steven Spielberg,"Zendaya, Scarlett Johansson, Leonardo DiCaprio",France,"September 30, 2023",2006,NR,71 m,Comedies,3.3,128.32,41286000,FALSE
+s433,TV Show,Synthetic Title 433,Greta Gerwig,"Brad Pitt, Viola Davis",Japan,44902,2013,TV-PG,10 Seasons,Comedies,5.8,96.69,22218000,FALSE
+s434,MOVIE,Synthetic Title 434,,Leonardo DiCaprio,"United States, Canada",43861,2005,R,124 m,Crime TV Shows,2.7,115.22,92832000,FALSE
+s435,movie ,Synthetic Title 435,Bong Joon Ho,"Viola Davis, Zendaya, Leonardo DiCaprio",South Korea,44324,1990,TV-14,91 m,"Horror Movies, Thrillers",4.1,64.45,88362000,FALSE
+s436,TV Show,Synthetic Title 436,Greta Gerwig,Morgan Freeman,France,"November 19, 2017",2012,TV-PG,2 S,"International TV Shows, TV Dramas",7.7,38.07,92328000,FALSE
+s437,MOVIE,Synthetic Title 437,Christopher Nolan,Tom Hanks,United States,43810,2023,NR,140 min,Crime TV Shows,9.7,108.74,58393000,FALSE
+s438,tv show,Synthetic Title 438,Ava DuVernay,Tom Hanks,United States,42591,2020,TV-14,3 Seasons,Crime TV Shows,9.4,117.74,1146000,TRUE
+s439,TV Show,Synthetic Title 439,Martin Scorsese,Morgan Freeman,United States,"November 23, 2018",2002,TV-MA,4 S,"Horror Movies, Thrillers",6,113.34,83958000,FALSE
+s440,tv show,Synthetic Title 440,Christopher Nolan,"Brad Pitt, Tom Hanks, Viola Davis",South Korea,"April 13, 2017",2019,TV-14,1 Season,Documentaries,5.4,136.78,31405000,FALSE
+s441,TV Show,Synthetic Title 441,Martin Scorsese,"Morgan Freeman, Viola Davis",United States,"May 26, 2023",2020,R,5 Seasons,Documentaries,8.7,17.9,14686000,TRUE
+s442,tv show,Synthetic Title 442,Christopher Nolan,"Tom Hanks, Brad Pitt, Zendaya",South Korea,"October 15, 2020",2010,R,4 S,"International TV Shows, TV Dramas",5.2,3.55,29557000,TRUE
+s443,TV Show,Synthetic Title 443,Greta Gerwig,Tom Hanks,United Kingdom,43458,1995,TV-PG,1 S,Documentaries,8.7,73.38,32536000,FALSE
+s444,MOVIE,Synthetic Title 444,Greta Gerwig,"Morgan Freeman, Leonardo DiCaprio, Viola Davis","United States, Canada",43255,2000,TV-PG,165 min,Documentaries,4.9,63.36,14275000,FALSE
+s445,TV Show,Synthetic Title 445,Bong Joon Ho,,South Korea,42532,1991,TV-MA,6 Seasons,"International TV Shows, TV Dramas",7.8,139.06,27851000,TRUE
+s446,MOVIE,Synthetic Title 446,Steven Spielberg,"Viola Davis, Tom Hanks",France,42395,2011,TV-PG,78mins,"International TV Shows, TV Dramas",9.3,20.23,72102000,FALSE
+s447,MOVIE,Synthetic Title 447,Martin Scorsese,"Viola Davis, Morgan Freeman, Scarlett Johansson",India,"February 26, 2021",1991,R,129 min,"International TV Shows, TV Dramas",1.1,140.45,97828000,TRUE
+s448,tv show,Synthetic Title 448,Steven Spielberg,,United Kingdom,43134,2004,TV-PG,4 Seasons,Documentaries,8.7,132.36,46206000,FALSE
+s449,Movie,Synthetic Title 449,Greta Gerwig,Morgan Freeman,Canada,44671,2023,PG-13,75mins,"Horror Movies, Thrillers",4.8,108.92,28933000,TRUE
+s450,movie ,Synthetic Title 450,Martin Scorsese,,Japan,44369,2018,TV-PG,162 min,"International TV Shows, TV Dramas",5.5,107.06,87416000,TRUE
+s451,MOVIE,Synthetic Title 451,Martin Scorsese,"Leonardo DiCaprio, Scarlett Johansson, Morgan Freeman",India,42898,2001,R,96mins,Crime TV Shows,2.4,43.17,1508000,FALSE
+s452,tv show,Synthetic Title 452,Ava DuVernay,"Scarlett Johansson, Zendaya",United Kingdom,44603,2006,PG-13,6 S,Action & Adventure,9.5,15.78,30385000,FALSE
+s453,Movie,Synthetic Title 453,Christopher Nolan,"Leonardo DiCaprio, Scarlett Johansson, Viola Davis","United States, Canada",44818,2000,R,99 min,Comedies,6.7,60.58,9447000,TRUE
+s454,tv show,Synthetic Title 454,Ava DuVernay,Zendaya,"United States, Canada",42268,2016,R,1 Season,Comedies,6.8,145.17,99801000,TRUE
+s455,Movie,Synthetic Title 455,,"Morgan Freeman, Brad Pitt, Viola Davis",United States,44934,1993,PG-13,106 min,"International TV Shows, TV Dramas",4.5,148.69,27389000,FALSE
+s456,TV Show,Synthetic Title 456,Greta Gerwig,"Morgan Freeman, Tom Hanks, Leonardo DiCaprio",United Kingdom,"December 27, 2018",2011,R,9 S,"Horror Movies, Thrillers",999,55.99,38801000,FALSE
+s457,MOVIE,Synthetic Title 457,Steven Spielberg,Viola Davis,United States,"May 16, 2016",1998,TV-MA,137mins,"International TV Shows, TV Dramas",7.1,97.6,73612000,FALSE
+s458,Movie,Synthetic Title 458,Bong Joon Ho,"Zendaya, Viola Davis",Japan,43065,2013,PG-13,174 min,Comedies,4.1,119.87,23440000,FALSE
+s459,movie ,Synthetic Title 459,Bong Joon Ho,"Tom Hanks, Zendaya, Morgan Freeman",South Korea,44355,2002,TV-14,169 min,"Horror Movies, Thrillers",7.2,96.92,37690000,FALSE
+s460,TV Show,Synthetic Title 460,Ava DuVernay,"Zendaya, Tom Hanks, Brad Pitt",United States,"September 05, 2022",2018,PG-13,7 Seasons,"Horror Movies, Thrillers",4.1,79.02,79921000,FALSE
+s461,TV Show,Synthetic Title 461,,Brad Pitt,South Korea,42161,2016,TV-MA,10 Seasons,Action & Adventure,3.7,86.34,98901000,TRUE
+s462,MOVIE,Synthetic Title 462,Ava DuVernay,Tom Hanks,South Korea,44495,2017,NR,156mins,Comedies,4.1,49.57,38789000,TRUE
+s463,TV Show,Synthetic Title 463,Bong Joon Ho,"Viola Davis, Morgan Freeman",India,43560,1996,TV-MA,3 Seasons,Action & Adventure,7.3,18.19,20117000,TRUE
+s464,TV Show,Synthetic Title 464,,"Zendaya, Brad Pitt, Viola Davis",Canada,"January 15, 2022",2009,R,6 S,Action & Adventure,3.4,102.3,82583000,FALSE
+s465,movie ,Synthetic Title 465,Bong Joon Ho,Viola Davis,Japan,42104,2006,R,108 min,"International TV Shows, TV Dramas",5.2,26.24,9796000,TRUE
+s466,movie ,Synthetic Title 466,Bong Joon Ho,Morgan Freeman,Canada,44846,2004,TV-PG,80 m,Action & Adventure,9.5,62.43,92489000,TRUE
+s467,MOVIE,Synthetic Title 467,Steven Spielberg,"Morgan Freeman, Brad Pitt",United States,45042,2023,PG-13,161 min,"International TV Shows, TV Dramas",6.4,128.09,67137000,FALSE
+s468,Movie,Synthetic Title 468,Martin Scorsese,"Viola Davis, Zendaya, Brad Pitt",United Kingdom,"September 16, 2015",1994,TV-14,152 m,Comedies,9.2,129.77,86357000,TRUE
+s469,tv show,Synthetic Title 469,Ava DuVernay,"Zendaya, Viola Davis, Brad Pitt",India,"August 19, 2016",2006,R,7 Seasons,Crime TV Shows,9.7,149.04,49870000,FALSE
+s470,MOVIE,Synthetic Title 470,Bong Joon Ho,"Brad Pitt, Scarlett Johansson, Viola Davis",United Kingdom,"October 24, 2023",2015,R,106 min,Action & Adventure,9.5,141.97,98268000,TRUE
+s471,Movie,Synthetic Title 471,,Zendaya,United States,"February 04, 2019",1999,NR,140 m,Documentaries,8.2,48.66,94977000,TRUE
+s472,Movie,Synthetic Title 472,Bong Joon Ho,"Zendaya, Viola Davis",Canada,42672,2013,TV-MA,85 m,Action & Adventure,5.9,1.68,10435000,TRUE
+s473,TV Show,Synthetic Title 473,Ava DuVernay,"Leonardo DiCaprio, Viola Davis",India,"November 06, 2020",1999,TV-14,2 S,Action & Adventure,8.5,53.17,51510000,FALSE
+s474,Movie,Synthetic Title 474,Greta Gerwig,"Brad Pitt, Viola Davis",United Kingdom,43632,2008,NR,69 m,"International TV Shows, TV Dramas",4.1,52.93,81367000,FALSE
+s475,MOVIE,Synthetic Title 475,Steven Spielberg,Zendaya,Canada,"December 13, 2020",1999,PG-13,169mins,"Horror Movies, Thrillers",3.9,69.4,59729000,TRUE
+s476,MOVIE,Synthetic Title 476,Greta Gerwig,"Tom Hanks, Morgan Freeman",India,42232,1999,TV-MA,154mins,Documentaries,2.5,63.68,10351000,FALSE
+s477,MOVIE,Synthetic Title 477,Greta Gerwig,"Viola Davis, Tom Hanks, Brad Pitt",France,43455,2015,R,139mins,"International TV Shows, TV Dramas",4.8,103.12,39919000,FALSE
+s478,TV Show,Synthetic Title 478,Bong Joon Ho,Leonardo DiCaprio,United Kingdom,44970,1998,NR,6 Seasons,Action & Adventure,5.5,51.13,28420000,TRUE
+s479,MOVIE,Synthetic Title 479,Christopher Nolan,"Brad Pitt, Morgan Freeman",India,44827,1994,NR,100mins,Documentaries,1,131.98,77323000,FALSE
+s480,movie ,Synthetic Title 480,Greta Gerwig,Morgan Freeman,United States,"November 01, 2020",2021,TV-14,143mins,"Horror Movies, Thrillers",5.3,69.78,86883000,TRUE
+s481,tv show,Synthetic Title 481,Steven Spielberg,Scarlett Johansson,United States,"March 10, 2017",1993,R,10 S,Documentaries,9.9,132.64,92828000,TRUE
+s482,movie ,Synthetic Title 482,Ava DuVernay,"Leonardo DiCaprio, Viola Davis",United States,43226,2009,TV-MA,159 m,Action & Adventure,9.3,123.59,75376000,TRUE
+s483,TV Show,Synthetic Title 483,,"Viola Davis, Leonardo DiCaprio",France,43989,2009,R,8 S,Crime TV Shows,3.7,146.06,51177000,FALSE
+s484,movie ,Synthetic Title 484,,Zendaya,Japan,"October 21, 2018",2011,R,114 min,Comedies,2.3,52.26,79670000,FALSE
+s485,tv show,Synthetic Title 485,Greta Gerwig,Leonardo DiCaprio,Japan,43516,2002,TV-14,7 S,Crime TV Shows,6,116.69,86599000,FALSE
+s486,TV Show,Synthetic Title 486,Ava DuVernay,"Brad Pitt, Viola Davis",India,44580,2007,NR,3 S,Comedies,8.7,133.38,46100000,TRUE
+s487,TV Show,Synthetic Title 487,Martin Scorsese,Morgan Freeman,India,"February 27, 2016",1990,TV-MA,2 S,Documentaries,8.4,84.86,29438000,FALSE
+s488,MOVIE,Synthetic Title 488,Bong Joon Ho,"Leonardo DiCaprio, Morgan Freeman, Scarlett Johansson",South Korea,43715,1990,TV-PG,92mins,"Horror Movies, Thrillers",3.5,30.87,61684000,TRUE
+s489,TV Show,Synthetic Title 489,Ava DuVernay,Brad Pitt,United Kingdom,44279,2022,PG-13,5 Seasons,Crime TV Shows,3.7,47.73,17176000,FALSE
+s490,Movie,Synthetic Title 490,Martin Scorsese,"Scarlett Johansson, Morgan Freeman, Viola Davis",South Korea,43030,1999,NR,68mins,Crime TV Shows,1,56.65,60230000,FALSE
+s491,Movie,Synthetic Title 491,Christopher Nolan,Viola Davis,"United States, Canada",42765,2007,TV-MA,163mins,Comedies,7.2,51.15,6592000,FALSE
+s492,movie ,Synthetic Title 492,Ava DuVernay,Morgan Freeman,Japan,43538,2022,TV-PG,93mins,Crime TV Shows,1.7,88.1,20511000,TRUE
+s493,movie ,Synthetic Title 493,Martin Scorsese,"Tom Hanks, Viola Davis, Brad Pitt",Japan,"October 10, 2015",1998,PG-13,176 min,"International TV Shows, TV Dramas",5.5,102.46,34393000,FALSE
+s494,Movie,Synthetic Title 494,Martin Scorsese,Brad Pitt,South Korea,"June 12, 2020",2014,PG-13,118 m,Comedies,7.9,39.85,88253000,FALSE
+s495,Movie,Synthetic Title 495,Bong Joon Ho,"Leonardo DiCaprio, Viola Davis, Zendaya",United Kingdom,42953,2002,NR,146 m,Crime TV Shows,3.4,128.11,85792000,FALSE
+s496,movie ,Synthetic Title 496,Martin Scorsese,Tom Hanks,France,"February 20, 2020",2009,TV-14,141 m,Crime TV Shows,2.7,138.54,32622000,TRUE
+s497,TV Show,Synthetic Title 497,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Tom Hanks",Canada,"May 25, 2015",1991,PG-13,7 Seasons,"Horror Movies, Thrillers",9.5,48.4,82539000,FALSE
+s498,MOVIE,Synthetic Title 498,Christopher Nolan,"Brad Pitt, Viola Davis, Zendaya",France,"November 09, 2021",1999,TV-PG,96 min,Crime TV Shows,2.2,117,10236000,FALSE
+s499,MOVIE,Synthetic Title 499,Greta Gerwig,,"United States, Canada",45079,2011,TV-14,164mins,"International TV Shows, TV Dramas",3,92.88,23575000,FALSE
+s500,MOVIE,Synthetic Title 500,Christopher Nolan,"Morgan Freeman, Zendaya",Japan,44425,1991,TV-14,112 m,Crime TV Shows,1.6,112.77,6632000,TRUE
+s501,movie ,Synthetic Title 501,Ava DuVernay,"Tom Hanks, Morgan Freeman",United Kingdom,44611,1990,TV-MA,77mins,"Horror Movies, Thrillers",8.3,136,42408000,FALSE
+s502,movie ,Synthetic Title 502,Ava DuVernay,"Leonardo DiCaprio, Scarlett Johansson",Canada,43053,2013,TV-PG,126 m,Action & Adventure,3.9,49.91,25260000,FALSE
+s503,movie ,Synthetic Title 503,Bong Joon Ho,Zendaya,France,"October 05, 2020",2012,TV-14,125 min,Documentaries,7.7,134.34,75636000,FALSE
+s504,MOVIE,Synthetic Title 504,Greta Gerwig,Leonardo DiCaprio,Japan,43294,1991,TV-14,179mins,Comedies,6.3,121.71,93716000,TRUE
+s505,movie ,Synthetic Title 505,Greta Gerwig,,India,44296,1997,TV-14,94 m,Action & Adventure,7.9,117.73,13255000,FALSE
+s506,MOVIE,Synthetic Title 506,Martin Scorsese,"Zendaya, Brad Pitt",France,45269,2007,TV-14,125 min,"International TV Shows, TV Dramas",5.2,20.47,100208000,FALSE
+s507,MOVIE,Synthetic Title 507,Steven Spielberg,Zendaya,"United States, Canada",44967,2022,TV-MA,74mins,"Horror Movies, Thrillers",4.7,133.23,14198000,TRUE
+s508,tv show,Synthetic Title 508,,"Tom Hanks, Scarlett Johansson",United Kingdom,44073,2001,TV-MA,1 S,Crime TV Shows,4.2,32.17,60568000,FALSE
+s509,movie ,Synthetic Title 509,Greta Gerwig,"Brad Pitt, Morgan Freeman, Viola Davis",India,44358,2010,PG-13,180 m,Comedies,1.8,142.2,74434000,TRUE
+s510,MOVIE,Synthetic Title 510,Greta Gerwig,"Morgan Freeman, Tom Hanks, Brad Pitt",South Korea,"March 19, 2022",2003,TV-MA,128mins,Comedies,3.2,92.97,92373000,FALSE
+s511,tv show,Synthetic Title 511,Steven Spielberg,Tom Hanks,France,44232,2000,PG-13,8 Seasons,"International TV Shows, TV Dramas",4.3,36.54,29684000,TRUE
+s512,Movie,Synthetic Title 512,Martin Scorsese,Scarlett Johansson,United States,"December 21, 2023",2020,NR,164mins,Documentaries,4.3,75.72,87758000,FALSE
+s513,TV Show,Synthetic Title 513,Steven Spielberg,"Leonardo DiCaprio, Morgan Freeman, Brad Pitt",India,"January 09, 2021",2003,NR,3 S,"International TV Shows, TV Dramas",8.1,9.37,10485000,FALSE
+s514,Movie,Synthetic Title 514,Christopher Nolan,Scarlett Johansson,"United States, Canada","April 15, 2021",1998,NR,135mins,"International TV Shows, TV Dramas",9,84.63,82933000,TRUE
+s515,tv show,Synthetic Title 515,Bong Joon Ho,Tom Hanks,Canada,43249,2002,TV-PG,6 S,Crime TV Shows,8.4,101.6,94650000,TRUE
+s516,TV Show,Synthetic Title 516,Ava DuVernay,Leonardo DiCaprio,Japan,42120,2010,PG-13,5 S,"Horror Movies, Thrillers",2.7,125.24,52600000,FALSE
+s517,Movie,Synthetic Title 517,,Viola Davis,Japan,42353,2006,NR,96 m,Comedies,6.1,94.98,47879000,FALSE
+s518,TV Show,Synthetic Title 518,Bong Joon Ho,"Scarlett Johansson, Brad Pitt",France,"May 23, 2016",2020,R,9 Seasons,"International TV Shows, TV Dramas",5.5,142.51,20348000,FALSE
+s519,MOVIE,Synthetic Title 519,Ava DuVernay,"Brad Pitt, Morgan Freeman, Viola Davis",France,"June 20, 2017",2022,TV-PG,172 m,Comedies,5.5,143.7,33597000,TRUE
+s520,Movie,Synthetic Title 520,Martin Scorsese,"Tom Hanks, Zendaya, Scarlett Johansson",Canada,43660,2009,TV-MA,174mins,"International TV Shows, TV Dramas",9.8,97.94,74876000,FALSE
+s521,tv show,Synthetic Title 521,Martin Scorsese,Zendaya,France,44217,2008,NR,8 S,"International TV Shows, TV Dramas",3.5,146.74,84770000,TRUE
+s522,TV Show,Synthetic Title 522,,"Scarlett Johansson, Brad Pitt",India,43574,2016,TV-PG,8 Seasons,Documentaries,8,118.19,69305000,TRUE
+s523,MOVIE,Synthetic Title 523,Christopher Nolan,Viola Davis,South Korea,43172,2001,TV-MA,109 min,Crime TV Shows,9.9,1.11,29874000,FALSE
+s524,movie ,Synthetic Title 524,Martin Scorsese,"Tom Hanks, Leonardo DiCaprio, Viola Davis",United States,44828,1995,NR,138 m,Comedies,5.5,107.96,60479000,FALSE
+s525,Movie,Synthetic Title 525,Ava DuVernay,"Zendaya, Brad Pitt, Tom Hanks",France,"June 09, 2021",1996,R,117 min,Comedies,7.8,19.32,44791000,TRUE
+s526,MOVIE,Synthetic Title 526,Bong Joon Ho,"Leonardo DiCaprio, Zendaya, Tom Hanks",United States,44121,1996,TV-14,119 min,Comedies,5,43.17,13513000,FALSE
+s527,MOVIE,Synthetic Title 527,,,"United States, Canada",44997,2002,TV-MA,160 min,"Horror Movies, Thrillers",8.3,55.51,62715000,FALSE
+s528,movie ,Synthetic Title 528,Christopher Nolan,"Tom Hanks, Morgan Freeman, Leonardo DiCaprio",India,"February 24, 2019",1999,R,85mins,Action & Adventure,2,118.46,100389000,FALSE
+s529,movie ,Synthetic Title 529,,"Viola Davis, Scarlett Johansson",Canada,"December 29, 2018",2017,TV-14,97 m,Documentaries,2.9,15.05,35794000,TRUE
+s530,TV Show,Synthetic Title 530,Martin Scorsese,Viola Davis,Canada,"February 12, 2022",2008,TV-14,6 Seasons,Comedies,5,82.98,8514000,FALSE
+s531,movie ,Synthetic Title 531,Bong Joon Ho,"Zendaya, Tom Hanks, Viola Davis",South Korea,42706,2011,NR,122 min,"Horror Movies, Thrillers",3.5,52.11,50775000,TRUE
+s532,MOVIE,Synthetic Title 532,Christopher Nolan,Zendaya,South Korea,43702,1994,TV-PG,60mins,Action & Adventure,4.5,108.33,36409000,TRUE
+s533,Movie,Synthetic Title 533,Steven Spielberg,"Brad Pitt, Leonardo DiCaprio","United States, Canada","July 17, 2017",2017,TV-MA,66 m,Crime TV Shows,5.8,40.58,25875000,TRUE
+s534,movie ,Synthetic Title 534,,"Morgan Freeman, Brad Pitt, Viola Davis",India,42659,2020,NR,165 m,Comedies,3.6,80.62,70608000,FALSE
+s535,MOVIE,Synthetic Title 535,Greta Gerwig,"Brad Pitt, Morgan Freeman, Viola Davis",Canada,45126,2017,R,141 m,Action & Adventure,4.7,128.39,84761000,TRUE
+s536,movie ,Synthetic Title 536,Ava DuVernay,"Morgan Freeman, Brad Pitt, Scarlett Johansson",United States,"December 26, 2018",1996,TV-MA,162mins,Comedies,2.1,83.57,48580000,TRUE
+s537,TV Show,Synthetic Title 537,Greta Gerwig,"Tom Hanks, Zendaya, Brad Pitt",France,43778,1994,TV-14,5 Seasons,Comedies,2,129.33,78333000,TRUE
+s538,Movie,Synthetic Title 538,Greta Gerwig,"Zendaya, Viola Davis",United Kingdom,44320,2014,PG-13,118 m,Comedies,2.2,39.76,28884000,TRUE
+s539,MOVIE,Synthetic Title 539,Bong Joon Ho,"Zendaya, Tom Hanks, Leonardo DiCaprio",Canada,"February 02, 2019",1994,NR,91 m,Documentaries,6.4,67.76,62675000,TRUE
+s540,TV Show,Synthetic Title 540,Greta Gerwig,"Tom Hanks, Leonardo DiCaprio, Zendaya",Canada,44654,2010,R,6 S,"Horror Movies, Thrillers",9.8,145.44,2596000,FALSE
+s541,Movie,Synthetic Title 541,Christopher Nolan,"Brad Pitt, Viola Davis",Japan,42782,2009,R,71 m,Documentaries,3.3,128.13,47570000,TRUE
+s542,movie ,Synthetic Title 542,Bong Joon Ho,"Zendaya, Tom Hanks",United States,"June 16, 2022",2014,TV-14,168 min,"International TV Shows, TV Dramas",6.6,40.34,10573000,FALSE
+s543,movie ,Synthetic Title 543,Christopher Nolan,Zendaya,Canada,"June 01, 2022",2014,NR,75 min,Comedies,5.8,106.04,32813000,TRUE
+s544,MOVIE,Synthetic Title 544,,"Morgan Freeman, Viola Davis",United States,44582,1995,TV-PG,85mins,Action & Adventure,3.3,98.94,13812000,TRUE
+s545,movie ,Synthetic Title 545,Ava DuVernay,"Leonardo DiCaprio, Zendaya, Scarlett Johansson",United Kingdom,43022,1996,R,122 min,Action & Adventure,2.5,19.15,3121000,FALSE
+s546,tv show,Synthetic Title 546,Bong Joon Ho,Viola Davis,United States,44604,2015,R,4 S,Comedies,6.6,25.89,26723000,TRUE
+s547,Movie,Synthetic Title 547,Martin Scorsese,"Morgan Freeman, Brad Pitt, Leonardo DiCaprio",Japan,44562,1994,TV-14,155 m,Crime TV Shows,7.7,64.04,65326000,FALSE
+s548,tv show,Synthetic Title 548,Martin Scorsese,Zendaya,"United States, Canada",43617,2004,R,8 Seasons,Crime TV Shows,1.4,42.91,60624000,FALSE
+s549,movie ,Synthetic Title 549,Christopher Nolan,"Viola Davis, Leonardo DiCaprio, Morgan Freeman",Japan,"January 27, 2023",2012,TV-14,156mins,Comedies,9.6,125.06,82344000,FALSE
+s550,MOVIE,Synthetic Title 550,Ava DuVernay,"Zendaya, Tom Hanks, Leonardo DiCaprio",Canada,44369,2004,TV-PG,120 m,Comedies,7.8,41.05,46665000,FALSE
+s551,movie ,Synthetic Title 551,Greta Gerwig,"Scarlett Johansson, Tom Hanks",India,44730,2021,PG-13,163 min,Comedies,2.1,36.35,44424000,TRUE
+s552,Movie,Synthetic Title 552,Steven Spielberg,"Viola Davis, Zendaya, Brad Pitt",South Korea,44012,2012,TV-14,99mins,Documentaries,9.9,74.67,43403000,FALSE
+s553,Movie,Synthetic Title 553,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio, Viola Davis",United States,44293,1998,NR,156 m,Comedies,4.9,29.17,65489000,TRUE
+s554,tv show,Synthetic Title 554,Steven Spielberg,Brad Pitt,France,"August 25, 2015",2000,TV-PG,8 Seasons,"Horror Movies, Thrillers",3.9,86.58,37909000,TRUE
+s555,Movie,Synthetic Title 555,Bong Joon Ho,"Viola Davis, Tom Hanks",France,42905,2011,NR,95 min,Crime TV Shows,2.6,124.18,2531000,FALSE
+s556,MOVIE,Synthetic Title 556,Bong Joon Ho,"Scarlett Johansson, Morgan Freeman",Japan,"July 20, 2016",2006,TV-PG,79 min,Documentaries,8.7,42.27,89255000,FALSE
+s557,movie ,Synthetic Title 557,Martin Scorsese,Brad Pitt,South Korea,42350,2010,TV-14,179mins,Documentaries,7.8,92.13,94306000,TRUE
+s558,movie ,Synthetic Title 558,Greta Gerwig,"Zendaya, Viola Davis",France,44886,1998,NR,114 min,Comedies,8.7,109.58,55178000,FALSE
+s559,tv show,Synthetic Title 559,Bong Joon Ho,"Morgan Freeman, Leonardo DiCaprio","United States, Canada",43153,2011,PG-13,4 S,Documentaries,3.1,31,78107000,TRUE
+s560,TV Show,Synthetic Title 560,Martin Scorsese,"Morgan Freeman, Viola Davis, Tom Hanks",India,44041,1991,TV-PG,1 Season,"International TV Shows, TV Dramas",5,112.77,77732000,FALSE
+s561,Movie,Synthetic Title 561,Christopher Nolan,"Zendaya, Scarlett Johansson, Viola Davis",United States,"March 20, 2019",2010,NR,146 m,Comedies,9,58.52,83358000,FALSE
+s562,TV Show,Synthetic Title 562,Ava DuVernay,"Morgan Freeman, Scarlett Johansson",Canada,44860,2003,PG-13,4 S,Crime TV Shows,3.4,78.48,46174000,FALSE
+s563,MOVIE,Synthetic Title 563,,"Brad Pitt, Tom Hanks","United States, Canada",44948,2006,TV-PG,128 min,Documentaries,9.3,64.5,45626000,TRUE
+s564,TV Show,Synthetic Title 564,,"Leonardo DiCaprio, Viola Davis",United States,"April 08, 2017",2023,PG-13,3 Seasons,Comedies,8.1,149.81,77911000,TRUE
+s565,MOVIE,Synthetic Title 565,Ava DuVernay,,Japan,43746,2019,R,166 min,Comedies,2.9,0.13,19502000,FALSE
+s566,MOVIE,Synthetic Title 566,Martin Scorsese,"Morgan Freeman, Tom Hanks","United States, Canada","June 15, 2018",2006,NR,146mins,Action & Adventure,8.2,10.18,63172000,FALSE
+s567,MOVIE,Synthetic Title 567,Ava DuVernay,Viola Davis,South Korea,"September 25, 2017",1993,NR,69 min,Action & Adventure,2.3,108.55,52616000,FALSE
+s568,TV Show,Synthetic Title 568,Greta Gerwig,Brad Pitt,Canada,43061,2002,TV-MA,9 S,"Horror Movies, Thrillers",2.1,105.78,93527000,FALSE
+s569,tv show,Synthetic Title 569,Martin Scorsese,,India,"April 22, 2018",2015,TV-MA,4 S,Action & Adventure,9.7,43.03,52427000,TRUE
+s570,MOVIE,Synthetic Title 570,Martin Scorsese,"Tom Hanks, Brad Pitt, Scarlett Johansson",United States,44397,2011,TV-MA,117 min,Crime TV Shows,8.8,54.93,12649000,TRUE
+s571,Movie,Synthetic Title 571,Steven Spielberg,"Zendaya, Leonardo DiCaprio, Viola Davis",France,44452,2022,TV-14,161 m,"International TV Shows, TV Dramas",2.5,66.52,2224000,TRUE
+s572,tv show,Synthetic Title 572,Bong Joon Ho,"Scarlett Johansson, Viola Davis, Leonardo DiCaprio",Canada,43624,2019,TV-MA,1 S,Documentaries,8.3,86.37,87463000,FALSE
+s573,tv show,Synthetic Title 573,Bong Joon Ho,"Leonardo DiCaprio, Viola Davis, Brad Pitt",United Kingdom,"September 04, 2022",2000,TV-MA,8 S,"International TV Shows, TV Dramas",6.1,18.95,71983000,FALSE
+s574,Movie,Synthetic Title 574,,"Tom Hanks, Scarlett Johansson",United Kingdom,45150,2006,TV-MA,93 m,Comedies,1.7,18.57,31935000,TRUE
+s575,movie ,Synthetic Title 575,Ava DuVernay,"Morgan Freeman, Viola Davis",India,"November 25, 2022",1996,R,137mins,Crime TV Shows,9.6,99.31,26790000,TRUE
+s576,TV Show,Synthetic Title 576,Bong Joon Ho,"Zendaya, Tom Hanks",India,44884,1994,PG-13,4 S,"Horror Movies, Thrillers",1.4,129.48,99740000,FALSE
+s577,TV Show,Synthetic Title 577,Greta Gerwig,,India,42374,1994,TV-14,6 S,"Horror Movies, Thrillers",8.7,61.81,58498000,TRUE
+s578,Movie,Synthetic Title 578,Christopher Nolan,"Tom Hanks, Brad Pitt, Leonardo DiCaprio",United States,43051,2015,PG-13,94 m,"Horror Movies, Thrillers",1.9,54.24,7645000,TRUE
+s579,MOVIE,Synthetic Title 579,Greta Gerwig,"Tom Hanks, Brad Pitt",France,45109,2000,TV-14,161 min,Comedies,9.3,144.03,66687000,FALSE
+s580,TV Show,Synthetic Title 580,Christopher Nolan,Brad Pitt,United Kingdom,43358,2007,TV-MA,2 S,Crime TV Shows,1.3,25.81,24530000,FALSE
+s581,TV Show,Synthetic Title 581,,"Viola Davis, Tom Hanks, Scarlett Johansson","United States, Canada","May 09, 2023",2001,TV-14,8 S,Action & Adventure,9.8,66.49,35594000,FALSE
+s582,movie ,Synthetic Title 582,Martin Scorsese,"Leonardo DiCaprio, Viola Davis",United States,"June 26, 2022",1993,TV-14,149mins,Comedies,6.6,4.22,54827000,TRUE
+s583,movie ,Synthetic Title 583,Greta Gerwig,"Brad Pitt, Tom Hanks, Morgan Freeman","United States, Canada",43794,2007,TV-14,172 m,"International TV Shows, TV Dramas",6.3,17.84,62347000,TRUE
+s584,tv show,Synthetic Title 584,Ava DuVernay,"Viola Davis, Brad Pitt, Leonardo DiCaprio",South Korea,"September 29, 2022",2018,TV-MA,3 Seasons,Action & Adventure,4.1,132.91,1164000,FALSE
+s585,TV Show,Synthetic Title 585,Ava DuVernay,"Morgan Freeman, Brad Pitt",India,"January 31, 2021",2023,TV-14,5 S,Documentaries,4.3,145.11,35644000,TRUE
+s586,movie ,Synthetic Title 586,Greta Gerwig,Viola Davis,Japan,43598,1990,R,92 min,"Horror Movies, Thrillers",8.3,147.26,90341000,TRUE
+s587,tv show,Synthetic Title 587,Ava DuVernay,Morgan Freeman,Canada,44860,2015,PG-13,9 S,"Horror Movies, Thrillers",7.7,26.16,96713000,TRUE
+s588,movie ,Synthetic Title 588,,,South Korea,42640,1991,R,141mins,Comedies,2.1,120.39,91341000,FALSE
+s589,movie ,Synthetic Title 589,,,"United States, Canada",42013,2004,TV-MA,136mins,Documentaries,9.1,132.13,93299000,TRUE
+s590,movie ,Synthetic Title 590,Bong Joon Ho,Zendaya,"United States, Canada",43671,2004,TV-14,79 min,Crime TV Shows,9.9,125.98,8285000,FALSE
+s591,movie ,Synthetic Title 591,Bong Joon Ho,Leonardo DiCaprio,United Kingdom,42148,1999,TV-14,73mins,Comedies,4.3,44.53,99903000,TRUE
+s592,tv show,Synthetic Title 592,Christopher Nolan,Scarlett Johansson,"United States, Canada",43240,2015,R,2 S,"Horror Movies, Thrillers",3.4,123.97,40241000,TRUE
+s593,Movie,Synthetic Title 593,Bong Joon Ho,Zendaya,Canada,"September 17, 2019",1994,PG-13,124 min,Comedies,1.6,23.73,35438000,FALSE
+s594,TV Show,Synthetic Title 594,Martin Scorsese,"Zendaya, Leonardo DiCaprio",United Kingdom,"June 16, 2020",1993,PG-13,5 Seasons,"Horror Movies, Thrillers",1.4,99.08,81192000,TRUE
+s595,TV Show,Synthetic Title 595,Christopher Nolan,"Tom Hanks, Brad Pitt, Zendaya",United Kingdom,"April 28, 2022",2022,TV-MA,1 Season,Crime TV Shows,5.9,134.4,66422000,FALSE
+s596,movie ,Synthetic Title 596,Martin Scorsese,"Brad Pitt, Zendaya, Viola Davis",United States,45026,1998,TV-14,70mins,"International TV Shows, TV Dramas",9.2,22.94,92110000,FALSE
+s597,tv show,Synthetic Title 597,Steven Spielberg,,India,"May 24, 2018",1991,TV-MA,6 S,Documentaries,4.1,30,57480000,FALSE
+s598,TV Show,Synthetic Title 598,Martin Scorsese,"Brad Pitt, Leonardo DiCaprio",Canada,43100,1999,PG-13,6 S,Action & Adventure,8.2,81.82,7644000,FALSE
+s599,TV Show,Synthetic Title 599,Steven Spielberg,"Leonardo DiCaprio, Viola Davis",United States,"April 16, 2021",1990,PG-13,8 Seasons,Crime TV Shows,4.4,45.36,97893000,FALSE
+s600,MOVIE,Synthetic Title 600,Steven Spielberg,Leonardo DiCaprio,"United States, Canada",44742,1995,NR,115mins,Crime TV Shows,9.5,85.46,54722000,FALSE
+s601,Movie,Synthetic Title 601,Bong Joon Ho,Zendaya,"United States, Canada",43952,2014,TV-MA,125 m,Crime TV Shows,6.1,123.13,79886000,FALSE
+s602,tv show,Synthetic Title 602,Steven Spielberg,"Brad Pitt, Tom Hanks, Scarlett Johansson",South Korea,42303,2019,TV-PG,5 S,"International TV Shows, TV Dramas",5.5,13.7,86906000,FALSE
+s603,movie ,Synthetic Title 603,Greta Gerwig,Tom Hanks,United Kingdom,43401,1990,R,103 m,Crime TV Shows,5.1,25.36,24321000,FALSE
+s604,tv show,Synthetic Title 604,Ava DuVernay,Tom Hanks,Canada,42202,2009,TV-PG,10 S,"Horror Movies, Thrillers",3.2,41.9,13872000,TRUE
+s605,movie ,Synthetic Title 605,Steven Spielberg,,United Kingdom,"July 16, 2017",1992,NR,95 min,"Horror Movies, Thrillers",4.2,61.59,93456000,TRUE
+s606,MOVIE,Synthetic Title 606,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio",United Kingdom,42504,2004,PG-13,135 min,Documentaries,7.1,99.41,33997000,TRUE
+s607,TV Show,Synthetic Title 607,Ava DuVernay,"Zendaya, Tom Hanks, Morgan Freeman",United Kingdom,42833,2003,PG-13,8 S,Crime TV Shows,1.4,52.18,65450000,FALSE
+s608,MOVIE,Synthetic Title 608,Ava DuVernay,"Brad Pitt, Morgan Freeman, Leonardo DiCaprio",Canada,44260,2018,R,161 min,Action & Adventure,9.1,93.99,19501000,TRUE
+s609,TV Show,Synthetic Title 609,,"Viola Davis, Tom Hanks",United States,"January 18, 2023",2022,NR,5 S,Crime TV Shows,999,105.34,73458000,FALSE
+s610,Movie,Synthetic Title 610,Ava DuVernay,"Zendaya, Leonardo DiCaprio, Morgan Freeman",Canada,42731,2000,NR,99 m,Crime TV Shows,1.6,80.27,66399000,FALSE
+s611,MOVIE,Synthetic Title 611,Greta Gerwig,"Zendaya, Scarlett Johansson, Morgan Freeman",India,42342,1993,TV-PG,101mins,Action & Adventure,9.9,69.08,22215000,TRUE
+s612,tv show,Synthetic Title 612,Ava DuVernay,"Viola Davis, Zendaya, Morgan Freeman",United Kingdom,43352,2012,R,6 Seasons,"International TV Shows, TV Dramas",6.1,16.63,11307000,TRUE
+s613,Movie,Synthetic Title 613,Ava DuVernay,Morgan Freeman,United States,43474,2002,NR,92mins,"International TV Shows, TV Dramas",5.9,29.05,93567000,FALSE
+s614,Movie,Synthetic Title 614,Christopher Nolan,"Zendaya, Tom Hanks",United States,42062,2023,NR,169mins,Action & Adventure,3.7,113.16,39304000,FALSE
+s615,tv show,Synthetic Title 615,Ava DuVernay,"Leonardo DiCaprio, Scarlett Johansson, Morgan Freeman",United Kingdom,"November 19, 2016",2007,NR,1 S,Comedies,3.7,104.76,55219000,TRUE
+s616,tv show,Synthetic Title 616,Greta Gerwig,"Leonardo DiCaprio, Scarlett Johansson, Viola Davis",Canada,45208,2023,TV-PG,2 S,Comedies,1.6,143.44,37553000,FALSE
+s617,TV Show,Synthetic Title 617,Bong Joon Ho,,Canada,"September 08, 2023",2019,TV-MA,8 S,"Horror Movies, Thrillers",3.7,120.64,80853000,FALSE
+s618,Movie,Synthetic Title 618,,"Viola Davis, Tom Hanks, Scarlett Johansson","United States, Canada",42043,2015,PG-13,143 min,"Horror Movies, Thrillers",6,24.45,80806000,FALSE
+s619,movie ,Synthetic Title 619,Steven Spielberg,"Leonardo DiCaprio, Brad Pitt",France,"December 23, 2021",2013,TV-MA,174 min,"Horror Movies, Thrillers",9.8,133,84314000,TRUE
+s620,tv show,Synthetic Title 620,Bong Joon Ho,"Leonardo DiCaprio, Brad Pitt, Scarlett Johansson","United States, Canada","May 21, 2018",2005,TV-PG,7 Seasons,Action & Adventure,6.1,7.47,96426000,TRUE
+s621,TV Show,Synthetic Title 621,,"Scarlett Johansson, Zendaya, Leonardo DiCaprio",India,43357,2023,NR,9 Seasons,Crime TV Shows,1.8,112.57,59907000,TRUE
+s622,MOVIE,Synthetic Title 622,,Leonardo DiCaprio,"United States, Canada","November 25, 2020",1991,PG-13,135mins,"Horror Movies, Thrillers",9.4,71.06,71192000,FALSE
+s623,tv show,Synthetic Title 623,Bong Joon Ho,"Scarlett Johansson, Zendaya, Leonardo DiCaprio",United Kingdom,"May 03, 2018",2011,NR,10 Seasons,Action & Adventure,2.6,69.76,76667000,TRUE
+s624,Movie,Synthetic Title 624,Greta Gerwig,"Brad Pitt, Leonardo DiCaprio",United Kingdom,42267,1990,TV-14,151 min,Action & Adventure,8.7,111.98,61148000,FALSE
+s625,TV Show,Synthetic Title 625,Bong Joon Ho,Viola Davis,Canada,42324,1993,TV-PG,8 Seasons,Documentaries,4,59.46,86285000,TRUE
+s626,tv show,Synthetic Title 626,Greta Gerwig,"Brad Pitt, Scarlett Johansson",South Korea,42198,1998,TV-MA,2 Seasons,Action & Adventure,3,2.8,75312000,FALSE
+s627,tv show,Synthetic Title 627,Ava DuVernay,"Leonardo DiCaprio, Brad Pitt, Zendaya",United States,"February 24, 2020",2019,R,8 Seasons,Crime TV Shows,9.8,141.77,68260000,TRUE
+s628,tv show,Synthetic Title 628,Bong Joon Ho,"Scarlett Johansson, Morgan Freeman, Brad Pitt",France,42820,2004,TV-14,10 S,"International TV Shows, TV Dramas",4.2,142.13,49225000,FALSE
+s629,MOVIE,Synthetic Title 629,Greta Gerwig,"Tom Hanks, Morgan Freeman",France,44165,2016,PG-13,114 min,Comedies,8.5,118.3,45903000,TRUE
+s630,Movie,Synthetic Title 630,Bong Joon Ho,Tom Hanks,United States,"March 16, 2018",1990,R,104 m,"International TV Shows, TV Dramas",3.8,12.25,67550000,FALSE
+s631,movie ,Synthetic Title 631,Bong Joon Ho,"Viola Davis, Brad Pitt",Japan,44163,2018,NR,176mins,Documentaries,2.2,40.65,12694000,FALSE
+s632,tv show,Synthetic Title 632,Steven Spielberg,"Brad Pitt, Leonardo DiCaprio, Scarlett Johansson",South Korea,42338,1990,TV-14,1 Season,Action & Adventure,3.8,121.25,54156000,FALSE
+s633,tv show,Synthetic Title 633,Bong Joon Ho,,Japan,43155,2011,NR,5 Seasons,Crime TV Shows,7.5,85.84,25265000,FALSE
+s634,Movie,Synthetic Title 634,Greta Gerwig,"Tom Hanks, Brad Pitt",Canada,43389,2007,TV-PG,89mins,Crime TV Shows,8.4,34.78,82348000,FALSE
+s635,TV Show,Synthetic Title 635,Bong Joon Ho,Zendaya,Japan,44650,1992,TV-14,9 S,Documentaries,7.1,41.01,58404000,TRUE
+s636,Movie,Synthetic Title 636,Martin Scorsese,"Morgan Freeman, Brad Pitt, Scarlett Johansson","United States, Canada",44294,2006,NR,123mins,Comedies,9.6,107.83,32330000,FALSE
+s637,MOVIE,Synthetic Title 637,Greta Gerwig,"Brad Pitt, Viola Davis, Scarlett Johansson",United Kingdom,"November 21, 2015",1991,NR,131mins,Documentaries,5.6,129.37,92570000,TRUE
+s638,movie ,Synthetic Title 638,Greta Gerwig,Brad Pitt,South Korea,44137,1993,TV-PG,93 m,Comedies,4.3,58.19,40681000,FALSE
+s639,tv show,Synthetic Title 639,Steven Spielberg,"Tom Hanks, Zendaya, Brad Pitt",United States,"April 17, 2021",2019,TV-PG,8 S,Crime TV Shows,7,113.23,34597000,TRUE
+s640,tv show,Synthetic Title 640,,Tom Hanks,South Korea,42220,2020,R,9 S,Action & Adventure,1.2,144.5,80296000,FALSE
+s641,TV Show,Synthetic Title 641,Martin Scorsese,Brad Pitt,France,42722,2005,TV-PG,6 S,"International TV Shows, TV Dramas",2.3,149.46,32798000,TRUE
+s642,MOVIE,Synthetic Title 642,Martin Scorsese,,United Kingdom,44464,1993,TV-14,69 m,Action & Adventure,1.1,133.78,33597000,TRUE
+s643,movie ,Synthetic Title 643,,"Zendaya, Morgan Freeman",Japan,44266,2009,TV-PG,114mins,"Horror Movies, Thrillers",999,17.5,28172000,TRUE
+s644,MOVIE,Synthetic Title 644,Martin Scorsese,"Brad Pitt, Morgan Freeman",United Kingdom,42099,2009,R,151 min,"Horror Movies, Thrillers",2.9,119.04,33117000,TRUE
+s645,Movie,Synthetic Title 645,Greta Gerwig,"Morgan Freeman, Zendaya, Tom Hanks",South Korea,43510,2023,TV-14,100mins,Crime TV Shows,3.7,119.21,43454000,FALSE
+s646,TV Show,Synthetic Title 646,Christopher Nolan,"Morgan Freeman, Tom Hanks, Brad Pitt",Canada,44974,2011,TV-MA,8 Seasons,"Horror Movies, Thrillers",5.9,6.96,32110000,FALSE
+s647,MOVIE,Synthetic Title 647,Ava DuVernay,"Scarlett Johansson, Tom Hanks",India,"March 26, 2020",1995,PG-13,77 m,"International TV Shows, TV Dramas",8,3.52,4149000,FALSE
+s648,TV Show,Synthetic Title 648,Bong Joon Ho,"Tom Hanks, Morgan Freeman, Brad Pitt",Japan,42993,2019,TV-14,6 Seasons,"Horror Movies, Thrillers",6.5,33.56,62245000,FALSE
+s649,TV Show,Synthetic Title 649,Greta Gerwig,"Scarlett Johansson, Tom Hanks",India,"May 11, 2020",2010,PG-13,2 S,"International TV Shows, TV Dramas",2.9,127.56,45506000,FALSE
+s650,tv show,Synthetic Title 650,Martin Scorsese,Morgan Freeman,"United States, Canada",44194,1990,R,7 S,Action & Adventure,7.4,17.87,79260000,TRUE
+s651,movie ,Synthetic Title 651,,Tom Hanks,United Kingdom,44563,1994,PG-13,105 min,Action & Adventure,1.3,105.77,32690000,FALSE
+s652,MOVIE,Synthetic Title 652,,"Leonardo DiCaprio, Brad Pitt","United States, Canada","May 17, 2017",2023,R,105 m,"Horror Movies, Thrillers",1.5,8.08,24151000,FALSE
+s653,movie ,Synthetic Title 653,Ava DuVernay,"Brad Pitt, Viola Davis, Scarlett Johansson",Japan,"February 05, 2015",2004,PG-13,85mins,Crime TV Shows,9.4,117.6,18660000,TRUE
+s654,movie ,Synthetic Title 654,Bong Joon Ho,"Zendaya, Scarlett Johansson",Japan,43983,2006,TV-14,96 m,Crime TV Shows,4.4,23.31,45363000,TRUE
+s655,MOVIE,Synthetic Title 655,Steven Spielberg,"Viola Davis, Brad Pitt",South Korea,42732,1990,PG-13,124 min,Crime TV Shows,2.3,107.79,24511000,FALSE
+s656,movie ,Synthetic Title 656,,"Morgan Freeman, Zendaya",India,44255,2009,TV-PG,149 m,"International TV Shows, TV Dramas",3.3,7.07,85526000,TRUE
+s657,TV Show,Synthetic Title 657,Greta Gerwig,"Brad Pitt, Tom Hanks",Canada,"October 11, 2016",2005,R,3 Seasons,Comedies,9.3,59.07,35651000,FALSE
+s658,Movie,Synthetic Title 658,Bong Joon Ho,Leonardo DiCaprio,"United States, Canada",42888,2023,NR,174mins,Crime TV Shows,2,124.42,78249000,TRUE
+s659,tv show,Synthetic Title 659,,Zendaya,Canada,44685,2009,TV-MA,2 S,"International TV Shows, TV Dramas",5.3,76.5,80837000,TRUE
+s660,Movie,Synthetic Title 660,Bong Joon Ho,Zendaya,Canada,"April 20, 2016",1991,PG-13,175 m,"International TV Shows, TV Dramas",7.6,110.39,75556000,FALSE
+s661,Movie,Synthetic Title 661,Greta Gerwig,"Viola Davis, Zendaya",Canada,42639,2007,TV-14,156mins,Action & Adventure,1.7,101.4,24504000,TRUE
+s662,movie ,Synthetic Title 662,Greta Gerwig,"Scarlett Johansson, Viola Davis","United States, Canada","November 04, 2023",2021,TV-PG,173 min,"Horror Movies, Thrillers",3,47.45,76745000,FALSE
+s663,TV Show,Synthetic Title 663,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Brad Pitt",Japan,"August 12, 2017",2010,R,8 S,Crime TV Shows,2.3,140.59,35728000,FALSE
+s664,movie ,Synthetic Title 664,,,United Kingdom,44680,2001,TV-MA,82 min,"Horror Movies, Thrillers",999,47.49,12804000,TRUE
+s665,movie ,Synthetic Title 665,Ava DuVernay,"Viola Davis, Tom Hanks, Brad Pitt","United States, Canada",43109,2009,TV-MA,62 min,Crime TV Shows,7,3.34,88304000,TRUE
+s666,MOVIE,Synthetic Title 666,Christopher Nolan,Viola Davis,Japan,42544,1994,TV-14,175 min,Crime TV Shows,5.9,86.41,48428000,TRUE
+s667,Movie,Synthetic Title 667,,Brad Pitt,United States,42632,2003,TV-14,104 min,"International TV Shows, TV Dramas",5.9,120.81,57157000,FALSE
+s668,MOVIE,Synthetic Title 668,Martin Scorsese,"Tom Hanks, Zendaya",South Korea,"April 05, 2020",2007,NR,93mins,Crime TV Shows,9.9,96.31,13868000,FALSE
+s669,MOVIE,Synthetic Title 669,Steven Spielberg,"Scarlett Johansson, Viola Davis, Tom Hanks",United Kingdom,43923,2006,TV-PG,168 m,Crime TV Shows,2.1,91.62,55825000,TRUE
+s670,tv show,Synthetic Title 670,Steven Spielberg,Brad Pitt,United States,42176,1991,NR,1 S,Documentaries,5.9,137.49,35251000,TRUE
+s671,tv show,Synthetic Title 671,Greta Gerwig,"Leonardo DiCaprio, Morgan Freeman",India,"August 01, 2016",2013,TV-14,2 S,Comedies,5.5,76.81,86538000,FALSE
+s672,movie ,Synthetic Title 672,Bong Joon Ho,Viola Davis,India,44477,2004,PG-13,103 min,"Horror Movies, Thrillers",5.8,84.69,41297000,TRUE
+s673,MOVIE,Synthetic Title 673,Christopher Nolan,Brad Pitt,Canada,42197,1990,TV-PG,102mins,Documentaries,7.1,54.17,51635000,TRUE
+s674,TV Show,Synthetic Title 674,Martin Scorsese,Zendaya,"United States, Canada",44553,2014,NR,10 Seasons,Action & Adventure,7.7,54.95,9567000,FALSE
+s675,TV Show,Synthetic Title 675,Christopher Nolan,"Zendaya, Leonardo DiCaprio",Canada,42022,2012,R,6 Seasons,Action & Adventure,9.9,124.28,72549000,FALSE
+s676,TV Show,Synthetic Title 676,Martin Scorsese,Leonardo DiCaprio,Japan,"March 30, 2015",1997,PG-13,2 Seasons,Action & Adventure,4.7,126.71,49586000,FALSE
+s677,Movie,Synthetic Title 677,Steven Spielberg,Zendaya,United States,42445,2021,R,122 m,"Horror Movies, Thrillers",3.5,4.8,47474000,TRUE
+s678,tv show,Synthetic Title 678,Martin Scorsese,"Zendaya, Tom Hanks",South Korea,44045,1995,NR,6 S,Documentaries,6,29.5,75607000,FALSE
+s679,MOVIE,Synthetic Title 679,Christopher Nolan,"Leonardo DiCaprio, Morgan Freeman",United Kingdom,"June 07, 2020",2008,PG-13,145 min,Action & Adventure,1.9,108.3,11376000,TRUE
+s680,tv show,Synthetic Title 680,,,South Korea,"October 07, 2016",2008,TV-14,3 S,Crime TV Shows,5.3,141.83,62929000,TRUE
+s681,movie ,Synthetic Title 681,,,Japan,43085,1995,TV-MA,102 min,Comedies,2,103.04,9390000,TRUE
+s682,Movie,Synthetic Title 682,Martin Scorsese,"Viola Davis, Zendaya, Tom Hanks",United States,43073,2023,TV-14,137 m,Comedies,7.5,10.97,24987000,FALSE
+s683,TV Show,Synthetic Title 683,,"Zendaya, Leonardo DiCaprio, Morgan Freeman",South Korea,"May 18, 2023",2014,R,1 Season,Crime TV Shows,9.2,125.88,92303000,FALSE
+s684,tv show,Synthetic Title 684,Steven Spielberg,Viola Davis,South Korea,42949,1995,NR,1 S,Comedies,4.5,91.65,35457000,TRUE
+s685,MOVIE,Synthetic Title 685,Steven Spielberg,"Tom Hanks, Zendaya, Leonardo DiCaprio",South Korea,"April 30, 2021",2015,R,163mins,"International TV Shows, TV Dramas",7.6,34.77,40924000,TRUE
+s686,MOVIE,Synthetic Title 686,Greta Gerwig,"Zendaya, Leonardo DiCaprio",France,"December 07, 2020",2006,R,100 min,Comedies,5.9,14.44,63903000,TRUE
+s687,TV Show,Synthetic Title 687,Martin Scorsese,"Zendaya, Viola Davis",Japan,"June 04, 2020",2005,TV-PG,2 Seasons,"Horror Movies, Thrillers",999,81.97,26610000,TRUE
+s688,movie ,Synthetic Title 688,Steven Spielberg,"Viola Davis, Brad Pitt","United States, Canada",43748,2014,TV-MA,86 m,Documentaries,7.6,83.83,69457000,TRUE
+s689,TV Show,Synthetic Title 689,Bong Joon Ho,"Morgan Freeman, Zendaya",Canada,43067,2001,TV-MA,4 S,Comedies,8.5,146.66,58940000,TRUE
+s690,movie ,Synthetic Title 690,Ava DuVernay,Morgan Freeman,South Korea,43654,2015,TV-14,67 m,"Horror Movies, Thrillers",6.2,63.92,33633000,FALSE
+s691,movie ,Synthetic Title 691,Martin Scorsese,"Viola Davis, Leonardo DiCaprio","United States, Canada",44514,1998,R,145mins,Action & Adventure,1.6,96.07,96247000,TRUE
+s692,TV Show,Synthetic Title 692,Ava DuVernay,"Viola Davis, Tom Hanks",India,43836,1990,NR,9 S,Documentaries,5.5,29.42,97889000,FALSE
+s693,MOVIE,Synthetic Title 693,Martin Scorsese,"Zendaya, Scarlett Johansson, Tom Hanks",Japan,"August 27, 2023",1991,TV-MA,78 m,Documentaries,3,18.29,76164000,FALSE
+s694,MOVIE,Synthetic Title 694,Bong Joon Ho,"Scarlett Johansson, Viola Davis","United States, Canada",43936,1997,TV-14,154 m,Documentaries,2.4,86.21,63670000,TRUE
+s695,movie ,Synthetic Title 695,Christopher Nolan,"Morgan Freeman, Leonardo DiCaprio",Japan,43432,1994,TV-14,108mins,"Horror Movies, Thrillers",9.9,12.03,61832000,FALSE
+s696,TV Show,Synthetic Title 696,Greta Gerwig,"Zendaya, Morgan Freeman, Leonardo DiCaprio",India,44903,2004,PG-13,3 S,Comedies,4.1,58.26,24683000,FALSE
+s697,MOVIE,Synthetic Title 697,Martin Scorsese,"Morgan Freeman, Brad Pitt",South Korea,43949,2014,TV-PG,63mins,"Horror Movies, Thrillers",8.2,89.1,7835000,TRUE
+s698,tv show,Synthetic Title 698,Martin Scorsese,"Leonardo DiCaprio, Zendaya",Japan,44580,2022,TV-14,5 S,Action & Adventure,4.3,74.09,66453000,TRUE
+s699,MOVIE,Synthetic Title 699,Bong Joon Ho,"Brad Pitt, Morgan Freeman, Zendaya",Japan,"January 08, 2016",2001,TV-MA,84 min,Crime TV Shows,1.5,69.98,35399000,TRUE
+s700,TV Show,Synthetic Title 700,,"Zendaya, Brad Pitt",France,"July 24, 2015",2002,TV-14,1 Season,Documentaries,6.3,31.02,70948000,FALSE
+s701,MOVIE,Synthetic Title 701,Bong Joon Ho,"Viola Davis, Scarlett Johansson",South Korea,"October 05, 2019",2012,NR,66 min,"Horror Movies, Thrillers",7,23.67,23111000,TRUE
+s702,TV Show,Synthetic Title 702,Greta Gerwig,"Viola Davis, Leonardo DiCaprio, Morgan Freeman",United States,43730,2010,R,3 S,Comedies,1.5,37.29,100713000,TRUE
+s703,Movie,Synthetic Title 703,,"Viola Davis, Scarlett Johansson",India,44362,2015,NR,74 min,Crime TV Shows,4.9,24.02,20529000,TRUE
+s704,tv show,Synthetic Title 704,Greta Gerwig,Brad Pitt,France,43090,2001,TV-PG,9 Seasons,"Horror Movies, Thrillers",3.6,149.31,93498000,FALSE
+s705,tv show,Synthetic Title 705,Christopher Nolan,"Morgan Freeman, Scarlett Johansson",South Korea,44563,2008,TV-14,5 Seasons,Documentaries,3.4,84.79,34975000,FALSE
+s706,TV Show,Synthetic Title 706,Christopher Nolan,"Tom Hanks, Brad Pitt, Scarlett Johansson","United States, Canada","October 12, 2016",1998,NR,10 S,"Horror Movies, Thrillers",9.7,22.85,2356000,TRUE
+s707,TV Show,Synthetic Title 707,,,France,"February 20, 2023",2000,TV-PG,7 S,"International TV Shows, TV Dramas",9.5,39.48,61409000,TRUE
+s708,movie ,Synthetic Title 708,Christopher Nolan,"Scarlett Johansson, Tom Hanks, Zendaya",Japan,"July 19, 2022",2009,R,98 m,Comedies,5.1,147.83,19562000,TRUE
+s709,tv show,Synthetic Title 709,Steven Spielberg,"Brad Pitt, Zendaya","United States, Canada","March 04, 2019",2001,R,6 Seasons,Crime TV Shows,6,133.25,58660000,FALSE
+s710,Movie,Synthetic Title 710,Bong Joon Ho,,United Kingdom,43326,2000,NR,77 min,Crime TV Shows,1.4,127.57,33638000,TRUE
+s711,MOVIE,Synthetic Title 711,Steven Spielberg,,United Kingdom,43451,2003,NR,81 min,Action & Adventure,7,3.69,31446000,FALSE
+s712,tv show,Synthetic Title 712,Christopher Nolan,"Brad Pitt, Zendaya, Scarlett Johansson","United States, Canada","May 13, 2016",1993,TV-PG,4 S,"Horror Movies, Thrillers",8.9,124.72,79285000,FALSE
+s713,movie ,Synthetic Title 713,Christopher Nolan,Zendaya,Japan,"October 03, 2022",1995,TV-PG,77 min,Comedies,999,130.65,20557000,FALSE
+s714,TV Show,Synthetic Title 714,Martin Scorsese,Tom Hanks,Japan,42327,2022,PG-13,6 S,Comedies,7.3,111.11,50452000,TRUE
+s715,TV Show,Synthetic Title 715,Christopher Nolan,"Morgan Freeman, Scarlett Johansson, Zendaya",United States,"November 01, 2015",2019,TV-PG,4 S,"International TV Shows, TV Dramas",6.8,47.22,33486000,TRUE
+s716,tv show,Synthetic Title 716,Martin Scorsese,"Scarlett Johansson, Brad Pitt",United States,"February 27, 2020",1990,TV-14,7 Seasons,"Horror Movies, Thrillers",1.8,16,96472000,FALSE
+s717,tv show,Synthetic Title 717,Steven Spielberg,Tom Hanks,"United States, Canada","April 06, 2015",2004,R,2 Seasons,"International TV Shows, TV Dramas",6.8,3.89,43220000,TRUE
+s718,Movie,Synthetic Title 718,Christopher Nolan,"Zendaya, Leonardo DiCaprio","United States, Canada",44566,2023,NR,155 m,"International TV Shows, TV Dramas",8.8,144.72,76863000,FALSE
+s719,TV Show,Synthetic Title 719,Martin Scorsese,"Scarlett Johansson, Viola Davis, Zendaya","United States, Canada",42707,2002,TV-MA,4 S,"International TV Shows, TV Dramas",5.6,86.46,92103000,FALSE
+s720,TV Show,Synthetic Title 720,Martin Scorsese,Viola Davis,United Kingdom,43723,2014,R,2 Seasons,Action & Adventure,4.4,23.71,47253000,TRUE
+s721,TV Show,Synthetic Title 721,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Scarlett Johansson","United States, Canada","April 11, 2019",2005,TV-14,6 Seasons,Action & Adventure,6.2,132.97,40186000,TRUE
+s722,movie ,Synthetic Title 722,Bong Joon Ho,"Viola Davis, Leonardo DiCaprio, Zendaya",France,45245,1994,TV-MA,172 m,"International TV Shows, TV Dramas",7.7,66.05,55399000,FALSE
+s723,movie ,Synthetic Title 723,Ava DuVernay,"Brad Pitt, Viola Davis",South Korea,42697,2001,TV-MA,175 min,Action & Adventure,8.9,27.73,47177000,TRUE
+s724,Movie,Synthetic Title 724,Martin Scorsese,Morgan Freeman,South Korea,42891,1998,TV-MA,129 m,"International TV Shows, TV Dramas",7.6,6.29,87971000,FALSE
+s725,MOVIE,Synthetic Title 725,Steven Spielberg,Leonardo DiCaprio,"United States, Canada",43662,1998,PG-13,112 m,Documentaries,4.8,91.87,14885000,FALSE
+s726,MOVIE,Synthetic Title 726,Ava DuVernay,Brad Pitt,South Korea,"September 04, 2016",2023,PG-13,67 min,"Horror Movies, Thrillers",7.6,119.4,25868000,FALSE
+s727,TV Show,Synthetic Title 727,Steven Spielberg,"Morgan Freeman, Tom Hanks",Japan,42064,1990,TV-MA,8 Seasons,Crime TV Shows,7.2,129.72,26871000,FALSE
+s728,MOVIE,Synthetic Title 728,Christopher Nolan,"Tom Hanks, Leonardo DiCaprio, Viola Davis",France,42525,2009,TV-14,85 min,Documentaries,1,47.05,76572000,FALSE
+s729,Movie,Synthetic Title 729,Greta Gerwig,"Viola Davis, Brad Pitt, Tom Hanks",France,44263,2006,TV-MA,171 m,"International TV Shows, TV Dramas",8.8,54.22,96672000,FALSE
+s730,tv show,Synthetic Title 730,Christopher Nolan,Zendaya,United Kingdom,42681,1998,TV-PG,7 S,"Horror Movies, Thrillers",7.4,100.98,8277000,TRUE
+s731,tv show,Synthetic Title 731,Steven Spielberg,Leonardo DiCaprio,Canada,43020,2022,TV-14,2 S,Comedies,7.5,47.55,96195000,FALSE
+s732,MOVIE,Synthetic Title 732,Christopher Nolan,"Morgan Freeman, Brad Pitt, Viola Davis",India,44858,2003,TV-PG,62mins,Documentaries,9.1,132.95,76527000,FALSE
+s733,Movie,Synthetic Title 733,Martin Scorsese,"Zendaya, Scarlett Johansson, Viola Davis",Japan,"March 25, 2022",2016,TV-MA,176 m,Crime TV Shows,3.6,80.33,58843000,FALSE
+s734,MOVIE,Synthetic Title 734,Steven Spielberg,"Scarlett Johansson, Leonardo DiCaprio","United States, Canada",45017,2017,TV-MA,127 m,Comedies,1.3,122.51,46995000,FALSE
+s735,MOVIE,Synthetic Title 735,Ava DuVernay,"Leonardo DiCaprio, Morgan Freeman",Japan,42095,2005,TV-MA,71 m,Action & Adventure,3.1,7.81,79615000,TRUE
+s736,movie ,Synthetic Title 736,Steven Spielberg,,France,42838,2003,TV-14,91 min,Action & Adventure,3,20.79,98737000,FALSE
+s737,tv show,Synthetic Title 737,Ava DuVernay,Morgan Freeman,United Kingdom,43347,2020,NR,6 S,"Horror Movies, Thrillers",2.2,101.1,24474000,TRUE
+s738,TV Show,Synthetic Title 738,Greta Gerwig,"Zendaya, Leonardo DiCaprio, Scarlett Johansson",United States,43434,2017,PG-13,4 S,Comedies,9.1,103.64,94742000,TRUE
+s739,TV Show,Synthetic Title 739,Christopher Nolan,Viola Davis,"United States, Canada",42776,2023,R,8 S,"International TV Shows, TV Dramas",8.4,112.3,94152000,TRUE
+s740,TV Show,Synthetic Title 740,Martin Scorsese,"Viola Davis, Zendaya, Brad Pitt","United States, Canada",43876,2005,R,1 Season,"Horror Movies, Thrillers",5.6,42.17,33852000,FALSE
+s741,tv show,Synthetic Title 741,Greta Gerwig,"Brad Pitt, Scarlett Johansson",India,"November 13, 2020",1991,PG-13,3 S,"Horror Movies, Thrillers",4.9,36.76,71200000,FALSE
+s742,Movie,Synthetic Title 742,Bong Joon Ho,"Tom Hanks, Zendaya",Canada,44905,2008,PG-13,165 m,Comedies,5.1,49.9,8135000,FALSE
+s743,tv show,Synthetic Title 743,Steven Spielberg,"Zendaya, Tom Hanks",United Kingdom,44629,2023,NR,6 S,"Horror Movies, Thrillers",6.4,49.54,53489000,FALSE
+s744,tv show,Synthetic Title 744,Ava DuVernay,"Morgan Freeman, Viola Davis",Canada,44502,2023,TV-14,8 Seasons,"International TV Shows, TV Dramas",7.6,10.65,44536000,FALSE
+s745,movie ,Synthetic Title 745,Bong Joon Ho,"Leonardo DiCaprio, Tom Hanks",Japan,"August 04, 2021",1995,TV-PG,99 m,"International TV Shows, TV Dramas",1.1,129.96,27141000,TRUE
+s746,TV Show,Synthetic Title 746,Bong Joon Ho,"Brad Pitt, Zendaya",India,44594,1998,TV-PG,5 Seasons,Documentaries,6.3,63.95,80665000,TRUE
+s747,Movie,Synthetic Title 747,Steven Spielberg,"Brad Pitt, Zendaya",India,43685,1995,NR,134 min,"International TV Shows, TV Dramas",5.7,46.67,77691000,TRUE
+s748,TV Show,Synthetic Title 748,Martin Scorsese,"Leonardo DiCaprio, Viola Davis",Japan,44900,2013,PG-13,9 Seasons,Action & Adventure,6.9,115.62,40403000,FALSE
+s749,Movie,Synthetic Title 749,Martin Scorsese,"Morgan Freeman, Tom Hanks","United States, Canada",44325,2019,R,100mins,Comedies,8.4,31.21,19373000,FALSE
+s750,TV Show,Synthetic Title 750,Greta Gerwig,"Scarlett Johansson, Leonardo DiCaprio",Japan,42439,1995,TV-PG,10 S,"Horror Movies, Thrillers",3.5,59.53,9339000,FALSE
+s751,MOVIE,Synthetic Title 751,Greta Gerwig,"Brad Pitt, Scarlett Johansson, Zendaya",India,43850,2012,TV-MA,149 min,Action & Adventure,9.2,86.56,15496000,FALSE
+s752,TV Show,Synthetic Title 752,Christopher Nolan,,France,44717,1990,TV-MA,4 S,"Horror Movies, Thrillers",2.8,11.77,44623000,TRUE
+s753,MOVIE,Synthetic Title 753,Ava DuVernay,"Viola Davis, Zendaya",India,44257,2011,PG-13,151 min,Documentaries,4.4,65.39,25921000,TRUE
+s754,TV Show,Synthetic Title 754,Martin Scorsese,"Zendaya, Scarlett Johansson",India,45209,2004,R,3 S,"Horror Movies, Thrillers",2.6,25.57,9616000,TRUE
+s755,MOVIE,Synthetic Title 755,Bong Joon Ho,"Tom Hanks, Scarlett Johansson, Zendaya",United States,44685,1994,TV-MA,143mins,Comedies,2.9,14.3,9315000,FALSE
+s756,MOVIE,Synthetic Title 756,Ava DuVernay,"Tom Hanks, Zendaya, Viola Davis",Japan,"April 25, 2020",2021,PG-13,73mins,"Horror Movies, Thrillers",7,87.32,20348000,TRUE
+s757,Movie,Synthetic Title 757,Martin Scorsese,"Zendaya, Viola Davis","United States, Canada","July 05, 2017",1997,NR,157 m,"Horror Movies, Thrillers",4,118.46,30263000,FALSE
+s758,MOVIE,Synthetic Title 758,Martin Scorsese,"Tom Hanks, Brad Pitt",South Korea,43591,1993,R,104mins,Comedies,7.8,58.65,88549000,TRUE
+s759,tv show,Synthetic Title 759,Ava DuVernay,Leonardo DiCaprio,Japan,"May 25, 2020",2010,PG-13,9 S,"Horror Movies, Thrillers",4.1,139.45,48795000,TRUE
+s760,TV Show,Synthetic Title 760,Martin Scorsese,"Scarlett Johansson, Leonardo DiCaprio, Morgan Freeman",France,43899,2006,TV-PG,2 S,"International TV Shows, TV Dramas",3.6,104.23,49279000,FALSE
+s761,MOVIE,Synthetic Title 761,Greta Gerwig,"Scarlett Johansson, Morgan Freeman, Zendaya",France,43025,2014,TV-PG,148mins,Action & Adventure,1.7,50.78,18760000,TRUE
+s762,MOVIE,Synthetic Title 762,Ava DuVernay,"Brad Pitt, Tom Hanks, Zendaya",Canada,42522,2009,TV-PG,159mins,Action & Adventure,6.7,39.68,65777000,TRUE
+s763,movie ,Synthetic Title 763,Christopher Nolan,Tom Hanks,France,"January 22, 2016",2003,TV-14,81mins,Action & Adventure,4.3,26.45,98411000,TRUE
+s764,MOVIE,Synthetic Title 764,Martin Scorsese,"Tom Hanks, Brad Pitt",United Kingdom,"May 09, 2015",2022,R,111 min,Comedies,3.4,74.56,2928000,FALSE
+s765,MOVIE,Synthetic Title 765,Martin Scorsese,Tom Hanks,United States,"January 16, 2021",2004,TV-MA,103 min,"Horror Movies, Thrillers",9.5,32.66,80137000,TRUE
+s766,movie ,Synthetic Title 766,Greta Gerwig,"Viola Davis, Brad Pitt",United Kingdom,42028,2007,TV-PG,177 min,Crime TV Shows,5.4,28.19,14820000,TRUE
+s767,MOVIE,Synthetic Title 767,,"Morgan Freeman, Scarlett Johansson, Viola Davis","United States, Canada","April 11, 2016",1992,TV-14,166 min,Documentaries,8.1,14.08,44346000,TRUE
+s768,Movie,Synthetic Title 768,Ava DuVernay,"Tom Hanks, Viola Davis","United States, Canada",45226,2020,PG-13,119mins,Action & Adventure,3.9,20.62,10456000,TRUE
+s769,movie ,Synthetic Title 769,Greta Gerwig,Brad Pitt,India,43650,2016,NR,88 m,Crime TV Shows,8.8,145.53,44746000,FALSE
+s770,tv show,Synthetic Title 770,Martin Scorsese,"Brad Pitt, Morgan Freeman, Scarlett Johansson",France,42912,1990,NR,3 S,Action & Adventure,6.2,107.34,99715000,FALSE
+s771,Movie,Synthetic Title 771,Steven Spielberg,Morgan Freeman,United States,"November 04, 2022",1993,NR,169mins,"Horror Movies, Thrillers",6.4,124.36,72489000,FALSE
+s772,Movie,Synthetic Title 772,,,South Korea,43686,2007,PG-13,110 min,Comedies,8,137.93,16812000,TRUE
+s773,Movie,Synthetic Title 773,Steven Spielberg,"Morgan Freeman, Tom Hanks, Scarlett Johansson",Canada,44494,1994,TV-PG,86mins,"International TV Shows, TV Dramas",1.3,81.45,40921000,TRUE
+s774,movie ,Synthetic Title 774,Christopher Nolan,Leonardo DiCaprio,United Kingdom,"October 13, 2020",2020,TV-MA,179 min,"International TV Shows, TV Dramas",4.3,8.67,23565000,TRUE
+s775,TV Show,Synthetic Title 775,Martin Scorsese,"Viola Davis, Scarlett Johansson",United States,"April 22, 2016",2016,PG-13,3 Seasons,Comedies,7.7,103.15,39485000,TRUE
+s776,movie ,Synthetic Title 776,Christopher Nolan,"Tom Hanks, Brad Pitt",India,43261,1996,R,129 m,Comedies,7.4,135.58,6995000,FALSE
+s777,tv show,Synthetic Title 777,Greta Gerwig,"Viola Davis, Tom Hanks, Zendaya",United States,"October 30, 2016",1999,TV-MA,4 Seasons,Comedies,6.6,37.85,48570000,FALSE
+s778,TV Show,Synthetic Title 778,Greta Gerwig,Morgan Freeman,"United States, Canada","December 30, 2023",2004,TV-PG,1 Season,"International TV Shows, TV Dramas",4.9,49.93,71178000,FALSE
+s779,movie ,Synthetic Title 779,,Scarlett Johansson,United States,"May 08, 2019",2022,TV-MA,79mins,Documentaries,1.3,80.24,42985000,TRUE
+s780,movie ,Synthetic Title 780,,"Zendaya, Leonardo DiCaprio, Viola Davis",Canada,42734,2010,PG-13,140 min,Comedies,6.8,16.32,31795000,FALSE
+s781,Movie,Synthetic Title 781,Christopher Nolan,,France,43624,2005,TV-MA,112 m,"Horror Movies, Thrillers",7.3,139.04,43870000,FALSE
+s782,movie ,Synthetic Title 782,Martin Scorsese,Viola Davis,"United States, Canada",44111,2006,R,122 m,Crime TV Shows,1.1,35.21,2110000,FALSE
+s783,movie ,Synthetic Title 783,Steven Spielberg,"Brad Pitt, Scarlett Johansson, Tom Hanks",Canada,42222,2021,TV-MA,140 m,Documentaries,9.9,18.69,62640000,TRUE
+s784,tv show,Synthetic Title 784,Bong Joon Ho,"Tom Hanks, Zendaya",Japan,"February 14, 2019",2020,PG-13,8 Seasons,Action & Adventure,3.5,77.96,97544000,FALSE
+s785,TV Show,Synthetic Title 785,Martin Scorsese,"Zendaya, Scarlett Johansson, Tom Hanks",United Kingdom,43470,1994,R,5 S,"Horror Movies, Thrillers",9.4,93.57,27515000,TRUE
+s786,MOVIE,Synthetic Title 786,Martin Scorsese,Leonardo DiCaprio,South Korea,44331,2008,PG-13,144 m,Documentaries,9.4,100.13,13698000,FALSE
+s787,TV Show,Synthetic Title 787,Ava DuVernay,"Brad Pitt, Viola Davis",France,"September 21, 2017",2001,NR,2 S,"Horror Movies, Thrillers",1.3,51.81,77858000,FALSE
+s788,MOVIE,Synthetic Title 788,,,Canada,"March 20, 2021",2012,R,111mins,Comedies,1,55.22,90564000,TRUE
+s789,MOVIE,Synthetic Title 789,Greta Gerwig,"Brad Pitt, Morgan Freeman",Canada,"January 05, 2018",2004,TV-14,109mins,Comedies,8.5,21.22,53690000,TRUE
+s790,tv show,Synthetic Title 790,Greta Gerwig,"Scarlett Johansson, Leonardo DiCaprio, Morgan Freeman",Canada,"December 26, 2021",2016,PG-13,6 S,Documentaries,3.5,139.53,83311000,FALSE
+s791,MOVIE,Synthetic Title 791,Steven Spielberg,"Morgan Freeman, Brad Pitt, Zendaya",Japan,43519,2019,NR,123 min,"International TV Shows, TV Dramas",3.3,69.62,62191000,FALSE
+s792,Movie,Synthetic Title 792,Christopher Nolan,"Tom Hanks, Brad Pitt",United States,"January 02, 2015",2017,TV-PG,85 m,Action & Adventure,1.7,31.1,86743000,FALSE
+s793,tv show,Synthetic Title 793,Ava DuVernay,"Leonardo DiCaprio, Scarlett Johansson",France,"December 27, 2022",1992,TV-14,9 Seasons,"International TV Shows, TV Dramas",6.7,56.8,99993000,TRUE
+s794,Movie,Synthetic Title 794,Christopher Nolan,"Viola Davis, Morgan Freeman",United States,43442,1998,TV-MA,170mins,Crime TV Shows,5.9,62.86,73968000,TRUE
+s795,MOVIE,Synthetic Title 795,,"Morgan Freeman, Leonardo DiCaprio",Canada,"May 03, 2023",2010,PG-13,122mins,Crime TV Shows,3.5,139.93,66311000,FALSE
+s796,Movie,Synthetic Title 796,Martin Scorsese,"Zendaya, Morgan Freeman, Viola Davis",United Kingdom,44616,2009,NR,112 min,Comedies,3.4,125.89,38144000,TRUE
+s797,movie ,Synthetic Title 797,Greta Gerwig,"Tom Hanks, Zendaya",India,45234,2023,NR,164 min,Documentaries,3.4,45.08,56407000,FALSE
+s798,tv show,Synthetic Title 798,Ava DuVernay,,United Kingdom,44525,1994,TV-PG,9 S,Documentaries,7.7,7.41,28537000,FALSE
+s799,tv show,Synthetic Title 799,,Viola Davis,Japan,42749,2012,NR,4 S,Comedies,2.9,140.38,4580000,FALSE
+s800,TV Show,Synthetic Title 800,Steven Spielberg,Leonardo DiCaprio,France,45119,2001,R,3 Seasons,Comedies,8.1,81.52,56632000,FALSE
+s801,movie ,Synthetic Title 801,Bong Joon Ho,"Scarlett Johansson, Tom Hanks","United States, Canada",44339,2019,TV-PG,116mins,"Horror Movies, Thrillers",1.7,139.46,96402000,TRUE
+s802,TV Show,Synthetic Title 802,Christopher Nolan,,United Kingdom,44068,1991,R,6 Seasons,Comedies,1.5,132.49,53540000,TRUE
+s803,Movie,Synthetic Title 803,Martin Scorsese,"Zendaya, Viola Davis","United States, Canada","November 05, 2019",2019,PG-13,80 min,Crime TV Shows,7,108.23,31820000,FALSE
+s804,MOVIE,Synthetic Title 804,Christopher Nolan,"Tom Hanks, Viola Davis",United Kingdom,"April 02, 2017",2018,R,136mins,Comedies,2.8,62.61,17685000,TRUE
+s805,tv show,Synthetic Title 805,Christopher Nolan,"Viola Davis, Tom Hanks, Leonardo DiCaprio","United States, Canada","November 21, 2022",2022,NR,5 Seasons,"Horror Movies, Thrillers",5.6,134.12,49840000,TRUE
+s806,Movie,Synthetic Title 806,,,United States,"April 30, 2022",1992,TV-14,114 min,Comedies,2.3,18.57,98195000,TRUE
+s807,movie ,Synthetic Title 807,,Zendaya,South Korea,"April 07, 2017",2013,PG-13,123 min,Comedies,7.6,72.1,71407000,FALSE
+s808,MOVIE,Synthetic Title 808,Steven Spielberg,"Morgan Freeman, Leonardo DiCaprio, Brad Pitt",India,42030,2004,TV-PG,157mins,"Horror Movies, Thrillers",3.6,49.74,19797000,TRUE
+s809,TV Show,Synthetic Title 809,Greta Gerwig,"Scarlett Johansson, Brad Pitt",Japan,44476,2004,PG-13,1 Season,"International TV Shows, TV Dramas",5.4,109.54,69531000,TRUE
+s810,movie ,Synthetic Title 810,Greta Gerwig,"Zendaya, Morgan Freeman, Brad Pitt",United States,43269,2005,PG-13,71mins,"Horror Movies, Thrillers",3.1,133.81,13900000,FALSE
+s811,TV Show,Synthetic Title 811,Steven Spielberg,"Scarlett Johansson, Brad Pitt",India,44453,2009,R,7 Seasons,Documentaries,5.2,1.41,19286000,TRUE
+s812,tv show,Synthetic Title 812,Greta Gerwig,Tom Hanks,"United States, Canada",42355,2008,TV-14,10 S,Comedies,9.3,113.72,39296000,TRUE
+s813,TV Show,Synthetic Title 813,Christopher Nolan,Zendaya,Japan,"April 21, 2020",2003,NR,1 Season,Action & Adventure,8.2,77.12,64610000,FALSE
+s814,TV Show,Synthetic Title 814,,"Scarlett Johansson, Viola Davis, Leonardo DiCaprio",Canada,"October 04, 2023",2002,TV-14,7 S,Action & Adventure,4.9,25.9,91280000,FALSE
+s815,TV Show,Synthetic Title 815,,"Scarlett Johansson, Zendaya",South Korea,"January 29, 2017",2009,TV-14,7 S,"International TV Shows, TV Dramas",5.2,54.92,55719000,FALSE
+s816,Movie,Synthetic Title 816,Bong Joon Ho,"Zendaya, Viola Davis, Brad Pitt",South Korea,43217,2014,PG-13,129 m,Documentaries,7.9,116.35,44722000,TRUE
+s817,TV Show,Synthetic Title 817,Bong Joon Ho,Viola Davis,France,44968,2018,TV-14,2 S,"Horror Movies, Thrillers",5.7,144.34,76172000,FALSE
+s818,TV Show,Synthetic Title 818,Christopher Nolan,"Zendaya, Morgan Freeman",Canada,44384,1992,PG-13,8 Seasons,Comedies,3.5,103.33,59208000,FALSE
+s819,TV Show,Synthetic Title 819,Christopher Nolan,"Viola Davis, Zendaya","United States, Canada","December 02, 2018",2016,PG-13,1 S,Crime TV Shows,4,130.38,49445000,TRUE
+s820,MOVIE,Synthetic Title 820,Martin Scorsese,"Scarlett Johansson, Zendaya, Viola Davis",France,42780,1996,R,77 m,Documentaries,7.7,76.71,84796000,TRUE
+s821,tv show,Synthetic Title 821,Christopher Nolan,"Morgan Freeman, Viola Davis",Canada,"May 13, 2022",2009,TV-14,3 Seasons,"International TV Shows, TV Dramas",8.6,89.33,75433000,TRUE
+s822,Movie,Synthetic Title 822,Steven Spielberg,Scarlett Johansson,South Korea,43992,2016,TV-MA,108 min,Crime TV Shows,3.5,33.51,82110000,TRUE
+s823,tv show,Synthetic Title 823,Bong Joon Ho,"Scarlett Johansson, Morgan Freeman","United States, Canada",44775,2021,PG-13,7 S,Action & Adventure,5.4,93.31,28622000,FALSE
+s824,MOVIE,Synthetic Title 824,,Viola Davis,Japan,"November 03, 2019",2006,TV-MA,106mins,"International TV Shows, TV Dramas",9.2,94.43,71498000,FALSE
+s825,Movie,Synthetic Title 825,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio, Scarlett Johansson",South Korea,42845,2011,TV-PG,165 m,Crime TV Shows,8.8,28.97,87395000,TRUE
+s826,MOVIE,Synthetic Title 826,Bong Joon Ho,Scarlett Johansson,South Korea,"June 07, 2021",2019,PG-13,78 m,Comedies,10,62.2,33851000,TRUE
+s827,Movie,Synthetic Title 827,Christopher Nolan,Leonardo DiCaprio,India,42495,2014,R,61mins,Crime TV Shows,3.3,95.51,43164000,TRUE
+s828,TV Show,Synthetic Title 828,Martin Scorsese,"Leonardo DiCaprio, Zendaya, Tom Hanks","United States, Canada",43229,2004,TV-PG,3 S,Action & Adventure,2.7,38.8,40472000,TRUE
+s829,TV Show,Synthetic Title 829,Greta Gerwig,"Viola Davis, Leonardo DiCaprio","United States, Canada","August 16, 2016",2010,PG-13,9 Seasons,Crime TV Shows,7.8,78.72,15150000,TRUE
+s830,Movie,Synthetic Title 830,Greta Gerwig,"Scarlett Johansson, Leonardo DiCaprio, Morgan Freeman",South Korea,42775,2001,TV-14,95 min,Action & Adventure,9.6,9.36,80431000,TRUE
+s831,MOVIE,Synthetic Title 831,Steven Spielberg,Leonardo DiCaprio,South Korea,"March 30, 2017",2000,TV-14,122 m,Documentaries,9.7,98.67,25560000,FALSE
+s832,MOVIE,Synthetic Title 832,,Scarlett Johansson,South Korea,43522,1994,NR,132 min,"International TV Shows, TV Dramas",5,16.65,56528000,FALSE
+s833,tv show,Synthetic Title 833,Steven Spielberg,"Morgan Freeman, Scarlett Johansson, Brad Pitt",South Korea,"April 19, 2017",2019,TV-14,3 S,Action & Adventure,1.5,76.31,38502000,FALSE
+s834,MOVIE,Synthetic Title 834,Christopher Nolan,Tom Hanks,"United States, Canada","February 23, 2018",2022,TV-PG,155mins,"Horror Movies, Thrillers",7.7,55.38,43286000,TRUE
+s835,movie ,Synthetic Title 835,Bong Joon Ho,Brad Pitt,France,43824,2014,TV-MA,128mins,Documentaries,9.1,97.06,49911000,TRUE
+s836,MOVIE,Synthetic Title 836,Christopher Nolan,"Viola Davis, Scarlett Johansson",France,"April 12, 2022",2022,TV-PG,132 m,"Horror Movies, Thrillers",6.7,60.09,100272000,TRUE
+s837,TV Show,Synthetic Title 837,Ava DuVernay,"Viola Davis, Morgan Freeman, Tom Hanks",Japan,43521,1999,TV-14,5 S,"Horror Movies, Thrillers",3.6,72.76,71504000,TRUE
+s838,MOVIE,Synthetic Title 838,Steven Spielberg,"Zendaya, Tom Hanks",France,44859,2015,TV-14,168 m,"International TV Shows, TV Dramas",6.1,49.94,14666000,FALSE
+s839,MOVIE,Synthetic Title 839,Steven Spielberg,,Japan,"September 02, 2017",1990,R,121 min,"International TV Shows, TV Dramas",5.9,117.15,35750000,FALSE
+s840,TV Show,Synthetic Title 840,Greta Gerwig,"Zendaya, Scarlett Johansson, Leonardo DiCaprio",United States,43722,2004,NR,2 Seasons,"Horror Movies, Thrillers",8.7,11.64,66703000,FALSE
+s841,MOVIE,Synthetic Title 841,,"Morgan Freeman, Zendaya",India,"November 01, 2020",1992,TV-14,72 min,Action & Adventure,3.9,67.93,67149000,FALSE
+s842,movie ,Synthetic Title 842,Ava DuVernay,"Tom Hanks, Viola Davis",Canada,"November 06, 2020",2000,R,170 min,"International TV Shows, TV Dramas",9.2,100.28,26188000,TRUE
+s843,tv show,Synthetic Title 843,Steven Spielberg,,India,"December 16, 2019",2022,TV-MA,1 S,Crime TV Shows,999,64.17,75999000,TRUE
+s844,tv show,Synthetic Title 844,Bong Joon Ho,"Viola Davis, Tom Hanks, Brad Pitt",South Korea,45134,2014,TV-PG,2 S,Documentaries,8.8,75.59,14512000,FALSE
+s845,Movie,Synthetic Title 845,Steven Spielberg,Viola Davis,Japan,"May 01, 2016",2020,TV-14,103 min,Action & Adventure,1.4,3.79,58528000,TRUE
+s846,MOVIE,Synthetic Title 846,Greta Gerwig,"Tom Hanks, Zendaya",Canada,43166,2001,NR,67 min,Comedies,7.6,20.36,50621000,FALSE
+s847,tv show,Synthetic Title 847,Christopher Nolan,"Viola Davis, Scarlett Johansson",Japan,"October 11, 2018",1999,TV-MA,6 S,Action & Adventure,1.5,95.19,48766000,FALSE
+s848,tv show,Synthetic Title 848,Martin Scorsese,"Brad Pitt, Leonardo DiCaprio, Morgan Freeman",Canada,44659,2010,TV-PG,7 Seasons,"International TV Shows, TV Dramas",4,77.52,49542000,FALSE
+s849,TV Show,Synthetic Title 849,,"Tom Hanks, Leonardo DiCaprio",France,"March 14, 2020",2009,TV-MA,9 Seasons,Action & Adventure,4.6,78.03,76608000,TRUE
+s850,MOVIE,Synthetic Title 850,Martin Scorsese,"Zendaya, Morgan Freeman, Viola Davis",Canada,44517,1995,PG-13,87 m,Crime TV Shows,1.9,121.32,9722000,TRUE
+s851,movie ,Synthetic Title 851,Bong Joon Ho,"Morgan Freeman, Tom Hanks","United States, Canada",42590,1999,PG-13,172 min,"International TV Shows, TV Dramas",3.3,97.34,39957000,TRUE
+s852,Movie,Synthetic Title 852,Ava DuVernay,"Brad Pitt, Scarlett Johansson",France,45161,1993,TV-PG,129 min,Crime TV Shows,9.3,111.52,76481000,TRUE
+s853,tv show,Synthetic Title 853,Ava DuVernay,"Scarlett Johansson, Brad Pitt",France,43478,1995,PG-13,1 S,Comedies,9.3,121.98,86512000,TRUE
+s854,Movie,Synthetic Title 854,Ava DuVernay,Leonardo DiCaprio,United States,45107,2000,R,139 m,"International TV Shows, TV Dramas",8.8,140.68,27997000,TRUE
+s855,MOVIE,Synthetic Title 855,Martin Scorsese,"Scarlett Johansson, Zendaya",South Korea,"August 22, 2023",2008,TV-PG,157 min,Crime TV Shows,8.9,72.55,49544000,FALSE
+s856,Movie,Synthetic Title 856,,"Brad Pitt, Tom Hanks",Canada,42024,2002,TV-MA,117mins,Comedies,1.7,121.32,77916000,FALSE
+s857,movie ,Synthetic Title 857,Christopher Nolan,"Zendaya, Tom Hanks, Viola Davis",South Korea,43204,1990,TV-14,104 m,"Horror Movies, Thrillers",9,40.08,24805000,FALSE
+s858,TV Show,Synthetic Title 858,Ava DuVernay,"Morgan Freeman, Tom Hanks, Scarlett Johansson",India,44995,1992,NR,5 S,Documentaries,4.4,43.35,58977000,TRUE
+s859,movie ,Synthetic Title 859,Steven Spielberg,"Scarlett Johansson, Morgan Freeman",India,43046,2005,PG-13,71 min,Action & Adventure,9.6,130.97,33765000,TRUE
+s860,TV Show,Synthetic Title 860,Martin Scorsese,"Brad Pitt, Tom Hanks",India,42570,1990,TV-MA,2 S,Documentaries,999,147.59,29587000,TRUE
+s861,Movie,Synthetic Title 861,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Brad Pitt",United Kingdom,43833,2003,NR,165mins,Crime TV Shows,8.2,123.83,54417000,TRUE
+s862,tv show,Synthetic Title 862,Bong Joon Ho,"Scarlett Johansson, Zendaya, Tom Hanks","United States, Canada","June 26, 2019",1992,NR,5 S,Comedies,2.4,50.85,25178000,TRUE
+s863,tv show,Synthetic Title 863,Martin Scorsese,"Zendaya, Brad Pitt, Leonardo DiCaprio",Canada,"May 05, 2016",2002,TV-PG,8 Seasons,"International TV Shows, TV Dramas",5,105.31,77633000,TRUE
+s864,movie ,Synthetic Title 864,Christopher Nolan,"Leonardo DiCaprio, Zendaya",France,"February 28, 2015",1995,NR,99 min,"Horror Movies, Thrillers",1.4,133.48,5690000,TRUE
+s865,TV Show,Synthetic Title 865,Steven Spielberg,"Viola Davis, Leonardo DiCaprio",South Korea,44142,1992,TV-14,1 S,Documentaries,4.5,86.69,9908000,TRUE
+s866,tv show,Synthetic Title 866,Ava DuVernay,Morgan Freeman,Japan,"June 17, 2019",1999,TV-14,9 Seasons,Action & Adventure,2.6,28.91,56849000,TRUE
+s867,MOVIE,Synthetic Title 867,Ava DuVernay,Viola Davis,South Korea,"November 13, 2020",1997,TV-MA,168 m,Crime TV Shows,5.6,12.18,16899000,TRUE
+s868,TV Show,Synthetic Title 868,Ava DuVernay,"Leonardo DiCaprio, Brad Pitt, Scarlett Johansson","United States, Canada",42643,2005,TV-MA,7 Seasons,Documentaries,2.5,62.49,77979000,TRUE
+s869,movie ,Synthetic Title 869,Bong Joon Ho,"Brad Pitt, Scarlett Johansson, Zendaya",Canada,42369,2021,R,133 m,Documentaries,6.8,8.42,20689000,FALSE
+s870,TV Show,Synthetic Title 870,Bong Joon Ho,Leonardo DiCaprio,Japan,43951,2007,TV-14,7 Seasons,"Horror Movies, Thrillers",7.6,0.42,2581000,TRUE
+s871,TV Show,Synthetic Title 871,,"Leonardo DiCaprio, Brad Pitt, Scarlett Johansson","United States, Canada",44239,2005,TV-14,8 Seasons,Crime TV Shows,8.1,141.84,72418000,TRUE
+s872,movie ,Synthetic Title 872,Martin Scorsese,Viola Davis,Canada,"March 03, 2018",2001,NR,64 m,Documentaries,6.7,74.62,36266000,TRUE
+s873,movie ,Synthetic Title 873,Bong Joon Ho,,France,44529,2023,R,169mins,"International TV Shows, TV Dramas",4.2,79.2,40788000,TRUE
+s874,tv show,Synthetic Title 874,Bong Joon Ho,"Brad Pitt, Scarlett Johansson",India,44387,2021,TV-MA,3 S,Action & Adventure,5.2,98.63,8738000,FALSE
+s875,tv show,Synthetic Title 875,Steven Spielberg,Leonardo DiCaprio,United States,42413,1997,TV-MA,7 Seasons,Documentaries,3.2,61.16,11820000,TRUE
+s876,TV Show,Synthetic Title 876,Greta Gerwig,"Morgan Freeman, Leonardo DiCaprio",United States,"March 17, 2017",2001,TV-MA,7 Seasons,Action & Adventure,9.7,47.29,20785000,FALSE
+s877,movie ,Synthetic Title 877,Steven Spielberg,"Brad Pitt, Tom Hanks",South Korea,"April 20, 2016",2016,PG-13,99 m,"Horror Movies, Thrillers",2.3,97.9,11943000,TRUE
+s878,Movie,Synthetic Title 878,Steven Spielberg,"Zendaya, Morgan Freeman",South Korea,44524,2004,TV-14,117 min,"International TV Shows, TV Dramas",8.7,141.42,67558000,FALSE
+s879,MOVIE,Synthetic Title 879,Steven Spielberg,,United Kingdom,"May 20, 2020",2012,NR,100 m,Documentaries,7.8,15.52,85458000,TRUE
+s880,TV Show,Synthetic Title 880,Greta Gerwig,"Brad Pitt, Morgan Freeman",France,"August 10, 2018",1995,TV-PG,10 Seasons,"International TV Shows, TV Dramas",3.8,30.11,81306000,FALSE
+s881,TV Show,Synthetic Title 881,Steven Spielberg,Tom Hanks,Canada,44834,2021,R,9 S,Crime TV Shows,6.9,9.49,36749000,FALSE
+s882,movie ,Synthetic Title 882,Steven Spielberg,Scarlett Johansson,"United States, Canada",42401,2017,PG-13,114 m,Crime TV Shows,7.9,31.95,20612000,FALSE
+s883,TV Show,Synthetic Title 883,Bong Joon Ho,"Scarlett Johansson, Morgan Freeman",Japan,42177,1999,TV-14,10 Seasons,Comedies,9.1,29.69,17423000,TRUE
+s884,Movie,Synthetic Title 884,Greta Gerwig,"Leonardo DiCaprio, Tom Hanks, Scarlett Johansson",United Kingdom,42023,1995,TV-14,125mins,Crime TV Shows,7.2,26.9,64311000,FALSE
+s885,tv show,Synthetic Title 885,,"Brad Pitt, Zendaya, Scarlett Johansson",Japan,43398,2022,TV-14,5 Seasons,"Horror Movies, Thrillers",9,22.57,74667000,FALSE
+s886,Movie,Synthetic Title 886,Steven Spielberg,Leonardo DiCaprio,United States,42709,2000,TV-MA,164mins,Action & Adventure,2.6,113.72,88323000,TRUE
+s887,movie ,Synthetic Title 887,Steven Spielberg,"Viola Davis, Zendaya",India,43692,2004,TV-PG,122mins,Action & Adventure,4,47.37,96720000,FALSE
+s888,tv show,Synthetic Title 888,,"Scarlett Johansson, Leonardo DiCaprio",India,43674,2012,NR,5 S,Comedies,1.1,67.92,81561000,FALSE
+s889,MOVIE,Synthetic Title 889,Martin Scorsese,"Scarlett Johansson, Morgan Freeman",United States,44121,2019,PG-13,101 m,"Horror Movies, Thrillers",4.5,32.17,40831000,FALSE
+s890,Movie,Synthetic Title 890,,"Brad Pitt, Zendaya, Leonardo DiCaprio",India,43920,2012,TV-MA,62 min,Crime TV Shows,7.4,37.05,46961000,TRUE
+s891,movie ,Synthetic Title 891,Bong Joon Ho,"Morgan Freeman, Viola Davis",France,"August 31, 2023",2011,TV-PG,179 min,"International TV Shows, TV Dramas",1.6,141.27,83388000,TRUE
+s892,tv show,Synthetic Title 892,Martin Scorsese,Scarlett Johansson,India,45047,2005,R,5 Seasons,"International TV Shows, TV Dramas",8,43.67,18689000,TRUE
+s893,TV Show,Synthetic Title 893,,,United Kingdom,43910,1994,TV-14,9 S,Documentaries,3.9,132.96,25894000,FALSE
+s894,TV Show,Synthetic Title 894,Ava DuVernay,"Zendaya, Leonardo DiCaprio",United States,"May 16, 2017",2014,TV-MA,7 Seasons,Action & Adventure,4.6,20.91,5437000,FALSE
+s895,tv show,Synthetic Title 895,,"Tom Hanks, Brad Pitt, Viola Davis",Japan,43092,2009,TV-14,1 Season,Action & Adventure,3.2,112.98,42563000,TRUE
+s896,MOVIE,Synthetic Title 896,Bong Joon Ho,"Brad Pitt, Tom Hanks",India,"March 30, 2018",2011,TV-MA,121 min,Crime TV Shows,9.7,36.52,98434000,FALSE
+s897,Movie,Synthetic Title 897,,"Leonardo DiCaprio, Zendaya, Scarlett Johansson",Japan,"July 20, 2020",1991,NR,157 m,"International TV Shows, TV Dramas",8,45.02,5594000,TRUE
+s898,TV Show,Synthetic Title 898,,"Zendaya, Tom Hanks, Viola Davis",South Korea,"March 28, 2023",1997,R,2 S,Action & Adventure,6.9,107.78,36386000,TRUE
+s899,tv show,Synthetic Title 899,Steven Spielberg,Leonardo DiCaprio,"United States, Canada",44714,2014,PG-13,3 S,Action & Adventure,2.8,137.34,89198000,TRUE
+s900,TV Show,Synthetic Title 900,Martin Scorsese,"Tom Hanks, Brad Pitt, Scarlett Johansson",United States,44863,1996,TV-MA,2 S,"International TV Shows, TV Dramas",2.8,0.86,16646000,FALSE
+s901,MOVIE,Synthetic Title 901,Bong Joon Ho,"Scarlett Johansson, Brad Pitt, Viola Davis",United States,"June 28, 2020",1992,NR,124 m,"Horror Movies, Thrillers",5.3,31.24,69123000,FALSE
+s902,Movie,Synthetic Title 902,Martin Scorsese,Brad Pitt,France,43878,1999,NR,109 min,Crime TV Shows,3.9,48.75,11491000,FALSE
+s903,Movie,Synthetic Title 903,Christopher Nolan,Tom Hanks,Japan,44965,2006,TV-14,168mins,Documentaries,3.3,115.35,92793000,FALSE
+s904,tv show,Synthetic Title 904,Steven Spielberg,"Scarlett Johansson, Tom Hanks",United States,"October 25, 2018",1996,TV-MA,7 Seasons,Documentaries,8.6,33.25,19278000,TRUE
+s905,Movie,Synthetic Title 905,Ava DuVernay,Scarlett Johansson,South Korea,44683,2019,PG-13,168 min,"International TV Shows, TV Dramas",7.1,65.58,23160000,FALSE
+s906,Movie,Synthetic Title 906,Greta Gerwig,Viola Davis,United States,45247,2002,PG-13,150 min,"International TV Shows, TV Dramas",9.4,31.9,41284000,FALSE
+s907,tv show,Synthetic Title 907,Martin Scorsese,"Morgan Freeman, Leonardo DiCaprio, Zendaya","United States, Canada","October 09, 2017",2021,TV-MA,5 Seasons,Action & Adventure,6.4,33.84,86128000,FALSE
+s908,MOVIE,Synthetic Title 908,Steven Spielberg,"Zendaya, Leonardo DiCaprio",South Korea,44570,1992,TV-PG,88 m,Crime TV Shows,3.7,73.55,41341000,FALSE
+s909,TV Show,Synthetic Title 909,,Leonardo DiCaprio,India,42115,2011,TV-PG,1 S,Crime TV Shows,5.9,63.72,69691000,FALSE
+s910,Movie,Synthetic Title 910,Christopher Nolan,"Leonardo DiCaprio, Brad Pitt, Zendaya",India,"January 19, 2020",2015,TV-14,135 m,Documentaries,8.1,90.47,57520000,FALSE
+s911,tv show,Synthetic Title 911,Greta Gerwig,"Brad Pitt, Zendaya, Leonardo DiCaprio",United States,44862,2009,NR,5 Seasons,Crime TV Shows,9.1,75.94,73715000,FALSE
+s912,tv show,Synthetic Title 912,Steven Spielberg,"Viola Davis, Zendaya",United Kingdom,43793,2004,NR,7 S,Crime TV Shows,2.8,9.02,5610000,FALSE
+s913,MOVIE,Synthetic Title 913,Greta Gerwig,"Scarlett Johansson, Tom Hanks","United States, Canada",44988,2011,NR,130 min,Documentaries,2.5,112.11,91586000,TRUE
+s914,Movie,Synthetic Title 914,Greta Gerwig,"Scarlett Johansson, Morgan Freeman",United Kingdom,"January 15, 2018",2009,PG-13,102 min,Comedies,1.9,19.08,88916000,TRUE
+s915,MOVIE,Synthetic Title 915,,"Morgan Freeman, Brad Pitt, Tom Hanks",Canada,"June 08, 2020",2015,TV-PG,63 m,"International TV Shows, TV Dramas",3.9,37.05,90900000,TRUE
+s916,tv show,Synthetic Title 916,Christopher Nolan,"Tom Hanks, Scarlett Johansson, Brad Pitt","United States, Canada",45038,1997,PG-13,9 S,"International TV Shows, TV Dramas",999,100.85,37466000,TRUE
+s917,TV Show,Synthetic Title 917,Christopher Nolan,Tom Hanks,"United States, Canada",43204,2023,R,1 S,Action & Adventure,5.1,40.79,26918000,TRUE
+s918,tv show,Synthetic Title 918,Ava DuVernay,"Leonardo DiCaprio, Morgan Freeman, Viola Davis",United States,43784,1992,R,1 Season,Documentaries,7.8,83.06,99532000,FALSE
+s919,movie ,Synthetic Title 919,,"Tom Hanks, Leonardo DiCaprio",Japan,43629,2011,PG-13,106 m,Documentaries,9.6,114.81,96829000,FALSE
+s920,movie ,Synthetic Title 920,Christopher Nolan,Tom Hanks,United Kingdom,43342,2008,TV-PG,91mins,Documentaries,3.3,76.05,85966000,TRUE
+s921,movie ,Synthetic Title 921,Greta Gerwig,"Leonardo DiCaprio, Viola Davis",Japan,44066,2018,TV-PG,127mins,"International TV Shows, TV Dramas",7.9,20.42,13334000,FALSE
+s922,movie ,Synthetic Title 922,Greta Gerwig,"Leonardo DiCaprio, Tom Hanks","United States, Canada","December 11, 2020",2001,TV-PG,158mins,Documentaries,2.5,105.79,96517000,TRUE
+s923,movie ,Synthetic Title 923,Ava DuVernay,Morgan Freeman,"United States, Canada",42711,2023,R,109 min,Action & Adventure,1.3,35.33,30219000,TRUE
+s924,TV Show,Synthetic Title 924,Martin Scorsese,"Brad Pitt, Morgan Freeman",India,43132,1997,TV-14,5 S,Action & Adventure,1.5,49.02,44138000,FALSE
+s925,TV Show,Synthetic Title 925,Ava DuVernay,"Brad Pitt, Scarlett Johansson, Leonardo DiCaprio",Canada,42666,2010,TV-PG,1 Season,Documentaries,5,96.28,21312000,FALSE
+s926,TV Show,Synthetic Title 926,Martin Scorsese,Scarlett Johansson,South Korea,"February 11, 2015",2015,PG-13,1 S,Crime TV Shows,1.9,74.54,36397000,FALSE
+s927,movie ,Synthetic Title 927,Steven Spielberg,Leonardo DiCaprio,Japan,44144,1994,TV-PG,67 min,Comedies,9.5,29.52,64218000,FALSE
+s928,movie ,Synthetic Title 928,Martin Scorsese,"Scarlett Johansson, Leonardo DiCaprio",Japan,42421,2019,TV-14,83mins,Crime TV Shows,4.1,29.84,54136000,FALSE
+s929,TV Show,Synthetic Title 929,Greta Gerwig,Scarlett Johansson,United States,43631,1990,PG-13,7 Seasons,Documentaries,9.2,131.14,62195000,TRUE
+s930,tv show,Synthetic Title 930,Steven Spielberg,"Brad Pitt, Tom Hanks",France,44244,1995,TV-14,1 Season,"International TV Shows, TV Dramas",4,29.96,35709000,FALSE
+s931,TV Show,Synthetic Title 931,Martin Scorsese,"Zendaya, Brad Pitt, Morgan Freeman",United States,43803,2002,TV-14,9 Seasons,Comedies,9.9,63.42,74221000,TRUE
+s932,TV Show,Synthetic Title 932,Steven Spielberg,"Brad Pitt, Morgan Freeman",Canada,"August 23, 2019",2000,TV-14,4 Seasons,Crime TV Shows,3,114.73,4940000,TRUE
+s933,tv show,Synthetic Title 933,Christopher Nolan,"Zendaya, Morgan Freeman","United States, Canada",42975,2001,PG-13,8 S,Action & Adventure,8.8,37.53,35263000,FALSE
+s934,movie ,Synthetic Title 934,Christopher Nolan,"Zendaya, Scarlett Johansson",Canada,"December 18, 2021",2018,TV-PG,108 min,Comedies,3.1,111.52,77417000,TRUE
+s935,movie ,Synthetic Title 935,Steven Spielberg,Leonardo DiCaprio,"United States, Canada",44372,2004,TV-MA,90 min,Crime TV Shows,2.5,31.26,99277000,TRUE
+s936,TV Show,Synthetic Title 936,Martin Scorsese,"Tom Hanks, Brad Pitt, Zendaya",India,45198,2004,NR,2 Seasons,Action & Adventure,4,52.46,27733000,FALSE
+s937,movie ,Synthetic Title 937,Martin Scorsese,,United States,42974,2017,NR,129mins,Crime TV Shows,7.7,148.48,52117000,TRUE
+s938,movie ,Synthetic Title 938,,Leonardo DiCaprio,South Korea,"March 07, 2019",1998,PG-13,72 min,"Horror Movies, Thrillers",8.4,28.19,35416000,TRUE
+s939,Movie,Synthetic Title 939,,"Zendaya, Tom Hanks","United States, Canada",44912,2019,TV-14,92 m,"International TV Shows, TV Dramas",8.7,147.16,54689000,TRUE
+s940,Movie,Synthetic Title 940,Martin Scorsese,"Morgan Freeman, Tom Hanks, Zendaya",United Kingdom,43528,2003,NR,103 m,"Horror Movies, Thrillers",5.2,121.87,61223000,FALSE
+s941,tv show,Synthetic Title 941,Ava DuVernay,Viola Davis,United States,"November 22, 2023",2000,NR,6 Seasons,Documentaries,7.5,119.84,39610000,FALSE
+s942,TV Show,Synthetic Title 942,Martin Scorsese,"Brad Pitt, Zendaya",India,43952,2009,R,10 S,"Horror Movies, Thrillers",6.3,146.55,34180000,TRUE
+s943,MOVIE,Synthetic Title 943,Steven Spielberg,Brad Pitt,"United States, Canada","July 07, 2018",2022,TV-MA,78 m,Comedies,8.9,137.38,75465000,FALSE
+s944,tv show,Synthetic Title 944,Martin Scorsese,"Viola Davis, Zendaya, Brad Pitt",India,43876,2013,PG-13,1 S,Crime TV Shows,5,146.31,55389000,TRUE
+s945,Movie,Synthetic Title 945,Steven Spielberg,"Viola Davis, Brad Pitt",France,44668,2008,TV-PG,60 m,Action & Adventure,999,26.6,86133000,TRUE
+s946,MOVIE,Synthetic Title 946,Bong Joon Ho,Viola Davis,Japan,42628,2007,TV-14,132 min,Documentaries,8.6,119.35,63606000,FALSE
+s947,MOVIE,Synthetic Title 947,Christopher Nolan,Morgan Freeman,United States,42278,2010,TV-14,103 m,Documentaries,3.4,86.17,41108000,TRUE
+s948,Movie,Synthetic Title 948,Steven Spielberg,Brad Pitt,France,43045,2004,TV-14,141 min,Crime TV Shows,8.5,127.14,97423000,FALSE
+s949,tv show,Synthetic Title 949,Christopher Nolan,"Scarlett Johansson, Brad Pitt",Japan,44703,1997,NR,9 S,Crime TV Shows,4.2,115.24,55622000,FALSE
+s950,TV Show,Synthetic Title 950,,"Scarlett Johansson, Morgan Freeman, Viola Davis",Japan,"July 08, 2018",2015,R,4 S,Action & Adventure,7.2,59.82,64383000,FALSE
+s951,MOVIE,Synthetic Title 951,Greta Gerwig,"Brad Pitt, Zendaya",India,45126,2004,R,119 min,"International TV Shows, TV Dramas",4.1,24.32,8662000,TRUE
+s952,tv show,Synthetic Title 952,Martin Scorsese,"Scarlett Johansson, Viola Davis",South Korea,43074,1993,TV-14,1 S,"Horror Movies, Thrillers",3.2,148.22,99502000,TRUE
+s953,MOVIE,Synthetic Title 953,Ava DuVernay,"Viola Davis, Brad Pitt, Zendaya",Canada,44429,1998,NR,63mins,Documentaries,8.8,77.81,87442000,TRUE
+s954,Movie,Synthetic Title 954,Martin Scorsese,"Leonardo DiCaprio, Morgan Freeman",Japan,45118,2009,TV-PG,158 m,Documentaries,6.5,10.66,44601000,TRUE
+s955,movie ,Synthetic Title 955,Ava DuVernay,"Brad Pitt, Leonardo DiCaprio",India,"November 15, 2019",1999,PG-13,139mins,Comedies,6.5,50.09,1848000,FALSE
+s956,TV Show,Synthetic Title 956,Martin Scorsese,"Brad Pitt, Viola Davis",South Korea,43946,1998,PG-13,1 S,"Horror Movies, Thrillers",8.5,43.35,80998000,TRUE
+s957,tv show,Synthetic Title 957,Greta Gerwig,Zendaya,United States,"April 15, 2015",1998,PG-13,10 S,"Horror Movies, Thrillers",3.5,37.19,59392000,FALSE
+s958,TV Show,Synthetic Title 958,,Brad Pitt,Canada,42340,1997,TV-PG,8 Seasons,"International TV Shows, TV Dramas",2.3,73.67,36531000,FALSE
+s959,TV Show,Synthetic Title 959,Martin Scorsese,,United States,45237,2023,PG-13,3 Seasons,Comedies,1.1,95.21,75457000,FALSE
+s960,tv show,Synthetic Title 960,Greta Gerwig,,France,42435,2005,NR,2 Seasons,"International TV Shows, TV Dramas",3.3,22.06,23146000,FALSE
+s961,movie ,Synthetic Title 961,Ava DuVernay,"Morgan Freeman, Scarlett Johansson",South Korea,"May 30, 2015",1990,TV-14,139 min,"Horror Movies, Thrillers",8.4,93.14,96137000,TRUE
+s962,Movie,Synthetic Title 962,Steven Spielberg,"Leonardo DiCaprio, Viola Davis",Japan,44889,2006,TV-14,80mins,Action & Adventure,5.7,7.57,52815000,TRUE
+s963,movie ,Synthetic Title 963,Ava DuVernay,"Zendaya, Viola Davis, Leonardo DiCaprio",Canada,42850,1997,R,173mins,Documentaries,1.8,19.5,12923000,TRUE
+s964,tv show,Synthetic Title 964,Ava DuVernay,"Tom Hanks, Brad Pitt, Zendaya",United States,"March 15, 2017",1999,TV-MA,5 Seasons,"Horror Movies, Thrillers",5.1,96.65,99123000,FALSE
+s965,MOVIE,Synthetic Title 965,Bong Joon Ho,"Leonardo DiCaprio, Morgan Freeman, Zendaya",India,44797,1993,TV-14,148 min,Crime TV Shows,8,68.64,82590000,TRUE
+s966,TV Show,Synthetic Title 966,Bong Joon Ho,Viola Davis,"United States, Canada","October 17, 2017",1999,R,9 Seasons,Crime TV Shows,3.6,63.99,9418000,FALSE
+s967,TV Show,Synthetic Title 967,Steven Spielberg,"Scarlett Johansson, Morgan Freeman, Zendaya",France,44147,1997,TV-14,4 S,"International TV Shows, TV Dramas",1.5,15.25,89961000,TRUE
+s968,TV Show,Synthetic Title 968,Greta Gerwig,"Leonardo DiCaprio, Morgan Freeman",France,"March 22, 2018",2020,TV-14,6 S,Comedies,7.8,136.73,48750000,TRUE
+s969,Movie,Synthetic Title 969,Steven Spielberg,"Brad Pitt, Scarlett Johansson, Morgan Freeman",India,"July 31, 2023",2003,NR,116 min,"International TV Shows, TV Dramas",3.9,142.07,60894000,TRUE
+s970,TV Show,Synthetic Title 970,Bong Joon Ho,"Leonardo DiCaprio, Viola Davis",South Korea,"October 26, 2015",1990,TV-MA,7 Seasons,Action & Adventure,2.3,46.78,71251000,TRUE
+s971,tv show,Synthetic Title 971,Steven Spielberg,"Scarlett Johansson, Tom Hanks",United Kingdom,42818,1992,TV-PG,4 S,Crime TV Shows,9.1,44.06,75560000,FALSE
+s972,tv show,Synthetic Title 972,,"Brad Pitt, Scarlett Johansson",Japan,43018,1995,TV-MA,6 Seasons,Documentaries,8.4,61.54,97260000,FALSE
+s973,TV Show,Synthetic Title 973,Christopher Nolan,"Brad Pitt, Zendaya",United Kingdom,44480,2011,PG-13,6 Seasons,Crime TV Shows,1.9,88.55,81679000,FALSE
+s974,TV Show,Synthetic Title 974,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Brad Pitt",South Korea,45215,2014,TV-MA,8 S,"International TV Shows, TV Dramas",999,88.39,97328000,TRUE
+s975,movie ,Synthetic Title 975,Christopher Nolan,"Tom Hanks, Zendaya",France,42287,2006,NR,93 min,Action & Adventure,7.7,135.15,9105000,FALSE
+s976,MOVIE,Synthetic Title 976,Steven Spielberg,"Viola Davis, Leonardo DiCaprio",Japan,"February 19, 2019",2019,PG-13,159mins,"Horror Movies, Thrillers",4.2,15.82,7892000,TRUE
+s977,MOVIE,Synthetic Title 977,,"Viola Davis, Tom Hanks",India,44757,2006,TV-PG,74 m,"Horror Movies, Thrillers",3.2,89.4,55587000,FALSE
+s978,MOVIE,Synthetic Title 978,Greta Gerwig,"Brad Pitt, Tom Hanks, Morgan Freeman",Canada,43949,2008,TV-MA,171mins,Action & Adventure,999,6.77,10367000,TRUE
+s979,Movie,Synthetic Title 979,Steven Spielberg,Tom Hanks,United States,44049,2021,NR,96 m,"Horror Movies, Thrillers",7.8,41.73,70695000,TRUE
+s980,MOVIE,Synthetic Title 980,Bong Joon Ho,Tom Hanks,India,"November 02, 2022",2007,TV-MA,66 min,Crime TV Shows,6.9,104.23,90221000,FALSE
+s981,Movie,Synthetic Title 981,Ava DuVernay,Viola Davis,Japan,43867,2017,R,131mins,Crime TV Shows,3.4,135.03,85131000,FALSE
+s982,Movie,Synthetic Title 982,Bong Joon Ho,"Brad Pitt, Morgan Freeman",Canada,"August 24, 2023",2008,NR,179 m,Action & Adventure,1.7,77.69,72723000,TRUE
+s983,Movie,Synthetic Title 983,Martin Scorsese,Morgan Freeman,United States,44941,2007,NR,166 min,Comedies,9.8,46.59,18461000,FALSE
+s984,TV Show,Synthetic Title 984,,"Scarlett Johansson, Zendaya",South Korea,"March 08, 2019",2015,TV-MA,5 Seasons,Comedies,4.2,13.2,43303000,TRUE
+s985,tv show,Synthetic Title 985,Bong Joon Ho,"Morgan Freeman, Leonardo DiCaprio",United States,42193,2006,NR,9 Seasons,Action & Adventure,8.6,149.16,13107000,FALSE
+s986,MOVIE,Synthetic Title 986,,Scarlett Johansson,India,44337,2021,NR,85 m,Crime TV Shows,3,65.87,25450000,FALSE
+s987,tv show,Synthetic Title 987,Bong Joon Ho,"Viola Davis, Brad Pitt",France,44538,2008,NR,7 S,Crime TV Shows,5.2,19.09,79132000,TRUE
+s988,movie ,Synthetic Title 988,,Viola Davis,France,"November 03, 2017",2023,PG-13,178 m,Documentaries,2.6,93.37,76436000,FALSE
+s989,tv show,Synthetic Title 989,Martin Scorsese,"Viola Davis, Leonardo DiCaprio, Brad Pitt",France,44808,1994,R,10 S,Documentaries,2.4,11.19,40345000,TRUE
+s990,TV Show,Synthetic Title 990,Christopher Nolan,Brad Pitt,United States,43188,1990,PG-13,7 Seasons,"International TV Shows, TV Dramas",8.7,93.88,62813000,TRUE
+s991,tv show,Synthetic Title 991,Greta Gerwig,"Morgan Freeman, Viola Davis, Brad Pitt",France,"July 04, 2021",2009,R,1 S,Comedies,2.8,21.08,76107000,FALSE
+s992,MOVIE,Synthetic Title 992,Ava DuVernay,"Zendaya, Leonardo DiCaprio, Scarlett Johansson",India,44589,2018,TV-PG,167 m,Crime TV Shows,6.9,50.24,82453000,FALSE
+s993,MOVIE,Synthetic Title 993,Ava DuVernay,,United States,42284,2009,TV-14,81 m,Documentaries,7.1,83.69,47997000,FALSE
+s994,tv show,Synthetic Title 994,Steven Spielberg,"Scarlett Johansson, Brad Pitt, Zendaya",United States,"March 12, 2017",1993,TV-PG,7 Seasons,Action & Adventure,9.4,133.36,42997000,TRUE
+s995,TV Show,Synthetic Title 995,Bong Joon Ho,"Brad Pitt, Morgan Freeman",India,43279,2020,R,10 Seasons,Action & Adventure,7.3,108.03,39260000,TRUE
+s996,TV Show,Synthetic Title 996,Bong Joon Ho,,United States,"January 02, 2018",2016,TV-PG,7 S,"International TV Shows, TV Dramas",8.1,103.39,87178000,FALSE
+s997,Movie,Synthetic Title 997,,"Zendaya, Morgan Freeman, Viola Davis","United States, Canada","July 14, 2017",2020,TV-MA,125 min,Action & Adventure,6.5,128.29,98933000,TRUE
+s998,Movie,Synthetic Title 998,,"Morgan Freeman, Zendaya",India,42132,2023,TV-14,123 min,"Horror Movies, Thrillers",5.3,100.82,90764000,TRUE
+s999,TV Show,Synthetic Title 999,Christopher Nolan,"Viola Davis, Morgan Freeman, Tom Hanks","United States, Canada",43207,2018,TV-MA,1 S,"Horror Movies, Thrillers",4.1,70.73,31152000,FALSE
+s1000,MOVIE,Synthetic Title 1000,Greta Gerwig,"Viola Davis, Morgan Freeman, Scarlett Johansson",France,44036,2014,TV-MA,116 m,"International TV Shows, TV Dramas",6.6,114.73,4242000,TRUE
